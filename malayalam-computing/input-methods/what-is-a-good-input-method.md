@@ -44,7 +44,7 @@ In general, these keyboards also provide flexibility to type anything as long as
 
 The popularity of transliteration is not limited to Indian languages. For example, a widely used input method in Chinese, [Pinyin](https://en.wikipedia.org/wiki/Pinyin) is a transliteration based input method.
 
-![Typing in Chinese using pinyin](../../.gitbook/assets/image%20%2810%29.png)
+![Typing in Chinese using pinyin](../../.gitbook/assets/image%20%2811%29.png)
 
 #### Probabilistic keyboards
 
@@ -54,9 +54,9 @@ I called it probabilistic because they give you suggestions about what to type a
 
 [Varnam Input method](https://www.varnamproject.com), Google input tool are some examples.
 
-![ Varnam Input method](../../.gitbook/assets/image%20%285%29.png)
+![ Varnam Input method](../../.gitbook/assets/image%20%286%29.png)
 
-![ Google Input tool](../../.gitbook/assets/image%20%289%29.png)
+![ Google Input tool](../../.gitbook/assets/image%20%2810%29.png)
 
 Since predicting what the user meant require longer sequences, these input methods are word translitrations. That means, user types approximate transliteration of a word, and then the input method offers suggestions. The aspect of "no learning" comes with the cost that, the input method "dictates" what you can type. If you want to literally input something that the system does not know, you are at loss. Similarly, the usual editing practices like deleting few characters using backspace and continuing there is painful because, what you continue is considered as a new word.
 

@@ -5,7 +5,9 @@
 
 ## Malayalam Computing
 
-* [Unicode](malayalam-computing/unicode.md)
+* [Unicode](malayalam-computing/unicode/README.md)
+  * [Syllable](malayalam-computing/unicode/syllable.md)
+  * [Conjunct](malayalam-computing/unicode/conjunct.md)
 * [Input methods](malayalam-computing/input-methods/README.md)
   * [Inscript](malayalam-computing/input-methods/inscript.md)
   * [Swanalekha](malayalam-computing/input-methods/swanalekha.md)
@@ -21,6 +23,8 @@
   * [Nature of Malayalam spelling mistakes](spellcheck/nature-of-malayalam-spelling-mistakes.md)
   * [Morphology analyser based approach](spellcheck/morphology-analyser-based-approach.md)
 * [Hyphenation](hyphenation.md)
+* [Typesetting](typesetting.md)
+* [XeTeX](xetex.md)
 * [Speech Recognition](speech-recognition.md)
 * [Speech Synthesis](speech-synthesis.md)
 * [Fonts](fonts/README.md)
