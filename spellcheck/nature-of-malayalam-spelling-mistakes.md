@@ -18,3 +18,7 @@ Because of this, the spelling mistakes that is resulted by four edit  operations
 I must add that the above classification is not based on a systematic  study of any test data that I can share. Ideally, this classification  should done with real sample of Malayalam written on paper and computer.  It should be then manually checked for spelling mistakes, list down the  mistakes and analyse the patterns. This exercise would be very  beneficial for spellcheck research. In my case, even since I released my  word list based spellchecker, noticing spelling errors in  internet\(social media, mainly\) has been my obsession. Sometimes I also  tried to point out spelling mistakes to authors and that did not give  much pleasant experience to me. The above list is based on my observation from such patterns.
 {% endhint %}
 
+{% hint style="info" %}
+The common Malayalam spelling mistakes and confusables were presented in great depth by Renowned linguist and author [Panmana Ramachandran Nair](https://panmana.com/) in his books  ‘തെറ്റില്ലാത്ത മലയാളം’, ‘തെറ്റും ശരിയും’, ‘ശുദ്ധ മലയാളം’ and ‘നല്ല മലയാളം’.
+{% endhint %}
+

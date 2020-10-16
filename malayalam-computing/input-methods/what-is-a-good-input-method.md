@@ -26,19 +26,7 @@ Keyboards remains the most accurate and robust ways to input. Once practiced, th
 
 There is a misconception that one should use a government prescribed official keyboard for typing in Malayalam. First of all, there is no such official prescription.
 
-Historically, for Indian languages, [InScript](https://en.wikipedia.org/wiki/InScript_keyboard) keyboard was designed as a layout that can be directly mapped to the available keys in the keyboard. The Inscript standard went through a revision in 2010 to accommodate more characters that were added later to unicode and also to fix several usability issues and bugs. It also aimed to add Rupee symbol\(₹\) to the keyboard. But this revision, known as [Enhanced InpScript specification](http://malayalam.kerala.gov.in/images/8/80/Qwerty_enhancedinscriptkeyboardlayout.pdf) had several issues for Malayalam, and [we pointed out them to CDAC](https://wiki.smc.org.in/CDAC-Inscript-Critique) who were designing it. Mainly it broke the backward compatibility with previous version. Remember that, by 2010, students in Kerala schools started learning Inscript. So it raised the issue of relearning the changed key positions. As more characters were added to unicode Malayalam codeblock, to accommodate some of them, a third layer was introduced in Inscript Malayalam.
-
-According to TDIL, the layout of inscipt is chosen for [the following rationale](http://www.tdil-dc.in/index.php?option=com_vertical&parentid=12&lang=en): "This layout uses the standard QWERTY 101 keyboard. The mapping of the characters is such that it remains common for all the Indian languages \(written left to right\). This is because of the fact that the basic character set of the Indian languages is common. The vowels are divided into long and short vowels and the consonants are divided into vargs. The INSCRIPT layout takes advantage of these facts and thus the organization is simple. Due to the phonetic nature of the keyboard, a person who knows typing in one Indian script can type in any other Indian script. The logical structure allows ease in learning. In the Inscript keyboard layout, all the vowels are placed on the left side of the keyboard layout and the consonants, on the right side. The placement is such that the characters of one varg are split over two keys. The splitting of the word into keystrokes is based on the phonetic spelling of the word. The sequence required for typing a word is same as the sequence in which the characters of the word are pronounced."
-
-![](/wp-content/uploads/2020/09/InscriptForMalayalam.png) Malayalam Inscript old version layout
-
-![](/wp-content/uploads/2020/09/MalayalamInscript2.png) Malayalam Inscript enhanced layout with 3 layers
-
-CDAC did not finalize or release this version officially till 2016. Some operating systems started adding this input method specification since support for Rupee sign was important. In 2016, Enhanced Inscript became BIS [IS 16350:2016](https://www.services.bis.gov.in:8071/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=MjIxOTY%3D) standard.
-
-![](/wp-content/uploads/2020/09/input_sources_gnome.png) Input method selection screen in Ubuntu.
-
-Because of the quasi-official status of Inscript, it is taught as part of Malayalam typing training, but some teach old version of Inscript, some teach new version and complaints about key position change is common. The usability issues and learning effort makes it less attractive. Occassionally I see people customizing the key layout\(Example: [Peruma](https://sourceforge.net/projects/peruma/) -A Malayalam Inscript Keyboard for Windows\). Interestingly, the customized keyboards are called with same name Inscript to add more confusion.
+{% page-ref page="inscript.md" %}
 
 **Phonetic keyboards**
 
@@ -56,7 +44,7 @@ In general, these keyboards also provide flexibility to type anything as long as
 
 The popularity of transliteration is not limited to Indian languages. For example, a widely used input method in Chinese, [Pinyin](https://en.wikipedia.org/wiki/Pinyin) is a transliteration based input method.
 
-![Typing in Chinese using pinyin](/wp-content/uploads/2020/09/pinyin.png)
+![Typing in Chinese using pinyin](../../.gitbook/assets/image%20%289%29.png)
 
 #### Probabilistic keyboards
 
@@ -66,9 +54,9 @@ I called it probabilistic because they give you suggestions about what to type a
 
 [Varnam Input method](https://www.varnamproject.com), Google input tool are some examples.
 
-![](https://www.varnamproject.com/images/main.gif) Varnam Input method
+![ Varnam Input method](../../.gitbook/assets/image%20%284%29.png)
 
-![](/wp-content/uploads/2020/09/google-input-tool.png) Google Input tool
+![ Google Input tool](../../.gitbook/assets/image%20%288%29.png)
 
 Since predicting what the user meant require longer sequences, these input methods are word translitrations. That means, user types approximate transliteration of a word, and then the input method offers suggestions. The aspect of "no learning" comes with the cost that, the input method "dictates" what you can type. If you want to literally input something that the system does not know, you are at loss. Similarly, the usual editing practices like deleting few characters using backspace and continuing there is painful because, what you continue is considered as a new word.
 

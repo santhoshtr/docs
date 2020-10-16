@@ -19,11 +19,15 @@ How do you determine which is the “correct” or “standard” way of  writin
 
 I did not want to end up in that deadlock. I decided to be liberal  about the lexicon. If people are using some words commonly, they are  valid words the project need to recognize as much as possible. That is  the very liberal definition I have. I leave the standardization  discussion to linguists who care about it.
 
-![The news report from Mathrubhumi daily in 2007 about my old spelling checker](../.gitbook/assets/image.png)
+![The news report from Mathrubhumi daily in 2007 about my old spelling checker](../.gitbook/assets/image%20%286%29.png)
 
 Back in 2007, when I developed the old Malayalam spellchecker, these  debates came up.  Dr. P Somanathan, who helps me a lot now a days with  this project, wrote about the issue of Malayalam spelling  inconsistencies: “[ചരിത്രത്തെ വീണ്ടെടുക്കുക:](http://www.chintha.com/node/3003)” and “[വേണം നമുക്ക് ഏകീകൃതമായ ഒരെഴുത്തുരീതി](http://chintha.com/node/2967)“.
 
 ### Context sensitive spellchecking <a id="context-sensitive-spellchecking"></a>
 
 Usually the spellchecking and suggestion are done at one word at a time. But if we know the context of the word, the spellchecking will be further useful. The context is usually the words before and after the word. An example from English is “I am in Engineer”. Here the word “in” is a correct word, but with in the context, it is wrong. To mark the word “in” wrong, and provide ‘an’ as suggestion, one approach is ngram model of part of speech for the language. In simple words, what kind of word can appear in between a known kind of words. If we build this model for a language, that will surely tell that the a locative POS “in” before Engineer is rare or not seen before.
+
+{% hint style="info" %}
+_Improving Finite-State Spell-Checker Suggestions with Part of Speech N-Grams_ Tommi A Pirinen and Miikka Silfverberg and Krister Lindén \[[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.302.9371&rep=rep1&type=pdf)\] – This paper discuss the context sensitive spellchecker approach.
+{% endhint %}
 

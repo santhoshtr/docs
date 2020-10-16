@@ -4,7 +4,10 @@
 
 ## Malayalam Computing
 
+* [Unicode](malayalam-computing/unicode.md)
 * [Input methods](malayalam-computing/input-methods/README.md)
+  * [Inscript](malayalam-computing/input-methods/inscript.md)
+  * [Swanalekha](malayalam-computing/input-methods/swanalekha.md)
   * [Handwriting Recognition](malayalam-computing/input-methods/handwriting-recognition/README.md)
     * [Procrustes Analysis](malayalam-computing/input-methods/handwriting-recognition/procrustes-analysis.md)
   * [Proprietory Input Methods](malayalam-computing/input-methods/proprietory-input-methods.md)
