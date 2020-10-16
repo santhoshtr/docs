@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Santhosh Thottingal](self.md)
 
 ## Malayalam Computing
 
@@ -22,6 +23,14 @@
 * [Hyphenation](hyphenation.md)
 * [Speech Recognition](speech-recognition.md)
 * [Speech Synthesis](speech-synthesis.md)
-* [Fonts](fonts.md)
+* [Fonts](fonts/README.md)
+  * [Customize Malayalam fonts in Linux](fonts/customize-malayalam-fonts-in-linux.md)
 * [Morphology Analysis](morphology-analysis.md)
+* [Collation](collation.md)
+
+## Language Engineering
+
+## Knowledge Representation
+
+* [Introduction](knowledge-representation/introduction.md)
 
