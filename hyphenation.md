@@ -1,6 +1,6 @@
 # Hyphenation
 
-**What is Hiphenation?**
+## **What is Hiphenation?**
 
 Hyphenation is the process inserting hyphens in between the syllables of a word so that when the text is [justified](http://en.wikipedia.org/wiki/Justification_%28typesetting%29), maximum space is utilized.
 
@@ -8,7 +8,7 @@ Hiphenation is an important feature that DTP softwares provide. For Indian langu
 
 Hiphenation is also requred in many other places. Actually it is required where ever we ‘justify’ a block of text in openoffice or any wordprocessors. Same is the case of webpages. If we justify a block of text in ml\_IN, let is see what is happening now
 
-![](http://pics.livejournal.com/santhoshtr/pic/0000wd6p)
+![](.gitbook/assets/image%20%284%29.png)
 
 Note the long gaps between words. This is a screenshot taken from firefox. The default hiphenation just breaking the lines in space characters. And no doubt that it makes the pages ugly. The problem becomes worse if the length of the word is more and column width is less.
 

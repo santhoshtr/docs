@@ -6,7 +6,7 @@ According to TDIL, the layout of inscipt is chosen for [the following rationale]
 
 ![ Malayalam Inscript old version layout](../../.gitbook/assets/image%20%281%29.png)
 
-![ Malayalam Inscript enhanced layout with 3 layers](../../.gitbook/assets/image%20%289%29.png)
+![ Malayalam Inscript enhanced layout with 3 layers](../../.gitbook/assets/image%20%2810%29.png)
 
 CDAC did not finalize or release this version officially till 2016. Some operating systems started adding this input method specification since support for Rupee sign was important. In 2016, Enhanced Inscript became BIS [IS 16350:2016](https://www.services.bis.gov.in:8071/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=MjIxOTY%3D) standard.
 

@@ -2,5 +2,5 @@
 
 
 
-![ Swanalekha transliteration key mapping](../../.gitbook/assets/image%20%284%29.png)
+![ Swanalekha transliteration key mapping](../../.gitbook/assets/image%20%285%29.png)
 
