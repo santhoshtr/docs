@@ -5,5 +5,17 @@
 ## Malayalam Computing
 
 * [Input methods](malayalam-computing/input-methods/README.md)
+  * [Handwriting Recognition](malayalam-computing/input-methods/handwriting-recognition/README.md)
+    * [Procrustes Analysis](malayalam-computing/input-methods/handwriting-recognition/procrustes-analysis.md)
+  * [Proprietory Input Methods](malayalam-computing/input-methods/proprietory-input-methods.md)
   * [What is a good input method?](malayalam-computing/input-methods/what-is-a-good-input-method.md)
+
+---
+
+* [Spellcheck](spellcheck.md)
+* [Hyphenation](hyphenation.md)
+* [Speech Recognition](speech-recognition.md)
+* [Speech Synthesis](speech-synthesis.md)
+* [Fonts](fonts.md)
+* [Morphology Analysis](morphology-analysis.md)
 
