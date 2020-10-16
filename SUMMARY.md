@@ -12,7 +12,10 @@
 
 ---
 
-* [Spellcheck](spellcheck.md)
+* [Spellcheck](spellcheck/README.md)
+  * [Dictionary based approach](spellcheck/dictionary-based-approach.md)
+  * [Nature of Malayalam spelling mistakes](spellcheck/nature-of-malayalam-spelling-mistakes.md)
+  * [Morphology analyser based approach](spellcheck/morphology-analyser-based-approach.md)
 * [Hyphenation](hyphenation.md)
 * [Speech Recognition](speech-recognition.md)
 * [Speech Synthesis](speech-synthesis.md)
