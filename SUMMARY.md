@@ -37,6 +37,7 @@
   * [Customize Malayalam fonts in Linux](fonts/customize-malayalam-fonts-in-linux.md)
 * [Morphology Analysis](morphology-analysis.md)
 * [Collation](collation.md)
+* [Swathanthra Malayalam Computing](swathanthra-malayalam-computing.md)
 
 ## Language Engineering
 
