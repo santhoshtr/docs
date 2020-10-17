@@ -6,21 +6,23 @@ I am a language computing professional and a typeface designer.
 
 I lead various language computing projects at [Swathanthra Malayalam Computing.](http://smc.org.in) Many of my works on Malayalam computing enable millions of Malayalam users on their computers or phones. I maintain a number of free software projects related to Indic language computing too.
 
-I have done significant contributions to [Malayalam digital typography.](fonts/) I have designed two popular Malayalam typefaces named Chilanka and Manjari. Also maintains a number of other Malayalam unicode fonts. You can see all of these fonts in [SMC website](https://smc.org.in/fonts/)
+I have done significant contributions to [Malayalam digital typography.](fonts/) I have designed two popular Malayalam typefaces named Chilanka and Manjari. Also maintains a number of other Malayalam unicode fonts. You can see all of these fonts in [SMC website](https://smc.org.in/fonts/). I also have [an article in Malayalam Wikipedia](https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8B%E0%B4%B7%E0%B5%8D_%E0%B4%A4%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BD)
 
 ## Awards
 
-For my contributions to Malayalam language, I was honored with [Maharshi Badrayan Vyas Samman by the Hon. President of India](https://thottingal.in/blog/2019/08/16/presidential-award/) in 2019.
+For my contributions to Malayalam language, I was honored with [Maharshi Badrayan Vyas Samman by the Hon. President of India](http://pib.gov.in/PressReleseDetailm.aspx?PRID=1582056) in 2019. Maharshi Badrayan Vyas Samman by the Hon. President of India is in recognition of my contributions in the field of Malayalam language. The award, instituted in 2016, is given to the substantial contributions to languages such as Sanskrit, Persian, Arabi, Pali and Classical Oriya, Classical Kannada, Classical Telugu, and Classical Malayalam. This is given to young scholars in the [age group of 30 to 45 years](https://mhrd.gov.in/sites/upload_files/mhrd/files/advertisment/presidential_awards_en.pdf). The Presidential award carries a certificate of honor, a memento and a cash prize of ₹1 lakh. These awards are announced once a year on the occasion of the Indian independence day on 15th August.
 
 I also received Mathrubhasha Puraskaram 2019 from the [Sree Sankaracharya University of Sanskrit](https://ssus.ac.in/), Kalady.
 
 ## Profession
 
+### Wikimedia Foundation
+
 Currently I am working as Principal Software Engineer at Language Engineering team of [Wikimedia Foundation](https://wikimediafoundation.org). I work on MediaWiki language support, internationalization, localization, input methods for large number of languages in which Wikipedia exist, fonts, translation tools etc. I live at Thiruvananthapuram, Kerala, India. I work remotely. I joined Wikimedia Foundation in 2011 September 1st.
 
 ### Infosys
 
-From 2015 July 10 to July 2011, I worked at [Infosys](https://en.wikipedia.org/wiki/Infosys). This was my first job after graduating from engineering college. I mainly worked on Java, J2EE based projects at Infosys for clients like [Airbus](https://en.wikipedia.org/wiki/Airbus), [Boeing](https://en.wikipedia.org/wiki/Boeing)\(for Boeing Dreamliner\), [General Motors](https://en.wikipedia.org/wiki/General_Motors), [Toyota](https://en.wikipedia.org/wiki/Toyota) and [Texas Instruments](https://en.wikipedia.org/wiki/Texas_Instruments). When I was resigning, I was working in technology architecture group as junior architect. 
+From 2015 July 10 to July 2011, I worked at [Infosys](https://en.wikipedia.org/wiki/Infosys). This was my first job after graduating from engineering college. I mainly worked on [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29), [J2EE](https://en.wikipedia.org/wiki/Jakarta_EE) based projects at Infosys for clients like [Airbus](https://en.wikipedia.org/wiki/Airbus), [Boeing](https://en.wikipedia.org/wiki/Boeing)\(for Boeing Dreamliner\), [General Motors](https://en.wikipedia.org/wiki/General_Motors), [Toyota](https://en.wikipedia.org/wiki/Toyota) and [Texas Instruments](https://en.wikipedia.org/wiki/Texas_Instruments). When I was resigning, I was working in technology architecture group as junior architect. 
 
 My role was mostly technology troubleshooting and helping senior architects. In the last 2 years at Infosys, I had a rather interesting role as extreme programmer where I was sent to various campuses to help engineering who are miserably failing to deliver on time. I was expected to replace a few engineers, learn the project in a day or two, finish the project as fast as possible. If you think that I need to work weekends and nights for this, you are mistaken :-\). I worked only 8 hours and only 5 days per week in this role. I visited Pune, Bangalore, Chennai offices for this kind of adventures.  I was also part of technical interview teams.
 
