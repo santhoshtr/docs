@@ -44,7 +44,7 @@ In general, these keyboards also provide flexibility to type anything as long as
 
 The popularity of transliteration is not limited to Indian languages. For example, a widely used input method in Chinese, [Pinyin](https://en.wikipedia.org/wiki/Pinyin) is a transliteration based input method.
 
-![Typing in Chinese using pinyin](../../.gitbook/assets/image%20%2812%29.png)
+![Typing in Chinese using pinyin](../../.gitbook/assets/image%20%2813%29.png)
 
 #### Probabilistic keyboards
 
