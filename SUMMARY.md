@@ -33,12 +33,9 @@
 * [Speech Recognition](malayalam-computing/speech-recognition.md)
 * [Speech Synthesis](malayalam-computing/speech-synthesis/README.md)
   * [Dhvani](malayalam-computing/speech-synthesis/dhvani.md)
-
----
-
-* [Morphology Analysis](morphology-analysis.md)
-* [Collation](collation.md)
-* [Swathanthra Malayalam Computing](swathanthra-malayalam-computing.md)
+* [Collation](malayalam-computing/collation.md)
+* [Morphology Analysis](malayalam-computing/morphology-analysis.md)
+* [Swathanthra Malayalam Computing](malayalam-computing/swathanthra-malayalam-computing.md)
 
 ## Language Engineering
 
