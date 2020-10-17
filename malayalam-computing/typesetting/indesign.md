@@ -18,21 +18,21 @@ Indesign CC 2018 comes with Hunspell hyphenation dictionaries. These hyphenation
 
 From menu Edit-&gt; Preferences-&gt;Dictionary, set Language and Hyphenation as “Hunspell”
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 Create a text frame and add content to it. Make sure that the composer is set as Adobe World-Ready paragraph composer. You can access it from Paragraph settings as shown below. Without this settings, the Indic text won’t render correctly.
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 Tick the “Hyphenation” from the paragraph settings. Select an appropriate font for the content. Choose the language of the content as Malayalam or other Indic language you are working on. See screenshot below. Justify the content.
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 The content will get automatically hyphenated. If you resize the column width or insert more content, text will get automatically hyphenated.
 
 The exported PDF will look like:
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 You can see the hyphenation rules in Installation folder: C:\Program Files\Adobe\Adobe InDesign CC 2018\Resources\Dictionaries\LILO\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries
 

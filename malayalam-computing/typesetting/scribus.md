@@ -28,7 +28,7 @@ Navigate to `Windows -> Resources` in the menu bar. You will see a window as giv
 
 Scribus Resource Manager
 
-![Scribus resource manager](../.gitbook/assets/image%20%2811%29.png)
+![Scribus resource manager](../../.gitbook/assets/image%20%2811%29.png)
 
 ### How to use? <a id="how-to-use"></a>
 
@@ -38,11 +38,11 @@ Scribus Resource Manager
 * Set the text justified.
 * From menu Extras-&gt;Hyphenate text. Done.
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 
 
-![Hyphenated two column content](../.gitbook/assets/image%20%287%29.png)
+![Hyphenated two column content](../../.gitbook/assets/image%20%287%29.png)
 
 ### How does it work? <a id="how-does-it-work"></a>
 
