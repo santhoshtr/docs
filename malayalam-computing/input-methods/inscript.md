@@ -4,13 +4,13 @@ Historically, for Indian languages, [InScript](https://en.wikipedia.org/wiki/InS
 
 According to TDIL, the layout of inscipt is chosen for [the following rationale](http://www.tdil-dc.in/index.php?option=com_vertical&parentid=12&lang=en): "This layout uses the standard QWERTY 101 keyboard. The mapping of the characters is such that it remains common for all the Indian languages \(written left to right\). This is because of the fact that the basic character set of the Indian languages is common. The vowels are divided into long and short vowels and the consonants are divided into vargs. The INSCRIPT layout takes advantage of these facts and thus the organization is simple. Due to the phonetic nature of the keyboard, a person who knows typing in one Indian script can type in any other Indian script. The logical structure allows ease in learning. In the Inscript keyboard layout, all the vowels are placed on the left side of the keyboard layout and the consonants, on the right side. The placement is such that the characters of one varg are split over two keys. The splitting of the word into keystrokes is based on the phonetic spelling of the word. The sequence required for typing a word is same as the sequence in which the characters of the word are pronounced."
 
-![ Malayalam Inscript old version layout](../../.gitbook/assets/image%20%281%29.png)
+![ Malayalam Inscript old version layout](../../.gitbook/assets/image%20%283%29.png)
 
-![ Malayalam Inscript enhanced layout with 3 layers](../../.gitbook/assets/image%20%2810%29.png)
+![ Malayalam Inscript enhanced layout with 3 layers](../../.gitbook/assets/image%20%2816%29.png)
 
 CDAC did not finalize or release this version officially till 2016. Some operating systems started adding this input method specification since support for Rupee sign was important. In 2016, Enhanced Inscript became BIS [IS 16350:2016](https://www.services.bis.gov.in:8071/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=MjIxOTY%3D) standard.
 
-![ Input method selection screen in Ubuntu.](../../.gitbook/assets/image%20%283%29.png)
+![ Input method selection screen in Ubuntu.](../../.gitbook/assets/image%20%285%29.png)
 
 Because of the quasi-official status of Inscript, it is taught as part of Malayalam typing training, but some teach old version of Inscript, some teach new version and complaints about key position change is common. The usability issues and learning effort makes it less attractive. Occassionally I see people customizing the key layout\(Example: [Peruma](https://sourceforge.net/projects/peruma/) -A Malayalam Inscript Keyboard for Windows\). Interestingly, the customized keyboards are called with same name Inscript to add more confusion.
 

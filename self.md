@@ -2,7 +2,7 @@
 
 I am a language computing professional and a typeface designer.
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 
 I lead various language computing projects at [Swathanthra Malayalam Computing.](http://smc.org.in) Many of my works on Malayalam computing enable millions of Malayalam users on their computers or phones. I maintain a number of free software projects related to Indic language computing too.
 
