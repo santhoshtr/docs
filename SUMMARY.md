@@ -18,6 +18,7 @@
 
 ---
 
+* [Script Rendering](script-rendering.md)
 * [Spellcheck](spellcheck/README.md)
   * [Dictionary based approach](spellcheck/dictionary-based-approach.md)
   * [Nature of Malayalam spelling mistakes](spellcheck/nature-of-malayalam-spelling-mistakes.md)
