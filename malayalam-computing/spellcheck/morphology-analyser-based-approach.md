@@ -2,7 +2,7 @@
 
 To check if a word is valid, known, correctly spelled word, a simple look up using morphology analyser is enough. If the morphology analyser can parse the word, it is correctly spelled. Note that the word can be an agglutinated at arbitrary levels and inflected at same time.
 
-To provide spelling suggestions, [the FST based morphology analyser](../morphology-analysis.md) can be used. This is a three step process
+To provide spelling suggestions, [the FST based morphology analyser](../morphology-analysis/) can be used. This is a three step process
 
 1. Generate a list of candidate words from the query word. The words in this list may be incorrect too. The words are generated based on the patterns we defined based on the nature of spelling mistakes. We scan the query word for common patterns of errors and apply fix for that pattern. Since there dozens of patterns, we will have many candidate words.
 2. From the candidate list, find out the correctly spelled word using spellcheck method. This will result a very small number of words. These words are the probable replacements for the misspelled query word.
@@ -20,7 +20,7 @@ Compared to the finite set word list, the FST based morphology analyser and gene
 
 As part of the Morphology analyser, the expansion of the lexicon is a never ending task. As the lexicon grows, the spellchecker improves automatically.
 
-{% page-ref page="../morphology-analysis.md" %}
+{% page-ref page="../morphology-analysis/" %}
 
 {% hint style="info" %}
 _Finite-State Spell-Checking with Weighted Language and Error_ _Models—Building and Evaluating Spell-Checkers with Wikipedia as Corpus_ Tommi A Pirinen, Krister Lindén \[[pdf](http://www.ling.helsinki.fi/~klinden/pubs/PirinenLrec2010.pdf)\] This paper outlines the usage of Finite state transducer technique to address the issue of infinite dictionary of morphologically rich languages. They use Finnish as the example language

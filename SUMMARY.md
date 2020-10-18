@@ -34,7 +34,12 @@
 * [Speech Synthesis](malayalam-computing/speech-synthesis/README.md)
   * [Dhvani](malayalam-computing/speech-synthesis/dhvani.md)
 * [Collation](malayalam-computing/collation.md)
-* [Morphology Analysis](malayalam-computing/morphology-analysis.md)
+* [Corpus](malayalam-computing/corpus.md)
+* [Morphology Analysis](malayalam-computing/morphology-analysis/README.md)
+  * [Part of speech tagging](malayalam-computing/morphology-analysis/part-of-speech-tagging.md)
+  * [Morphology complexity](malayalam-computing/morphology-analysis/morphology-complexity.md)
+* [Named Entity Recognition](malayalam-computing/named-entity-recognition.md)
+* [Machine Translation](malayalam-computing/machine-translation.md)
 * [Swathanthra Malayalam Computing](malayalam-computing/swathanthra-malayalam-computing.md)
 
 ## Notes
