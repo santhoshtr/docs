@@ -46,6 +46,7 @@
 ---
 
 * [Education](education/README.md)
+  * [Digital Education](education/digital-education.md)
   * [Remote Learning](education/remote-learning.md)
   * [Digital Literacy](education/digital-literacy/README.md)
     * [ഡിജിറ്റൽ സാക്ഷരതാ പദ്ധതി](education/digital-literacy/undefined.md)
