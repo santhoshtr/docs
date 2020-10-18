@@ -1,18 +1,18 @@
 # Hyphenation
 
-## **What is Hiphenation?**
+## **What is Hyphenation?**
 
 Hyphenation is the process inserting hyphens in between the syllables of a word so that when the text is [justified](http://en.wikipedia.org/wiki/Justification_%28typesetting%29), maximum space is utilized.
 
-Hiphenation is an important feature that DTP softwares provide. For Indian languages there is no good DTP softwares available. XeTex is the only choice to work with unicode and professional quality page layout. But xetex and DTP are not exactly same. Inkscape can be used as temporary solution. But only for small scale works. There is a project going on to add Harfbuzz backend to Scribus, the freedomware DTP package.
+Hyphenation is an important feature that DTP softwares provide. For Indian languages there is no good DTP softwares available. XeTex is the only choice to work with unicode and professional quality page layout. But xetex and DTP are not exactly same. Inkscape can be used as temporary solution. But only for small scale works. There is a project going on to add Harfbuzz backend to Scribus, the freedomware DTP package.
 
-Hiphenation is also requred in many other places. Actually it is required where ever we ‘justify’ a block of text in openoffice or any wordprocessors. Same is the case of webpages. If we justify a block of text in ml\_IN, let is see what is happening now
+Hyphenation is also requred in many other places. Actually it is required where ever we ‘justify’ a block of text in openoffice or any wordprocessors. Same is the case of webpages. If we justify a block of text in ml\_IN, let is see what is happening now
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
-Note the long gaps between words. This is a screenshot taken from firefox. The default hiphenation just breaking the lines in space characters. And no doubt that it makes the pages ugly. The problem becomes worse if the length of the word is more and column width is less.
+Note the long gaps between words. This is a screenshot taken from firefox. The default hyphenation just breaking the lines in space characters. And no doubt that it makes the pages ugly. The problem becomes worse if the length of the word is more and column width is less.
 
-**Algorithm For Hiphenation**
+**Algorithm For hyphenation**
 
 The basic for all hyphenation algorithms is the hyphenation algorithm, designed by Frank Liang in 1983, which is adopted in TeX. [Wikipedia artcle of TeX](http://en.wikipedia.org/wiki/TeX#Hyphenation_and_justification) explain this with very simple example
 
