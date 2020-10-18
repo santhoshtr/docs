@@ -30,6 +30,10 @@ Another interesting project I worked there was for [Texas Instruments](https://e
 
 For a short duration in 2010, I worked for [Apple](https://en.wikipedia.org/wiki/Apple_Inc.). This was another assignment to help a team missing their deadlines to deliver. I visited Bangalore campus for three months. For that short period of time, I owned the email santhosh at apple.com :-\) 
 
+## Education
+
+I studied in state public schools near my village at Palakkad. After 10th standard, I went to [MES Kalladi College](https://en.wikipedia.org/wiki/MES_Kalladi_College), Mannarkkad for Pre-Degree. I did my Engineering\(Computer Science\) at [NSS College of Engineering, Palakkad](https://en.wikipedia.org/wiki/NSS_College_of_Engineering) under [University of Calicut](https://en.wikipedia.org/wiki/University_of_Calicut). Since I was from an economically backward family, I never had to pay education fee, even for my Engineering degree, thanks to [Kerala goverments scheme to support students](http://bcdd.kerala.gov.in/schemes/educational-schemes/educational-assistance-under-kpcr/).
+
 ## Contact
 
 * 📧 santhosh dot thottingal at  gmail dot com

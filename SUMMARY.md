@@ -42,8 +42,10 @@
 * [Machine Translation](malayalam-computing/machine-translation.md)
 * [Swathanthra Malayalam Computing](malayalam-computing/swathanthra-malayalam-computing.md)
 
-## Notes
+---
 
-* [Generative art](notes/generative-art.md)
-* [Knowledge Representation](notes/knowledge-representation.md)
+* [Generative Graphics](generative-graphics/README.md)
+  * [Drawbot](generative-graphics/drawbot.md)
+  * [Matrix Digital Rain](generative-graphics/generative-art.md)
+* [Knowledge Representation](knowledge-representation.md)
 
