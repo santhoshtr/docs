@@ -8,19 +8,19 @@ I was thorougly impressed by the gl matrix  screensaver written by [Jamie Zawins
 
 I even attempted to write this for all Indian languages. The old RPM packages with the changed code is available in [http://mirror.downloadvn.com/nongnu/smc/Screensaver/](http://mirror.downloadvn.com/nongnu/smc/Screensaver/) but may not be usable now.
 
-![Gnome Screensaver settings showing Hindi glmatrix preview](../.gitbook/assets/image%20%2822%29.png)
+![Gnome Screensaver settings showing Hindi glmatrix preview](../.gitbook/assets/image%20%2824%29.png)
 
 We used to show this screensaver in free and opensource events just to catch attentions. Some of my friends asked if this changed code can be upstreamed. I asked JWZ and he replied this to me. And he was ofcourse right.
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 A few years later, I rewrote [the same in Javascript](https://thottingal.in/projects/js/matrix.html) inspired by [this](http://timelessname.com/sandbox/matrix.html) and [this](http://thecodeplayer.com/walkthrough/matrix-rain-animation-html5-canvas-javascript) works.
 
-![From https://thottingal.in/projects/js/matrix.html](../.gitbook/assets/image%20%2825%29.png)
+![From https://thottingal.in/projects/js/matrix.html](../.gitbook/assets/image%20%2832%29.png)
 
 Later, [Jishnu](https://j15h.nu/) prepared an android live wallpaper with the same concept. [അക്ഷരമഴ is an app available in Google playstore](https://play.google.com/store/apps/details?id=in.androidtweak.rain&hl=en_IN)\([Source code](https://gitlab.com/jishnu7/Akshara-Mazha)\)
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 ## 
 
