@@ -45,8 +45,10 @@
 
 ---
 
-* [Digital Literacy](digital-literacy/README.md)
-  * [ഡിജിറ്റൽ സാക്ഷരതാ പദ്ധതി](digital-literacy/undefined.md)
+* [Education](education/README.md)
+  * [Remote Learning](education/remote-learning.md)
+  * [Digital Literacy](education/digital-literacy/README.md)
+    * [ഡിജിറ്റൽ സാക്ഷരതാ പദ്ധതി](education/digital-literacy/undefined.md)
 * [Generative Graphics](generative-graphics/README.md)
   * [Drawbot](generative-graphics/drawbot.md)
   * [Matrix Digital Rain](generative-graphics/generative-art.md)
