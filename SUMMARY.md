@@ -37,9 +37,8 @@
 * [Morphology Analysis](malayalam-computing/morphology-analysis.md)
 * [Swathanthra Malayalam Computing](malayalam-computing/swathanthra-malayalam-computing.md)
 
-## Language Engineering
+## Notes
 
-## Knowledge Representation
-
-* [Introduction](knowledge-representation/introduction.md)
+* [Generative art](notes/generative-art.md)
+* [Knowledge Representation](notes/knowledge-representation.md)
 
