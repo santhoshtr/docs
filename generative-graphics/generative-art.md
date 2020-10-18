@@ -1,7 +1,5 @@
 # Matrix Digital Rain
 
-## 
-
 ## Matrix Digital Rain
 
 **Matrix digital rain**, **Matrix code** or sometimes **green rain**, is the computer code featured in [the Matrix series](https://en.wikipedia.org/wiki/The_Matrix_%28franchise%29). The falling green code is a way of representing the activity of the [virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) environment of the [Matrix](https://en.wikipedia.org/wiki/Matrix_%28fictional_universe%29) on screen.\([English Wikipedia](https://en.wikipedia.org/wiki/Matrix_digital_rain)\)
@@ -20,7 +18,7 @@ A few years later, I rewrote [the same in Javascript](https://thottingal.in/proj
 
 ![From https://thottingal.in/projects/js/matrix.html](../.gitbook/assets/image%20%2825%29.png)
 
-Later, [Jishu](https://j15h.nu/) prepared an android live wallpaper with the same concept. [അക്ഷരമഴ is an app available in Google playstore](https://play.google.com/store/apps/details?id=in.androidtweak.rain&hl=en_IN)\([Source code](https://gitlab.com/jishnu7/Akshara-Mazha)\)
+Later, [Jishnu](https://j15h.nu/) prepared an android live wallpaper with the same concept. [അക്ഷരമഴ is an app available in Google playstore](https://play.google.com/store/apps/details?id=in.androidtweak.rain&hl=en_IN)\([Source code](https://gitlab.com/jishnu7/Akshara-Mazha)\)
 
 ![](../.gitbook/assets/image%20%2823%29.png)
 
