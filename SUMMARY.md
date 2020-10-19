@@ -54,4 +54,7 @@
   * [Drawbot](generative-graphics/drawbot.md)
   * [Matrix Digital Rain](generative-graphics/generative-art.md)
 * [Knowledge Representation](knowledge-representation.md)
+* [Frontend technology](frontend-technology/README.md)
+  * [CSS](frontend-technology/css.md)
+  * [Vue](frontend-technology/vue.md)
 
