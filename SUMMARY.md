@@ -56,5 +56,6 @@
 * [Knowledge Representation](knowledge-representation.md)
 * [Frontend technology](frontend-technology/README.md)
   * [CSS](frontend-technology/css.md)
+  * [PWA](frontend-technology/pwa.md)
   * [Vue](frontend-technology/vue.md)
 
