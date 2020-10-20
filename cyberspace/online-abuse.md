@@ -5,7 +5,7 @@ description: What laws in India protect women and children against online abuse?
 # Online Abuse
 
 {% hint style="info" %}
-I copied this from a public interest letter prepared by **Adv Anupama Sripathi, Athira R Menon Priyanka Navle and Hrishikesh Bhaskaran**. I thank for them for this compilation.
+I copied this from a public interest letter prepared by **Adv Anupama Sripathi, Athira R Menon, Priyanka Navle and Hrishikesh Bhaskaran**. I thank them for this compilation.
 {% endhint %}
 
 ## What is online violence/online abuse? 

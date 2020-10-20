@@ -25,6 +25,7 @@
   * [Dictionary based approach](malayalam-computing/spellcheck/dictionary-based-approach.md)
   * [Nature of Malayalam spelling mistakes](malayalam-computing/spellcheck/nature-of-malayalam-spelling-mistakes.md)
   * [Morphology analyser based approach](malayalam-computing/spellcheck/morphology-analyser-based-approach.md)
+  * [Tools and services](malayalam-computing/spellcheck/tools-and-services.md)
 * [Hyphenation](malayalam-computing/hyphenation.md)
 * [Typesetting](malayalam-computing/typesetting/README.md)
   * [Scribus](malayalam-computing/typesetting/scribus.md)
