@@ -61,4 +61,6 @@
   * [CSS](frontend-technology/css.md)
   * [PWA](frontend-technology/pwa.md)
   * [Vue](frontend-technology/vue.md)
+* [Internet](internet/README.md)
+  * [Resilience](internet/resilience.md)
 
