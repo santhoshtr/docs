@@ -62,5 +62,8 @@
   * [PWA](frontend-technology/pwa.md)
   * [Vue](frontend-technology/vue.md)
 * [Internet](internet/README.md)
-  * [Resilience](internet/resilience.md)
+  * [Resilience](internet/resilience-1.md)
+  * [Decentralization](internet/resilience.md)
+* [Academic Research](academic-research/README.md)
+  * [Reproducible Research](academic-research/reproducible-research.md)
 
