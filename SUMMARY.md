@@ -41,6 +41,7 @@
   * [Morphology complexity](malayalam-computing/morphology-analysis/morphology-complexity.md)
 * [Named Entity Recognition](malayalam-computing/named-entity-recognition.md)
 * [Machine Translation](malayalam-computing/machine-translation.md)
+* [Neural Machine Translation](malayalam-computing/neural-machine-translation.md)
 * [Digitization](malayalam-computing/digitization.md)
 * [Swathanthra Malayalam Computing](malayalam-computing/swathanthra-malayalam-computing.md)
 
