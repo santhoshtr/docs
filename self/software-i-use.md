@@ -84,5 +84,16 @@ I primarily use [duckduckgo](https://duckduckgo.com/) as my search engine. Occas
 * Whatsapp - Not active in any group, but this is required for people to reach out me quickly including some immediate family members.
 * slack - All my Wikimedia foundation work related communication
 
+## Blog and Notes
+
+* [Hugo](https://gohugo.io) for blog
+* [Gitbook](https://gitbook.com) spaces for private notes and this knowledge space. My todo list is also with gitbook
+
+## Password management
+
+I use [pass](https://www.passwordstore.org/) for password management with GPG encrypted passwords sycned with a private gitlab repo. I use its Firefox extension too.
+
+
+
 
 
