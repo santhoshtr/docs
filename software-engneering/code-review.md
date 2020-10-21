@@ -4,7 +4,11 @@ description: My approach for code review
 
 # Code Review
 
-Code review is to help impove the code and there by improving the product. It is not an evaluation or judgement on the person who wrote the code. What is being reviewed is the code, not the person who write the code. Code review is not an exam that every commit need to be passed. Sometimes the reviewer and submitter will agree to address a few suggestion in future iteration than holding the commit in review forever.
+## General approach
+
+Code review is to help impove the code and there by improving the product. It is not an evaluation or judgement on the person who wrote the code. What is being reviewed is the code, not the person who write the code. Code review is not an exam that every commit need to be passed. Sometimes the reviewer and submitter will agree to address a few suggestion in future iteration than holding the commit in review forever.  
+  
+Don't do architecture review in PRs. If you're going to make architectural changes, do so in a lightweight design document and get approval there first.
 
 ### Ignore minor issues <a id="4-ignore-minor-issues"></a>
 
@@ -30,9 +34,14 @@ As programmers, we always see different methods of doing the same things. If a c
 
 ### Clarity on your comments <a id="6-clarity-on-your-comments"></a>
 
-For every comment that you make, make sure there is a clear action to be taken. It should be clear what you expect to happen. Just stating your opinion is not enough. If possible give code snippets. Then it becomes a team effort than a judging exercise. Every back and forth communication for clarification is time waste. If the code is related to a UI, try maximum to use screenshots and video snippets to illustrate the problem and explain what you expect.
+For every comment that you make, make sure there is a clear action to be taken. It should be clear what you expect to happen. Just stating your opinion is not enough. If possible give code snippets. If there are web resources that explain a concept better, please provide that. Then it becomes a team effort than a judging exercise. Every back and forth communication for clarification is time waste. If the code is related to a UI, try maximum to use screenshots and video snippets to illustrate the problem and explain what you expect.
 
 ### Be nice <a id="7-last-but-not-the-least-be-nice"></a>
 
 Be nice to the person who spent time to write the code you are reviewing. The code you are reviewing is written by another human being who has their own opinions, be considerate, don't push your ideology down his or her throat. Agree to disagree. If you think there is a better way to this, think about iterations and improving in multiple steps, rather than outright rejection of a work. 
+
+## References
+
+* [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) - Google Engineering practices
+* [How to and How not to, do Code Review](https://blog.j15h.nu/how-to-review-code/) - Jishnu Mohan
 
