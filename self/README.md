@@ -2,11 +2,11 @@
 
 I am a language computing professional and a typeface designer.
 
-![](.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 I lead various language computing projects at [Swathanthra Malayalam Computing.](http://smc.org.in) Many of my works on Malayalam computing enable millions of Malayalam users on their computers or phones. I maintain a number of free software projects related to Indic language computing too.
 
-I have done significant contributions to [Malayalam digital typography.](malayalam-computing/fonts/) I have designed two popular Malayalam typefaces named Chilanka and Manjari. Also maintains a number of other Malayalam unicode fonts. You can see all of these fonts in [SMC website](https://smc.org.in/fonts/). I also have [an article in Malayalam Wikipedia](https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8B%E0%B4%B7%E0%B5%8D_%E0%B4%A4%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BD)
+I have done significant contributions to [Malayalam digital typography.](../malayalam-computing/fonts/) I have designed two popular Malayalam typefaces named Chilanka and Manjari. Also maintains a number of other Malayalam unicode fonts. You can see all of these fonts in [SMC website](https://smc.org.in/fonts/). I also have [an article in Malayalam Wikipedia](https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8B%E0%B4%B7%E0%B5%8D_%E0%B4%A4%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BD)
 
 ## Awards
 

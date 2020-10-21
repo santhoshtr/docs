@@ -8,7 +8,7 @@ My native language is Malayalam. So you will see good amount of content in this 
 
 **But who am I? If you are curious, please read this brief self introduction:**
 
-{% page-ref page="self.md" %}
+{% page-ref page="self/" %}
 
 ## Digital garden 🌱 <a id="grow-your-own-digital-garden"></a>
 

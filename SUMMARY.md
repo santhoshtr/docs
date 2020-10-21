@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Santhosh Thottingal](self.md)
+* [Santhosh Thottingal](self/README.md)
+  * [കോഡ് ഇതുവരെ](self/undefined.md)
 
 ## Malayalam Computing
 
