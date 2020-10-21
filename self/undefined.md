@@ -6,7 +6,7 @@ description: The code I wrote so far...
 
 
 
-![All the code I wrote as per github contribution graph](../.gitbook/assets/image%20%2833%29.png)
+![All the code I wrote as per github contribution graph generated using https://github-contributions.now.sh/](../.gitbook/assets/image%20%2835%29.png)
 
 ഇതിലെ ഓരോ കള്ളിയും ഒരു ദിവസമാണ്. പച്ച നിറത്തിലുള്ള കള്ളിയുള്ള ദിവസങ്ങളിൽ കോഡ്, ബഗ്ഗ് റിപ്പോർട്ടുകൾ, മറ്റുള്ളവരുടെ കോഡ് റിവ്യൂ ചെയ്യൽ അങ്ങനെയെന്തെങ്കിലും രീതിയിലുള്ള പ്രവർത്തനം ചെയ്തുവെന്നർത്ഥം. ഇളം പച്ചയിൽ നിന്നും കടുംപച്ചയിലേക്ക് പോകുന്തോറും അതിന്റെ എണ്ണം കൂടുന്നു.
 
