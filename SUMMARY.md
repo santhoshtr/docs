@@ -68,5 +68,6 @@
   * [Resilience](internet/resilience-1.md)
   * [Decentralization](internet/resilience.md)
 * [Knowledge Representation](knowledge-representation.md)
-* [Software Engneering](software-engneering.md)
+* [Software Engneering](software-engneering/README.md)
+  * [Code Review](software-engneering/code-review.md)
 
