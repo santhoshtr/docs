@@ -3,6 +3,7 @@
 * [Welcome](README.md)
 * [Santhosh Thottingal](self/README.md)
   * [കോഡ് ഇതുവരെ](self/undefined.md)
+  * [Software I use](self/software-i-use.md)
 
 ## Malayalam Computing
 
