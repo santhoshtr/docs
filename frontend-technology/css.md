@@ -7,6 +7,7 @@
 * Learn flexbox using a game: [https://hostrider.com](https://hostrider.com)
 * [ A Complete Guide to Flexbox  ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Masonry Grid ](https://masonry.desandro.com/)
+* One line layouts - [https://web.dev/one-line-layouts/](https://web.dev/one-line-layouts/) - highly recommended
 
 ## Logical direction properties
 

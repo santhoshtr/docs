@@ -19,7 +19,12 @@ description: 'Software, tools, services I use'
 
 ### Online editors
 
-* [Codesandbox.io](https://codesandbox.io) - For sharing code samples that require framework support like Vue projects
+* [Codesandbox.io](https://codesandbox.io) - For sharing code samples that require framework support like Vue projects. An easy way to import a repo to CodeSandbox via URL is with GitHubBox.com. Append 'box' to your github.com URL in between 'hub' and '.com' and it will redirect to CodeSandbox. Here's an example:
+
+  Change the GitHub URL: [https://github.com/reduxjs/redux/tree/master/examples/todomvc](https://github.com/reduxjs/redux/tree/master/examples/todomvc).
+
+  To: [https://githubbox.com/reduxjs/redux/tree/master/examples/todomvc](https://githubbox.com/reduxjs/redux/tree/master/examples/todomvc)
+
 * [codepen.io](https://codepen.io/) - For quick code snippets and illustrations
 * Google doc - for collaborative document editing. Heavily used at work
 * [https://etherpad.org/](https://etherpad.org/) for quick collaborative notes. Mostly etherpad.wikimedia.org instance
@@ -79,14 +84,14 @@ I primarily use [duckduckgo](https://duckduckgo.com/) as my search engine. Occas
 ## Social media and Chat
 
 * [Twitter](https://twitter.com/santhoshtr/) - I use tweetdeck client in desktop
-* Facebook - I don't use mobile app or login from mobile. In laptop I access it using Firefox Facebook container. Now a days I check facebook in 10 mins or so maximum per day. Often ends up with various Malayalam computing related questions people ask in its chat.
+* Facebook - I don't use mobile app or login from mobile. In laptop I access it using [Firefox Facebook container](https://www.mozilla.org/en-US/firefox/facebookcontainer/). Now a days I check facebook in 10 mins or so maximum per day. Often ends up with various Malayalam computing related questions people ask in its chat.
 * Telegram - regularly use for family and friends. Also several foss community channels
 * Whatsapp - Not active in any group, but this is required for people to reach out me quickly including some immediate family members.
 * slack - All my Wikimedia foundation work related communication
 
 ## Blog and Notes
 
-* [Hugo](https://gohugo.io) for blog
+* [Hugo](https://gohugo.io) for [blog](https://thottingal.in/blog)
 * [Gitbook](https://gitbook.com) spaces for private notes and this knowledge space. My todo list is also with gitbook
 
 ## Password management
