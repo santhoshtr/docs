@@ -1,5 +1,9 @@
 # CSS
 
+## Styling
+
+Water.css : [A drop-in collection of CSS styles to make simple websites just a little nicer ](https://github.com/kognise/water.css)
+
 ## Grids
 
 * [Layoutit Grid – CSS Grids layouts made easy](https://grid.layoutit.com/)
