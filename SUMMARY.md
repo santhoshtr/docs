@@ -84,6 +84,8 @@
 * [Mathematics](mathematics.md)
 * [Politics](politics/README.md)
   * [Hatred, Hinduthwa, Nationalism](politics/hatred-hinduthwa-nationalism.md)
+* [Software Libraries](software-libraries/README.md)
+  * [Prosemirror](software-libraries/prosemirror.md)
 * [Software Engneering](software-engneering/README.md)
   * [Performance](software-engneering/performance.md)
   * [Code Review](software-engneering/code-review.md)
