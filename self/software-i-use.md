@@ -98,6 +98,12 @@ I primarily use [duckduckgo](https://duckduckgo.com/) as my search engine. Occas
 
 I use [pass](https://www.passwordstore.org/) for password management with GPG encrypted passwords sycned with a private gitlab repo. I use its Firefox extension too.
 
+## Digital wellbeing
+
+I use no-distraction mode in Android always. From 9AM to 5PM, I set focus mode in android - it disables many apps in the phone. At night I use the [bedtime mode in Android](https://android.gadgethacks.com/how-to/enable-bedtime-mode-your-android-device-0292856/), which makes the screen black and white, and disables all notification till earliest alarm set.
+
+In desktop I use night time color setting to warm up the screen color at sunset. I use the same setting at phone. Avoiding [blue light](https://www.cpap.com/blog/blue-light-and-sleep/) exposure after sunset [improves sleep quality](https://www.healthline.com/nutrition/block-blue-light-to-sleep-better#effects-of-blue-light).
+
 
 
 

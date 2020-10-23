@@ -1,4 +1,10 @@
-# Morphology complexity
+---
+description: Notes on various natural languages
+---
+
+# Languages
+
+Notes on various natural languages
 
 ## Finnish
 

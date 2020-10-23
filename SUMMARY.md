@@ -47,9 +47,11 @@
   * [Morphology complexity](malayalam-computing/morphology-analysis/morphology-complexity.md)
 * [Named Entity Recognition](malayalam-computing/named-entity-recognition.md)
 * [Machine Translation](malayalam-computing/machine-translation.md)
+* [Transliteration](malayalam-computing/transliteration.md)
 * [Neural Machine Translation](malayalam-computing/neural-machine-translation.md)
 * [Digitization](malayalam-computing/digitization.md)
 * [NLP](malayalam-computing/nlp.md)
+* [Natural Language Understanding](malayalam-computing/natural-language-understanding.md)
 * [Swathanthra Malayalam Computing](malayalam-computing/swathanthra-malayalam-computing.md)
 
 ---
@@ -78,7 +80,11 @@
   * [Resilience](internet/resilience-1.md)
   * [Decentralization](internet/resilience.md)
 * [Knowledge Representation](knowledge-representation.md)
+* [Languages](languages.md)
 * [Mathematics](mathematics.md)
+* [Politics](politics/README.md)
+  * [Hatred, Hinduthwa, Nationalism](politics/hatred-hinduthwa-nationalism.md)
 * [Software Engneering](software-engneering/README.md)
+  * [Performance](software-engneering/performance.md)
   * [Code Review](software-engneering/code-review.md)
 

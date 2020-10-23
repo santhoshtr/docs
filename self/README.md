@@ -20,6 +20,14 @@ I also received Mathrubhasha Puraskaram 2019 from the [Sree Sankaracharya Univer
 
 Currently I am working as Principal Software Engineer at Language Engineering team of [Wikimedia Foundation](https://wikimediafoundation.org). I work on MediaWiki language support, internationalization, localization, input methods for large number of languages in which Wikipedia exist, fonts, translation tools etc. I live at Thiruvananthapuram, Kerala, India. I work remotely. I joined Wikimedia Foundation in 2011 September 1st.
 
+As principal software engineer, my work is mostly in the following categories:
+
+* **Technology** - I review the code written by team members. Help them understanding the systems and projects. I help designing the architecture of the projects. Helps in technical decision making. . I also do coding for some of the critical architectural components. I help other teams in the organization by prividing consultation, reviews
+* **Product**: I help the team's product manager by giving inputs into decision, timelines, estimates. I provide creative concepts that can be incorporated into the product. I help writing documentation, status reports
+* **Project**: Faciliate the code to deploy life cycle by working with developers, test engineers, analytics and dev ops
+* **Team**: Mentoring, hiring interviews, sharing knowledge and helping self learning.
+* **External**: Opensource projects, interaction with peer organizations/companies, twitter, blogs
+
 ### Infosys
 
 From 2015 July 10 to July 2011, I worked at [Infosys](https://en.wikipedia.org/wiki/Infosys). This was my first job after graduating from engineering college. I mainly worked on [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29), [J2EE](https://en.wikipedia.org/wiki/Jakarta_EE) based projects at Infosys for clients like [Airbus](https://en.wikipedia.org/wiki/Airbus), [Boeing](https://en.wikipedia.org/wiki/Boeing)\(for Boeing Dreamliner\), [General Motors](https://en.wikipedia.org/wiki/General_Motors), [Toyota](https://en.wikipedia.org/wiki/Toyota) and [Texas Instruments](https://en.wikipedia.org/wiki/Texas_Instruments). When I was resigning, I was working in technology architecture group as junior architect. 
