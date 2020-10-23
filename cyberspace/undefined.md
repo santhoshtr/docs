@@ -2,6 +2,8 @@
 
 ## Police Act Section 118-A
 
+{% embed url="https://truecopythink.media/kerala-police-act-amendment-sebin-a-jacob-criticize-pinarayi-vijayan" %}
+
 {% embed url="https://www.medianama.com/2020/10/223-kerala-online-defamation-5-years-jail/" %}
 
 
