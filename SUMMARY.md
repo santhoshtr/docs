@@ -61,6 +61,7 @@
 * [Academic Research](academic-research/README.md)
   * [Research papers](academic-research/research-papers.md)
   * [Reproducible Research](academic-research/reproducible-research.md)
+* [Books](books.md)
 * [Blockchain](blockchain.md)
 * [Computer Science](computer-science.md)
 * [Cyberspace](cyberspace/README.md)
