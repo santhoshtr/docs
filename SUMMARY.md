@@ -37,6 +37,7 @@
   * [XeTeX](malayalam-computing/typesetting/xetex.md)
   * [Indesign](malayalam-computing/typesetting/indesign.md)
   * [Typesetting in web](malayalam-computing/typesetting/typesetting-in-web.md)
+  * [Markup languages](malayalam-computing/typesetting/markup-languages.md)
 * [Speech Recognition](malayalam-computing/speech-recognition.md)
 * [Speech Synthesis](malayalam-computing/speech-synthesis/README.md)
   * [Dhvani](malayalam-computing/speech-synthesis/dhvani.md)
@@ -51,6 +52,7 @@
 * [Neural Machine Translation](malayalam-computing/neural-machine-translation.md)
 * [Digitization](malayalam-computing/digitization.md)
 * [NLP](malayalam-computing/nlp.md)
+* [Grammar analysis](malayalam-computing/grammar-analysis.md)
 * [Natural Language Understanding](malayalam-computing/natural-language-understanding.md)
 * [Swathanthra Malayalam Computing](malayalam-computing/swathanthra-malayalam-computing.md)
 
@@ -88,6 +90,7 @@
 * [Productivity](productivity.md)
 * [Software Libraries](software-libraries.md)
 * [Software Engneering](software-engneering/README.md)
+  * [People](software-engneering/people.md)
   * [Performance](software-engneering/performance.md)
   * [Code Review](software-engneering/code-review.md)
 
