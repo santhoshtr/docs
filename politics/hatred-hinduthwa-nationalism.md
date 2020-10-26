@@ -2,6 +2,7 @@
 
 ## 2020 October
 
+* [Most Facebook fact-checking partners in India fail to fact-check BJP-led misinformation](https://www.altnews.in/most-facebook-fact-checking-partners-in-india-fail-to-fact-check-bjp-led-misinformation/) -Altnews
 * [The CAA Has Not Stopped Hindus Being Declared Foreigners In Assam](https://www.article-14.com/post/the-caa-has-not-stopped-hindus-being-declared-foreigners-in-assam) - I_n the absence of clarity from Delhi on how the new citizenship law will work, Hindus of suspect citizenship continue to be declared foreigners in Assam. When & how they will be eligible is not clear, as arbitrary trials for people of all religions continue through pandemic and flood_. MAKEPEACE SITLHOU
 * [The Shadowy Online Hindutva World That Killed The Tanishq Ad](https://www.article-14.com/post/the-shadowy-online-hindutva-world-that-killed-the-tanishq-ad)
 
@@ -16,7 +17,10 @@
 
 ## 2020 August
 
+* [Facebook Executive Supported India’s Modi, Disparaged Opposition in Internal Messages ](https://www.wsj.com/articles/facebook-executive-supported-indias-modi-disparaged-opposition-in-internal-messages-11598809348)
 * [Inside Facebook’s BJP bond](https://www.article-14.com/post/inside-facebook-s-bjp-bond-key-tie-ups-with-modi-govt-its-special-interests): Key Tie-ups With Modi Govt, Its Special Interests
 
   _After revelations that a senior executive prevented Facebook from taking down hate-speech linked to India’s ruling party, our investigation reveals further partisan action in favour of BJP-allied customers and widening commercial ties with the government_. KUNAL PUROHIT
+
+* [Facebook’s Hate-Speech Rules Collide With Indian Politics ](https://www.wsj.com/articles/facebook-hate-speech-india-politics-muslim-hindu-modi-zuckerberg-11597423346)
 

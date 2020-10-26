@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Santhosh Thottingal](self/README.md)
+  * [Ideas](self/ideas.md)
   * [കോഡ് ഇതുവരെ](self/undefined.md)
   * [Software I use](self/software-i-use.md)
 
@@ -83,6 +84,7 @@
 * [Internet](internet/README.md)
   * [Resilience](internet/resilience-1.md)
   * [Decentralization](internet/resilience.md)
+  * [Network debugging tools](internet/network-debugging-tools.md)
 * [Knowledge Representation](knowledge-representation.md)
 * [Languages](languages.md)
 * [Mathematics](mathematics.md)
