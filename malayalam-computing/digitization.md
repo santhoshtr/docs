@@ -6,3 +6,11 @@ Shiju Alex's efforts are well documented in [his website](https://shijualex.in).
 
 Digitization often starts with scanning the old documents as good quality images. The conversion of content in these documents to text is also part of digitization. It is mostly accomplished using a combination of Optical character recognition and manual transcription. [Malayalam Wikisource](https://ml.wikisource.org) did some efforts on this front for copyright expired documents.
 
+## Links
+
+{% embed url="https://www.kssppublications.com/eureka/" caption="Eureka Archive: 50 വർഷത്തെ യുറീക്ക സൗജന്യമായി വായിക്കാം" %}
+
+{% embed url="http://keralasahityaakademi.org/online\_library/" caption="Kerala Sahithya Academi Online library" %}
+
+
+
