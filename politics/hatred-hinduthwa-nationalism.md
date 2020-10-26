@@ -2,6 +2,7 @@
 
 ## 2020 October
 
+* [Why Feminists Must Join the Movement Against the Manusmriti](https://thewire.in/caste/why-feminists-must-join-the-movement-against-the-manusmriti) - Meena Kandasami
 * [Most Facebook fact-checking partners in India fail to fact-check BJP-led misinformation](https://www.altnews.in/most-facebook-fact-checking-partners-in-india-fail-to-fact-check-bjp-led-misinformation/) -Altnews
 * [The CAA Has Not Stopped Hindus Being Declared Foreigners In Assam](https://www.article-14.com/post/the-caa-has-not-stopped-hindus-being-declared-foreigners-in-assam) - I_n the absence of clarity from Delhi on how the new citizenship law will work, Hindus of suspect citizenship continue to be declared foreigners in Assam. When & how they will be eligible is not clear, as arbitrary trials for people of all religions continue through pandemic and flood_. MAKEPEACE SITLHOU
 * [The Shadowy Online Hindutva World That Killed The Tanishq Ad](https://www.article-14.com/post/the-shadowy-online-hindutva-world-that-killed-the-tanishq-ad)

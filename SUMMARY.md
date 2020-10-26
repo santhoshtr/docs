@@ -93,6 +93,7 @@
 * [Productivity](productivity.md)
 * [Software Libraries](software-libraries.md)
 * [Software Engneering](software-engneering/README.md)
+  * [Programming](software-engneering/programming.md)
   * [People](software-engneering/people.md)
   * [Performance](software-engneering/performance.md)
   * [Code Review](software-engneering/code-review.md)
