@@ -66,6 +66,7 @@
 * [Blockchain](blockchain.md)
 * [Computer Science](computer-science.md)
 * [Cyberspace](cyberspace/README.md)
+  * [Digital Governance](cyberspace/digital-governance.md)
   * [കേരളത്തിൽ](cyberspace/undefined.md)
   * [Online Abuse](cyberspace/online-abuse.md)
 * [Education](education/README.md)
