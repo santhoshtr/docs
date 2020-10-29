@@ -2,6 +2,10 @@
 
 [XeTeX](http://scripts.sil.org/xetex) is an extension of TeX with built-in support for Unicode and OpenType. In this tutorial, we are going to learn how to typeset Malayalam using XeTeX. With some learning effort, we can produce high quality typesetting using XeTeX. 
 
+[XeTeX](http://scripts.sil.org/xetex) is a Unicode TeX engine which can load system fonts directly using the HarfBuzz library, which is built in. To do this, the `\font` primitive is extended. In order to support these major concepts, a range of TeX primitives are extended. For most LaTeX end users, these subtleties are transparent, with the LaTeX kernel and [`fontspec`](https://ctan.org/pkg/fontspec) package providing interfaces.
+
+Like Knuth’s TeX, it does not directly produce PDF output but rather works _via_ an intermediate format, XDV \(eXtended DVI\). Unlike the classical [DVI](https://www.texfaq.org/FAQ-dvi) format produced by TeX, XDV files cannot be viewed directly, and are normally converted directly to PDF as part of the `xetex` run. \(The conversion itself is carried out by `xdvpdfmx`.\([reference](https://www.texfaq.org/FAQ-xetex-luatex)\)
+
 ### Installing XeTeX <a id="installing-xetex"></a>
 
 XeTeX is packaged for all famous GNU/Linux distros. The installation method depends your distro. For ease of installation and configuration, we suggest to use a TeXLive version 2012 or above – either standalone TeXLive distribution or install from your distribution’s package manager. Windows and OSX versions are also available.

@@ -1,5 +1,7 @@
 # Machine learning
 
+{% embed url="https://www.youtube.com/watch?v=ZJixNvx9BAc&list=WL&index=14&t=0s" %}
+
 ## Models
 
 * [https://arxiv.org/abs/1907.07355](https://arxiv.org/abs/1907.07355) Probing Neural Network Comprehension of Natural Language Arguments
