@@ -78,6 +78,7 @@
   * [Colors](frontend-technology/colors.md)
   * [CSS](frontend-technology/css.md)
   * [PWA](frontend-technology/pwa.md)
+  * [SPA](frontend-technology/spa.md)
   * [Vue](frontend-technology/vue.md)
 * [Generative Graphics](generative-graphics/README.md)
   * [Drawbot](generative-graphics/drawbot.md)
