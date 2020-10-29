@@ -89,6 +89,8 @@
   * [Network debugging tools](internet/network-debugging-tools.md)
 * [Knowledge Representation](knowledge-representation.md)
 * [Languages](languages/README.md)
+  * [Machine learning](languages/machine-learning.md)
+  * [Linux](languages/linux.md)
   * [Vattezhuth](languages/vattezhuth.md)
 * [Mathematics](mathematics.md)
 * [Politics](politics/README.md)

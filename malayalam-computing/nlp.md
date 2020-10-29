@@ -5,6 +5,12 @@
 * [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020): This is a page for a low-resource natural language and speech processing bootcamp held by the [Carnegie Mellon University Language Technologies Institute](http://lti.cs.cmu.edu) in May 2020.
 * [This _pandect_ \(_πανδέκτης is Ancient Greek for encyclopedia_\)](https://github.com/ivan-bilan/The-NLP-Pandect) was created to help you find almost anything related to Natural Language Processing that is available online.
 
+### Transformers
+
+1. Natural Language Processing: the age of Transformers [https://blog.scaleway.com/2019/building-a-machine-reading-comprehension-system-using-the-latest-advances-in-deep-learning-for-nlp/](https://blog.scaleway.com/2019/building-a-machine-reading-comprehension-system-using-the-latest-advances-in-deep-learning-for-nlp/)
+2. Transformers from scratch [http://www.peterbloem.nl/blog/transformers](http://www.peterbloem.nl/blog/transformers)
+3. The illustrated transformer, Jay Allamar. [http://jalammar.github.io/illustrated-transformer/](http://jalammar.github.io/illustrated-transformer/)
+
 
 
 ## **Non-English resources and compendiums**
