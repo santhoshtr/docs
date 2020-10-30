@@ -2,9 +2,15 @@
 description: Notes on various natural languages
 ---
 
-# Languages
+# Languages & Scripts
 
-Notes on various natural languages
+## Brahmi
+
+![Brahmi Lipi\(ref:omniglot\)](../.gitbook/assets/image%20%2839%29.png)
+
+## Grantha
+
+![](../.gitbook/assets/image%20%2840%29.png)
 
 ## Finnish
 

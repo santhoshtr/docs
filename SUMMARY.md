@@ -88,7 +88,7 @@
   * [Decentralization](internet/resilience.md)
   * [Network debugging tools](internet/network-debugging-tools.md)
 * [Knowledge Representation](knowledge-representation.md)
-* [Languages](languages/README.md)
+* [Languages & Scripts](languages/README.md)
   * [Vattezhuth](languages/vattezhuth.md)
 * [Linux](linux.md)
 * [Machine learning](machine-learning.md)
@@ -103,4 +103,6 @@
   * [Performance](software-engneering/performance.md)
   * [Code Review](software-engneering/code-review.md)
 * [പാട്ടുകൾ](undefined.md)
+* [മലയാളം അച്ചടി](undefined-1.md)
+* [ഗവേഷണപ്രബന്ധങ്ങൾ](undefined-2.md)
 
