@@ -36,7 +36,7 @@
 * [Hyphenation](malayalam-computing/hyphenation.md)
 * [Typesetting](malayalam-computing/typesetting/README.md)
   * [Scribus](malayalam-computing/typesetting/scribus.md)
-  * [Against PDF](malayalam-computing/typesetting/against-pdf.md)
+  * [PDF](malayalam-computing/typesetting/against-pdf.md)
   * [XeTeX](malayalam-computing/typesetting/xetex.md)
   * [Indesign](malayalam-computing/typesetting/indesign.md)
   * [Typesetting in web](malayalam-computing/typesetting/typesetting-in-web.md)

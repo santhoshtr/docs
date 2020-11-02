@@ -1,4 +1,10 @@
-# Against PDF
+# PDF
+
+{% embed url="https://www.vice.com/en/article/pam43n/why-the-pdf-is-secretly-the-worlds-most-important-file-format" %}
+
+
+
+## Against PDF
 
 [PDF: Still Unfit for Human Consumption, 20 Years Later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/) \([HN](https://news.ycombinator.com/item?id=24108950)\)
 
