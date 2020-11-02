@@ -21,3 +21,9 @@ description: >-
 
   [Krzysztof Apt](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
 
+
+
+## Links
+
+* Github's [Readme](https://github.com/readme) project is profiling famous  or influential opensource contributors
+
