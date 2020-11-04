@@ -26,6 +26,7 @@ Open AI and their ethical\(?\) release of model that can create fake news [https
 * news [https://techxplore.com/news/2019-02-openai-gpt-algorithm-good-fake.html](https://techxplore.com/news/2019-02-openai-gpt-algorithm-good-fake.html)
 * criticism [https://www.theregister.co.uk/2019/02/14/open\_ai\_language\_bot/](https://www.theregister.co.uk/2019/02/14/open_ai_language_bot/)
 * [https://thegradient.pub/openai-please-open-source-your-language-model/](https://thegradient.pub/openai-please-open-source-your-language-model/) 
+* [GPT‑3: Its Nature, Scope, Limits, and Consequences Luciano Floridi1,2 · Massimo Chiriatti ](https://link.springer.com/epdf/10.1007/s11023-020-09548-1?sharing_token=y3U0nDiQ_Vs_czk-OjqKsfe4RwlQNchNByi7wbcMAY6dl9yKaSKy9pZ9jIb5-fNBNoGfcfNJqJ36XsZSeuznP5ZbVUrOkiBUJHJv5qxKhISNBh56enqR2qbuFaFXrV4qVpLFWP_5Ai23WhvSt6YVNLlOB92FvmjwHHp-s3VRPvU%3D)
 
 {% embed url="https://www.theguardian.com/technology/2019/may/28/a-white-collar-sweatshop-google-assistant-contractors-allege-wage-theft" %}
 
