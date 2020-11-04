@@ -28,6 +28,7 @@
   * [Gayathri](malayalam-computing/fonts/gayathri.md)
   * [Customize Malayalam fonts in Linux](malayalam-computing/fonts/customize-malayalam-fonts-in-linux.md)
   * [Articles](malayalam-computing/fonts/articles.md)
+  * [Tools](malayalam-computing/fonts/tools.md)
 * [Spellcheck](malayalam-computing/spellcheck/README.md)
   * [Dictionary based approach](malayalam-computing/spellcheck/dictionary-based-approach.md)
   * [Nature of Malayalam spelling mistakes](malayalam-computing/spellcheck/nature-of-malayalam-spelling-mistakes.md)
