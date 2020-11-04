@@ -13,4 +13,11 @@ Some of my favorite from the above Epigrams by Alan J. Perlis
 *  It is easier to write an incorrect program than understand a correct one.
 * When we write programs that "learn", it turns out we do and they don't.
 * Within a computer natural language is unnatural.
-* 
+
+
+
+## Books
+
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+* \*\*\*\*[**Free \(and legal\) computer science textbooks**](https://www.reddit.com/r/csbooks/)\*\*\*\*
+
