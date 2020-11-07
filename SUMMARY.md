@@ -59,6 +59,8 @@
 * [Grammar analysis](malayalam-computing/grammar-analysis.md)
 * [Natural Language Understanding](malayalam-computing/natural-language-understanding.md)
 * [Swathanthra Malayalam Computing](malayalam-computing/swathanthra-malayalam-computing.md)
+* [Meta](malayalam-computing/meta/README.md)
+  * [ലിപിപരിണാമം നിലച്ചുപോയോ?](malayalam-computing/meta/undefined.md)
 
 ---
 
