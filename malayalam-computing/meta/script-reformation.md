@@ -50,5 +50,9 @@ Popular typefaces will definitely will decide the style that survives through ge
 
 ### പഴയ ലിപിയോ പുതിയലിപിയോ
 
-സാങ്കേതികത്തികവും മിഴിവേകിയതും അതാത് കാലത്ത് ജനകീയമാകുന്നവയുമായ ഫോണ്ടുകൾ ആയിരിക്കും പുതിയകാലത്ത് ഇതിൽ സ്വാധീനം ചെലുത്തുക. പഴയലിപി പോയിട്ടേയില്ല.
+സാങ്കേതികത്തികവും മിഴിവേകിയതും അതാത് കാലത്ത് ജനകീയമാകുന്നവയുമായ ഫോണ്ടുകൾ ആയിരിക്കും പുതിയകാലത്ത് ഇതിൽ സ്വാധീനം ചെലുത്തുക. പഴയലിപി പോയിട്ടേയില്ല. പോകുമെന്ന് കരുന്നുമില്ല.
+
+### Imposed restrictions
+
+If an operating system has monopoly and impose a specific font to all users and does not allow any other fonts than they ship, a situation arise where people left with no options and the font influence the way they read and write the language
 
