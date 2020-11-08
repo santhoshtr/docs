@@ -61,6 +61,7 @@
 * [Swathanthra Malayalam Computing](malayalam-computing/swathanthra-malayalam-computing.md)
 * [Meta](malayalam-computing/meta/README.md)
   * [ലിപിപരിണാമം നിലച്ചുപോയോ?](malayalam-computing/meta/script-reformation.md)
+  * [ഭാഷാ പഠനം](malayalam-computing/meta/script-learning.md)
 
 ---
 

@@ -1,5 +1,7 @@
 # Vattezhuth
 
+[Preliminary proposal to encode Vatteluttu in Unicode](http://www.unicode.org/L2/L2016/16068-vatteluttu.pdf) \(L2/16-068\)
+
 {% embed url="https://www.youtube.com/watch?v=-RLXk77gIJ4" %}
 
 
