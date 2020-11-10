@@ -1,8 +1,26 @@
 # Productivity
 
+{% hint style="danger" %}
+> **Any sufficiently advanced hobby is indistinguishable from work.**
+{% endhint %}
+
 
 
 {% embed url="https://hugozap.com/posts/how-to-finish-your-side-project/" %}
+
+## Time
+
+Not everybody has 24 hours per day. People need to take care of dependents. They will need to spend time with family and kids. Some people may have health issues. Some people will have to spend time in commute.
+
+Some people have more than 24 hours per day. They buy time from others. They delegate work to other and buy time. They invest in technology and facilities to buy time. They save time by  not doing things that does not matter to anybody.
+
+The time you buy is bought by other people. The technology you work on, the products you buid, gives time to others. The services you do in the time you bought gives time for others.
+
+The time the others bought from you is again bought by some others. And so on.
+
+While the absolute time available in a day remains same, the value and utility is not same for everybody. The trading of time gives you profits or loss in time.
+
+Trade your time wisely.
 
 ## Links <a id="links"></a>
 

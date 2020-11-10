@@ -10,5 +10,9 @@ HSL - Hue Saturation Lighting
 
 {% embed url="https://tsh.io/blog/why-should-you-use-hsl-color-representation-in-css/" %}
 
+## Color palettes
+
+{% embed url="https://color.adobe.com" %}
+
 
 
