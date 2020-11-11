@@ -97,6 +97,7 @@
 * [Knowledge Representation](knowledge-representation.md)
 * [Languages & Scripts](languages/README.md)
   * [Vattezhuth](languages/vattezhuth.md)
+* [Life](life.md)
 * [Linux](linux.md)
 * [Machine learning](machine-learning.md)
 * [Mathematics](mathematics.md)

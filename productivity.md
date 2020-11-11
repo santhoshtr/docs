@@ -1,10 +1,8 @@
 # Productivity
 
 {% hint style="danger" %}
-> **Any sufficiently advanced hobby is indistinguishable from work.**
+**Any sufficiently advanced hobby is indistinguishable from work.**
 {% endhint %}
-
-
 
 {% embed url="https://hugozap.com/posts/how-to-finish-your-side-project/" %}
 
