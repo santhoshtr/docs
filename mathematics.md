@@ -38,6 +38,7 @@
 ## Linear Algebra
 
 * Essense of Linear algrebrea: [https://www.3blue1brown.com/essence-of-linear-algebra-page/](https://www.3blue1brown.com/essence-of-linear-algebra-page/)
+* [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 
 ## General
 
