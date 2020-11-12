@@ -18,5 +18,5 @@ The fix is not complex. It involves a conditional replacement of Ra sign with Vi
 
 ![The splitting of Ra-sign when followed by Va sign after pstf step](../../.gitbook/assets/right.svg)
 
-This fix is available in latest versions of Manjari, Gayathri and Chilanka.
+This fix is available in latest versions of Manjari, Gayathri and Chilanka. The issue is present in other fonts of SMC too, but not fixed yet.
 
