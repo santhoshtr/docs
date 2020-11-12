@@ -10,7 +10,7 @@ This bug was present in SMC's Manjari, Chilanka, Gayathri fonts\(all share same 
 
 ![Va, Ra signs producing same rendering irrespective of order in data.](../../.gitbook/assets/vara-order-wrong.svg)
 
-I had noticed this issue in 2018 and reported: "[സ്വാതന്ത്ര്യം സ്വാതന്ത്യ്രം rendered same](https://gitlab.com/smc/fonts/manjari/-/issues/20)". I did not give much importance to it since has relatively small impact. But recently Jon Hudson asked me about this behaviour in twitter. That prompted me to solve it.
+I had noticed this issue in 2018 and reported: "[സ്വാതന്ത്ര്യം സ്വാതന്ത്യ്രം rendered same](https://gitlab.com/smc/fonts/manjari/-/issues/20)". I did not give much importance to it since has relatively small impact. But recently [Jon Hudson asked me about this in twitter](https://twitter.com/TiroTypeworks/status/1325604976199020544). That prompted me to solve it.
 
 The fix is not complex. It involves a conditional replacement of Ra sign with Virama + Ra when appeared after Ya sign or Va sign. The replacement can be done using a multiple substitution rule. The Noto Sans Malayalam font from Google also address this issue in exactly same way.
 
