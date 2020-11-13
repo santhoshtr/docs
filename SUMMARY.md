@@ -113,7 +113,7 @@
   * [People](software-engneering/people.md)
   * [Performance](software-engneering/performance.md)
   * [Code Review](software-engneering/code-review.md)
-* [പാട്ടുകൾ](undefined.md)
-* [മലയാളം അച്ചടി](undefined-1.md)
-* [ഗവേഷണപ്രബന്ധങ്ങൾ](undefined-2.md)
+* [പാട്ടുകൾ](malayalam-songs.md)
+* [മലയാളം അച്ചടി](malayalam-printing.md)
+* [ഗവേഷണപ്രബന്ധങ്ങൾ](malayalam-research-papers.md)
 
