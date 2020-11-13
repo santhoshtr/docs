@@ -1,6 +1,6 @@
 # Ya Ra Va Signs
 
-In Malayalam, the Ya, Va and Ra signs when appeared together has an interesting problem. The Ra sign is prebase sign, meaning, it goes to left side of the consonant or conjunct to which it applies. The Ya and VA signs are post base, meaning it goes to the right side of consonant or conjunct to which it applies. So, after a consonant or conjunct, if Ra sign and Ya sign is present, Ra sign goes to left and Ya sign remain atto right. This is same, irrespective of the order of ya and ra. 
+In Malayalam, the Ya, Va and Ra signs when appeared together has an interesting problem. The Ra sign is prebase sign, meaning, it goes to left side of the consonant or conjunct to which it applies. The Ya and VA signs are post base, meaning it goes to the right side of consonant or conjunct to which it applies. So, after a consonant or conjunct, if Ra sign and Ya sign is present, Ra sign goes to left and Ya sign remain to the right. This is same, irrespective of the order of ya and ra. 
 
 To understand this issue better, let us take the example of ക + ്‌ര  + ്‌യ and ക + ്‌യ +  ്‌ര. The below image illustrates the steps this combination goes through in rendering. An example word with ക + ്‌ര  + ്‌യ can be transliteration of crew - ക്ര്യൂ. സ്വാതന്ത്ര്യം is another word where this  Ra sign, Va sign combination appears. There is no valid word for ക + ്‌യ +  ്‌ര, but that is not much relevant to a font. It is supposed to render any sequence without errors. If both ക + ്‌ര  + ്‌യ and ക + ്‌യ +  ്‌ര are producing same rendering it is a bug.
 

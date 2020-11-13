@@ -54,6 +54,7 @@
 * [Named Entity Recognition](malayalam-computing/named-entity-recognition.md)
 * [Machine Translation](malayalam-computing/machine-translation/README.md)
   * [Neural Machine Translation](malayalam-computing/machine-translation/neural-machine-translation.md)
+* [Optical Character recognition](malayalam-computing/optical-character-recognition.md)
 * [Transliteration](malayalam-computing/transliteration.md)
 * [Digitization](malayalam-computing/digitization.md)
 * [NLP](malayalam-computing/nlp.md)

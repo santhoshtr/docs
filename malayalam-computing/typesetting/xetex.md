@@ -14,7 +14,8 @@ Following packages are required to install to get a working xetex environment in
 
 * texlive-xetex
 * texlive-latex-extra
-* texlive-lang-indic
+* texlive-lang-other or 
+  * texlive-lang-indic \(in older distros\)
 
 You also need reasonably good unicode compatible Malayalam fonts. These fonts also comes with GNU/Linux distros. Search for malayalam fonts in your package manager and install if not already installed. Eg fonts: Meera, Rachana etc.
 
@@ -31,8 +32,6 @@ Using a text editor like gedit or kate, create a new file with .tex as file exte
 \usepackage{polyglossia}
 \setdefaultlanguage{malayalam}
 \setmainfont[Script=Malayalam, HyphenChar="00AD]{Rachana}
-% In the above line we customized Hyphenation characters since
-% visbile hyphen, aka Soft Hyphen is not used for Malayalam
 \lefthyphenmin=3
 \righthyphenmin=4
 \linespread{1.2}
