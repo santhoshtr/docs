@@ -1,4 +1,4 @@
-# Fonts
+# Typography
 
 ## Resources
 

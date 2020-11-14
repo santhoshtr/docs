@@ -33,7 +33,7 @@ The `out.txt` file will have the text recognized from image
 
 {% embed url="https://ocr.smc.org.in/" %}
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 ## Links
 
