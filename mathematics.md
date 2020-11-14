@@ -43,4 +43,6 @@
 ## General
 
 * Recommendations by 3blue1brown: [https://www.3blue1brown.com/recommendations](https://www.3blue1brown.com/recommendations)
+* Pauls online math notes - [https://tutorial.math.lamar.edu/](https://tutorial.math.lamar.edu/)
+* Mathworld from wolfram alpha - [https://mathworld.wolfram.com/](https://mathworld.wolfram.com/)
 * 
