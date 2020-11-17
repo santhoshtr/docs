@@ -13,5 +13,7 @@
 * [Zawinski's law of software envelopment](https://en.wikipedia.org/wiki/Jamie_Zawinski#Principles) - \(on [feature creap](https://en.wikipedia.org/wiki/Feature_creep)\)    Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can.
 * Evidence-based Software Engineering - [http://www.knosof.co.uk/ESEUR/](http://www.knosof.co.uk/ESEUR/)
 
+## Links
 
-
+* What distinguishes great software engineers? \[[pdf](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)\] \[[HN](https://news.ycombinator.com/item?id=25107285)\]
+* 
