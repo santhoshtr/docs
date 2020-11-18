@@ -14,5 +14,11 @@ HSL - Hue Saturation Lighting
 
 {% embed url="https://color.adobe.com" %}
 
+{% embed url="https://ianstormtaylor.com/design-tip-never-use-black/" %}
+
+
+
+* The super fast color schemes generator! [https://coolors.co/](https://coolors.co/)
+
 
 
