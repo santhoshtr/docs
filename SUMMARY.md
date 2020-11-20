@@ -21,6 +21,7 @@
   * [Proprietory Input Methods](malayalam-computing/input-methods/proprietory-input-methods.md)
   * [What is a good input method?](malayalam-computing/input-methods/what-is-a-good-input-method.md)
 * [Script Rendering](malayalam-computing/script-rendering/README.md)
+  * [Orthography](malayalam-computing/script-rendering/orthography.md)
   * [Ya Ra Va Signs](malayalam-computing/script-rendering/ya-ra-va-signs.md)
 * [Typography](malayalam-computing/fonts/README.md)
   * [Manjari](malayalam-computing/fonts/manjari/README.md)
