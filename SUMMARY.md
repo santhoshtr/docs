@@ -23,6 +23,7 @@
 * [Script Rendering](malayalam-computing/script-rendering/README.md)
   * [Orthography](malayalam-computing/script-rendering/orthography.md)
   * [Ya Ra Va Signs](malayalam-computing/script-rendering/ya-ra-va-signs.md)
+  * [U signs](malayalam-computing/script-rendering/u-signs.md)
 * [Typography](malayalam-computing/fonts/README.md)
   * [Manjari](malayalam-computing/fonts/manjari/README.md)
     * [Gallery](malayalam-computing/fonts/manjari/gallery.md)
