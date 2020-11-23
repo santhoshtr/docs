@@ -5,6 +5,7 @@
 * Several Indian states led by the extreme nationalist BJP party are considering enacting laws [prohibiting Muslims from marrying outside their religious community.](https://scroll.in/article/979015/love-jihad-as-pandemic-rages-bjp-states-turn-focus-to-laws-based-on-hindutva-conspiracy-theory)
 * [Caste, food and ideological imposition](https://www.dalitcamera.com/caste-food-ideological-imposition/)-casteist/religious/cultural indoctrination by Akshaya patra which vehemently refuses to use egg, onion and garlic in their cooking inspite of this being mandated in State government menu"  
 * Eggs have been [denied](https://www.business-standard.com/article/current-affairs/most-bjp-ruled-states-skip-eggs-in-mid-day-meal-cite-vegetarian-sentiments-118073100120_1.html) to children as part of the mid day meals in schools for several years.
+* India’s ruling party invents a Muslim plot against Hindu women - The Bharatiya Janata Party is determined to stop a non-existent “love jihad” - [economist](https://www.economist.com/asia/2020/11/19/indias-ruling-party-invents-a-muslim-plot-against-hindu-women)
 
 ## 2020 October
 
