@@ -88,6 +88,7 @@
   * [Remote Learning](education/remote-learning.md)
 * [Frontend technology](frontend-technology/README.md)
   * [Colors](frontend-technology/colors.md)
+  * [Design systems](frontend-technology/design-systems.md)
   * [CSS](frontend-technology/css.md)
   * [PWA](frontend-technology/pwa.md)
   * [SPA](frontend-technology/spa.md)
