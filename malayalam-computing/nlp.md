@@ -4,6 +4,11 @@
 
 * [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020): This is a page for a low-resource natural language and speech processing bootcamp held by the [Carnegie Mellon University Language Technologies Institute](http://lti.cs.cmu.edu) in May 2020.
 * [This _pandect_ \(_πανδέκτης is Ancient Greek for encyclopedia_\)](https://github.com/ivan-bilan/The-NLP-Pandect) was created to help you find almost anything related to Natural Language Processing that is available online.
+* Website \(developed by[@seb\_ruder](https://twitter.com/seb_ruder)\) provides useful information and resources for tracking the progress of many different kinds of common NLP tasks. [http://nlpprogress.com](https://t.co/OERWe1ZyVP?amp=1)
+* This website provides resources, like paper and code links, about state-of-the-art NLP methods. It also includes methods used in general in ML. You can also find information about tasks where the different methods are being used. [https://paperswithcode.com](https://t.co/eZDrVpSDFq?amp=1)
+* [book recommendations for getting started with NLP.](https://elvissaravia.substack.com/p/my-recommendations-for-getting-started) A few books shared in the list provide real-world use cases of different NLP methods and applications.
+* Getting an initial high-level understanding of different NLP tasks and applications is key. Survey papers help a lot. This repo contains a list of NLP survey papers for getting a bit more exposure to a wide range of NLP tasks. [https://github.com/NiuTrans/ABigS](https://t.co/J2pbKCjZqK?amp=1)
+* This website provides information about different NLP datasets and the tasks for which they are used. [https://datasets.quantumstat.com](https://t.co/YmonIqaM9I?amp=1)
 
 ### Transformers
 
