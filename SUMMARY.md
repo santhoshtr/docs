@@ -71,6 +71,7 @@
 ---
 
 * [Academic Research](academic-research/README.md)
+  * [Knowledge Dissemination](academic-research/knowledge-dissemination.md)
   * [Research papers](academic-research/research-papers.md)
   * [Reproducible Research](academic-research/reproducible-research.md)
 * [Books](books.md)
