@@ -34,6 +34,7 @@
   * [Tools](malayalam-computing/fonts/tools.md)
   * [Design Ideas](malayalam-computing/fonts/design-ideas.md)
 * [Spellcheck](malayalam-computing/spellcheck/README.md)
+  * [History](malayalam-computing/spellcheck/history.md)
   * [Dictionary based approach](malayalam-computing/spellcheck/dictionary-based-approach.md)
   * [Nature of Malayalam spelling mistakes](malayalam-computing/spellcheck/nature-of-malayalam-spelling-mistakes.md)
   * [Morphology analyser based approach](malayalam-computing/spellcheck/morphology-analyser-based-approach.md)
