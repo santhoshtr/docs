@@ -30,7 +30,7 @@
 * [https://teenyicons.com/](https://teenyicons.com/)
 * [https://lucide.netlify.app/](https://lucide.netlify.app/)
 * [https://akveo.github.io/eva-icons/](https://akveo.github.io/eva-icons/)
-* 
+* [https://icon-icons.com/](https://icon-icons.com/)
 ## Illustration 
 
 * [https://illlustrations.co](https://t.co/LEAYYFpJU8?amp=1) 
