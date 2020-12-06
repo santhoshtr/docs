@@ -14,8 +14,9 @@
 
 * [https://burst.shopify.com/](https://burst.shopify.com/)
 * [https://picsum.photos/](https://picsum.photos/)
-* unsplash.com
+* unsplash [https://unsplash.com/](https://unsplash.com/)
 * [https://nodesign.dev](https://nodesign.dev)
+* [https://www.freepik.com/](https://www.freepik.com/)
 
 ## Icons
 
@@ -31,6 +32,7 @@
 * [https://lucide.netlify.app/](https://lucide.netlify.app/)
 * [https://akveo.github.io/eva-icons/](https://akveo.github.io/eva-icons/)
 * [https://icon-icons.com/](https://icon-icons.com/)
+* [https://www.flaticon.com/](https://www.flaticon.com/)
 ## Illustration 
 
 * [https://illlustrations.co](https://t.co/LEAYYFpJU8?amp=1) 
@@ -44,6 +46,9 @@
 
 * [https://www.openpeeps.com/](https://www.openpeeps.com/)
 * [http://chalimachine.com/](http://chalimachine.com/)
+
+## Animations
+* Lottie Animation [https://lottiefiles.com/](https://lottiefiles.com/)
 
 
 
