@@ -12,6 +12,7 @@
 * \*\*\*\*[**Software Peter principle** ](https://en.wikipedia.org/wiki/Software_Peter_principle)**-** The **Software Peter principle** is used in [software engineering](https://en.wikipedia.org/wiki/Software_engineering) to describe a dying project which has become too complex to be understood even by its own developers.
 * [Zawinski's law of software envelopment](https://en.wikipedia.org/wiki/Jamie_Zawinski#Principles) - \(on [feature creap](https://en.wikipedia.org/wiki/Feature_creep)\)    Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can.
 * Evidence-based Software Engineering - [http://www.knosof.co.uk/ESEUR/](http://www.knosof.co.uk/ESEUR/)
+* DRY, or [Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) is a tradeoff - [https://orbifold.xyz/dry-trade-off.html](https://orbifold.xyz/dry-trade-off.html) \([HN](https://news.ycombinator.com/item?id=25459506)\)
 
 ## Links
 
