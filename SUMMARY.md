@@ -7,6 +7,7 @@
   * [Software I use](self/software-i-use.md)
   * [Research Papers](self/research-papers.md)
   * [Talks](self/talks.md)
+  * [Projects](self/projects.md)
 
 ## Malayalam Computing
 
