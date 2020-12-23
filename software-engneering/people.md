@@ -22,6 +22,8 @@ description: >-
 
   [Krzysztof Apt](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
 
+* **Claude Shannon**: [How Claude Shannon Invented the Future](https://www.quantamagazine.org/how-claude-shannons-information-theory-invented-the-future-20201222/)
+
 
 
 ## Links
