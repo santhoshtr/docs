@@ -102,3 +102,5 @@
 >
 > പിണറായി വിജയൻ മുഖ്യമന്ത്രി
 
+![News in 27th December 2020](../../.gitbook/assets/image%20%2870%29.png)
+
