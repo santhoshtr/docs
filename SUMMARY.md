@@ -26,6 +26,7 @@
   * [Ya Ra Va Signs](malayalam-computing/script-rendering/ya-ra-va-signs.md)
   * [U signs](malayalam-computing/script-rendering/u-signs.md)
 * [Typography](malayalam-computing/fonts/README.md)
+  * [Curves](malayalam-computing/fonts/curves.md)
   * [Manjari](malayalam-computing/fonts/manjari/README.md)
     * [Gallery](malayalam-computing/fonts/manjari/gallery.md)
   * [Chilanka](malayalam-computing/fonts/chilanka.md)
