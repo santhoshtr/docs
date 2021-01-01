@@ -24,6 +24,38 @@ Manjari Malayalam typeface. This is probably the most successfull project I ever
 
 {% page-ref page="../malayalam-computing/fonts/manjari/" %}
 
+## Malayalam Morphology Analyser
+
+An ambitious effort to encode Malayalam morphology in computer algorithms. This is an ongoing and long project with multiple sub projects. I [started this in 2017](https://thottingal.in/blog/2017/11/26/towards-a-malayalam-morphology-analyser/) and continous to actively develop it.
+
+{% page-ref page="../malayalam-computing/morphology-analysis/" %}
+
+## Spellchecker based on morphology analyser
+
+Spelling checker based on the Malayalam morphology analyser using a set of spelling mistake patterns in Malayalam and provides correction suggestions
+
+{% page-ref page="../malayalam-computing/spellcheck/" %}
+
+## Gayathri
+
+Malayalam typeface designed by Binoy Dominic. I worked on the project coordination and opentype engineering. 
+
+{% page-ref page="../malayalam-computing/fonts/gayathri.md" %}
+
+## Tesseract based OCR web frontend
+
+Hosted at [https://ocr.smc.org.in/](https://ocr.smc.org.in/), this is a web frontend for Tesseract.js OCR
+
+## Handwriting recognition
+
+Online handwriting recognition system based on procustes analysis. Available at [https://handwriting.smc.org.in/](https://handwriting.smc.org.in/). The project is incomplete as more letters need to be support and many optimizations are pending. I visit this project occassionally and make some improvement and then move to other projects. Looking for active contributors
+
+{% page-ref page="../malayalam-computing/input-methods/handwriting-recognition/" %}
+
+## Machine translation 
+
+Opus MT based machine translation system for English-Malayalam\(bidirectional\) available at [translate.smc.org.in](https://translate.smc.org.in)
+
 
 
 

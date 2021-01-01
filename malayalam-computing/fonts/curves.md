@@ -3,6 +3,7 @@
 ## Beziers
 
 * [Bézier curves](https://en.wikipedia.org/wiki/Bézier_curve)
+* [ A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
 * [cubic Bézier](https://pomax.github.io/bezierinfo/),
 * [Spiro](https://github.com/raphlinus/spiro) spline
 * [https://github.com/linebender/spline](https://github.com/linebender/spline)
