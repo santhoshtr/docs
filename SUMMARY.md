@@ -60,6 +60,9 @@
   * [Part of speech tagging](malayalam-computing/morphology-analysis/part-of-speech-tagging.md)
   * [Morphology complexity](malayalam-computing/morphology-analysis/morphology-complexity.md)
 * [Named Entity Recognition](malayalam-computing/named-entity-recognition.md)
+* [Numbers](malayalam-computing/numbers/README.md)
+  * [Number spellout](malayalam-computing/numbers/number-spellout.md)
+  * [Hindi](malayalam-computing/numbers/hindi.md)
 * [Machine Translation](malayalam-computing/machine-translation/README.md)
   * [Neural Machine Translation](malayalam-computing/machine-translation/neural-machine-translation.md)
 * [Optical Character recognition](malayalam-computing/optical-character-recognition.md)
@@ -74,6 +77,7 @@
 * [Meta](malayalam-computing/meta/README.md)
   * [ലിപിപരിണാമം നിലച്ചുപോയോ?](malayalam-computing/meta/script-reformation.md)
   * [ഭാഷാ പഠനം](malayalam-computing/meta/script-learning.md)
+  * [ശ്രേഷ്ഠ ഭാഷ](malayalam-computing/meta/classical-language.md)
 
 ---
 
