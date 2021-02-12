@@ -36,6 +36,10 @@ Spelling checker based on the Malayalam morphology analyser using a set of spell
 
 {% page-ref page="../malayalam-computing/spellcheck/" %}
 
+## Spellcheck webservice for many languages
+
+[https://spell.toolforge.org/](https://spell.toolforge.org/). Blog post [https://thottingal.in/blog/2020/10/26/spellchecker-webservice/](https://thottingal.in/blog/2020/10/26/spellchecker-webservice/)
+
 ## Gayathri
 
 Malayalam typeface designed by Binoy Dominic. I worked on the project coordination and opentype engineering. 
@@ -55,6 +59,16 @@ Online handwriting recognition system based on procustes analysis. Available at 
 ## Machine translation 
 
 Opus MT based machine translation system for English-Malayalam\(bidirectional\) available at [translate.smc.org.in](https://translate.smc.org.in)
+
+## Learning Malayalam writing
+
+[https://learn.smc.org.in/](https://learn.smc.org.in/) illustrates how to write Malayalam. Blog post [https://thottingal.in/blog/2020/11/01/application-for-learning-to-write-malayalam/](https://thottingal.in/blog/2020/11/01/application-for-learning-to-write-malayalam/)
+
+## Hyphenation patterns for Indian languages
+
+[https://gitlab.com/smc/hyphenation/](https://gitlab.com/smc/hyphenation/) - Used in TeX, [Indesign](https://thottingal.in/blog/2017/10/29/indesign-cc-automatic-hyphenation-for-indian-languages), [Android](https://android.googlesource.com/platform/external/hyphenation-patterns/+/4f23db401df34c634b1aa7248a76e43ff4ce4d8a), [Scribus](https://thottingal.in/blog/2019/03/02/scribus-gets-hyphenation-support-for-11-indian-languages/)
+
+
 
 
 
