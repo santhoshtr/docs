@@ -30,4 +30,5 @@ Trade your time wisely.
 * ['Ugh fields', or why you can’t even bear to think about that task \(2020\)](https://medium.com/@robertwiblin/ugh-fields-or-why-you-can-t-even-bear-to-think-about-that-task-5941837dac62) \([HN](https://news.ycombinator.com/item?id=24445603)\)
 * [The Power of Shower Thoughts: Trusting Your Mind to Work in the Background \(2019\)](https://alexanderell.is/posts/trust-in-your-unconscious/) \([HN](https://news.ycombinator.com/item?id=21557902)\)
 * [Ask HN: How do you stay disciplined in the long run? \(2019\)](https://news.ycombinator.com/item?id=19777976)
+* [https://mynoise.net/](https://mynoise.net/) - Collection of good quality background noises
 
