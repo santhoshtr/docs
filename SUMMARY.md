@@ -98,6 +98,7 @@
   * [Digital Education](education/digital-education.md)
   * [Digital Literacy](education/digital-literacy/README.md)
     * [ഡിജിറ്റൽ സാക്ഷരതാ പദ്ധതി](education/digital-literacy/digital-literacy.md)
+    * [Resources](education/digital-literacy/resources.md)
   * [Remote Learning](education/remote-learning.md)
 * [Frontend technology](frontend-technology/README.md)
   * [Colors](frontend-technology/colors.md)
