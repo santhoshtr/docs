@@ -69,6 +69,7 @@
 * [Transliteration](malayalam-computing/transliteration.md)
 * [Digitization](malayalam-computing/digitization.md)
 * [NLP](malayalam-computing/nlp/README.md)
+  * [Low resource languages](malayalam-computing/nlp/low-resource-languages.md)
   * [Natural Language Generation](malayalam-computing/nlp/natural-language-generation.md)
 * [Grammar analysis](malayalam-computing/grammar-analysis/README.md)
   * [Style checkers](malayalam-computing/grammar-analysis/style-checkers.md)
