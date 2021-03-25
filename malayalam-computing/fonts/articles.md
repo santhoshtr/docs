@@ -7,7 +7,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=B9mmojTDgDg" %}
 
-
+Japanese typography [https://aisforfonts.com/sinograms](https://aisforfonts.com/sinograms)
 
 ## 
 
