@@ -112,6 +112,7 @@
   * [Drawbot](generative-graphics/drawbot.md)
   * [Matrix Digital Rain](generative-graphics/generative-art.md)
 * [Internet](internet/README.md)
+  * [Privacy](internet/privacy.md)
   * [IPFS](internet/ipfs.md)
   * [Resilience](internet/resilience-1.md)
   * [Decentralization](internet/resilience.md)
