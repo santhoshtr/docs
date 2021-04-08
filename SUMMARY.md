@@ -15,6 +15,7 @@
 * [Unicode](malayalam-computing/unicode/README.md)
   * [Syllable](malayalam-computing/unicode/syllable.md)
   * [Conjunct](malayalam-computing/unicode/conjunct.md)
+  * [Articles](malayalam-computing/unicode/articles.md)
 * [Input methods](malayalam-computing/input-methods/README.md)
   * [Inscript](malayalam-computing/input-methods/inscript.md)
   * [Swanalekha](malayalam-computing/input-methods/swanalekha.md)
