@@ -74,6 +74,8 @@
   * [Natural Language Generation](malayalam-computing/nlp/natural-language-generation.md)
 * [Grammar analysis](malayalam-computing/grammar-analysis/README.md)
   * [Style checkers](malayalam-computing/grammar-analysis/style-checkers.md)
+* [Dictionary](malayalam-computing/dictionary/README.md)
+  * [Lexicon](malayalam-computing/dictionary/lexicon.md)
 * [Natural Language Understanding](malayalam-computing/natural-language-understanding.md)
 * [Swathanthra Malayalam Computing](malayalam-computing/swathanthra-malayalam-computing.md)
 * [Meta](malayalam-computing/meta/README.md)
