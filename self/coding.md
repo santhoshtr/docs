@@ -2,9 +2,15 @@
 description: The code I wrote so far...
 ---
 
-# കോഡ് ഇതുവരെ
+# Coding
 
+### Why I love coding?
 
+This article perfectly captures my answer:
+
+{% embed url="https://henrikwarne.com/2012/06/02/why-i-love-coding/" %}
+
+### കോഡ് ഇതുവരെ
 
 ![All the code I wrote as per github contribution graph generated using https://github-contributions.now.sh/](../.gitbook/assets/image%20%2835%29.png)
 

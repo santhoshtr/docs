@@ -3,7 +3,7 @@
 * [Welcome](README.md)
 * [Santhosh Thottingal](self/README.md)
   * [Ideas](self/ideas.md)
-  * [കോഡ് ഇതുവരെ](self/undefined.md)
+  * [Coding](self/coding.md)
   * [Software I use](self/software-i-use.md)
   * [Research Papers](self/research-papers.md)
   * [Talks](self/talks.md)
