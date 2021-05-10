@@ -70,6 +70,10 @@ I use the Reader View in Firefox to get clean reading for many websites includin
 
 For my wikipedia based learning, I use my own Wikipedia reader application - [wikipedia.thottingal.in](https://wikipedia.thottingal.in) as PWA\(installed in computer and mobile\)
 
+#### RSS
+
+For newsfeeds and RSS subscriptions, I use a telegram bot `@rss2tg_bot` It fetches the feeds in regular intervals. Helps me to read in mobile and deskop without any extra application. Adding new feeds is just a matter of pasting the URL to chat. Cons: It is just a linear list of chat messages\(I mute it\) and don't expect feed categorization and organization as you would expect in a RSS reader application
+
 ## Movies
 
 * Netflix
