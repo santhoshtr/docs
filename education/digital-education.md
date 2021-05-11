@@ -8,7 +8,7 @@
 
 {% embed url="https://truecopythink.media/dr-pk-thilak-and-kt-dinesh-digital-education-in-kerala" %}
 
-
+![](../.gitbook/assets/image%20%2894%29.png)
 
 
 
