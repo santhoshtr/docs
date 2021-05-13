@@ -18,3 +18,7 @@ Water.css : [A drop-in collection of CSS styles to make simple websites just a l
 * [Logical layout enhancements with flow-relative shorthands](https://web.dev/logical-property-shorthands/)
 * [postcss-logical](https://github.com/csstools/postcss-logical)
 
+{% embed url="https://github.com/nordicgiant2/awesome-landing-page" %}
+
+
+
