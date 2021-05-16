@@ -80,6 +80,7 @@
 * [Natural Language Understanding](malayalam-computing/natural-language-understanding.md)
 * [Swathanthra Malayalam Computing](malayalam-computing/swathanthra-malayalam-computing.md)
 * [Meta](malayalam-computing/meta/README.md)
+  * [History](malayalam-computing/meta/history.md)
   * [ലിപിപരിണാമം നിലച്ചുപോയോ?](malayalam-computing/meta/script-reformation.md)
   * [ഭാഷാ പഠനം](malayalam-computing/meta/script-learning.md)
   * [ശ്രേഷ്ഠ ഭാഷ](malayalam-computing/meta/classical-language.md)
