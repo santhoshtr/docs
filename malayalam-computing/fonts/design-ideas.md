@@ -70,6 +70,8 @@
 
 ![](../../.gitbook/assets/image%20%2883%29.png)
 
+Designs by SA Nair - [https://www.whykol.com/person/sa-nair-701/](https://www.whykol.com/person/sa-nair-701/)
+
 ## Concept 4
 
 ![](../../.gitbook/assets/image%20%2850%29.png)
