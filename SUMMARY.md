@@ -131,6 +131,7 @@
 * [Linux](linux.md)
 * [Machine learning](machine-learning.md)
 * [Mathematics](mathematics.md)
+* [Parenting](parenting.md)
 * [Politics](politics/README.md)
   * [Hatred, Hinduthwa, Nationalism](politics/hatred-hinduthwa-nationalism.md)
 * [Productivity](productivity.md)
