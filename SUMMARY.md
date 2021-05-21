@@ -107,6 +107,7 @@
     * [ഡിജിറ്റൽ സാക്ഷരതാ പദ്ധതി](education/digital-literacy/digital-literacy.md)
     * [Resources](education/digital-literacy/resources.md)
   * [Remote Learning](education/remote-learning.md)
+  * [General Learning](education/general-learning.md)
 * [Frontend technology](frontend-technology/README.md)
   * [Colors](frontend-technology/colors.md)
   * [Design systems](frontend-technology/design-systems.md)
