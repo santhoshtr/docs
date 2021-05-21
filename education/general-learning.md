@@ -22,5 +22,7 @@ description: Some useful resources for contnous general learning I use
 
 {% embed url="https://thekidshouldseethis.com/" %}
 
+{% embed url="https://news.ycombinator.com/news" %}
+
 
 
