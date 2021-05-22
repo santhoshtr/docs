@@ -26,3 +26,7 @@
 * ​[Vosk](https://github.com/wzhd/vosk-rs) - Speech recognition toolkit with state-of-the-art accuracy and low latency in Rust.
 * ​[Voicegain](https://www.voicegain.ai/) - Speech-to-text Platform and APIs. Speech Recognition.
 
+{% embed url="https://voice2json.org/" %}
+
+
+
