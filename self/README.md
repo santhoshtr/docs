@@ -28,6 +28,8 @@ As principal software engineer, my work is mostly in the following categories:
 * **Team**: Mentoring, hiring interviews, sharing knowledge and helping self learning.
 * **External**: Opensource projects, interaction with peer organizations/companies, twitter, blogs
 
+See: [My thoughts about the Principal role](https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html)
+
 ### Infosys
 
 From 2005 July 10 to July 2011, I worked at [Infosys](https://en.wikipedia.org/wiki/Infosys). This was my first job after graduating from engineering college. I mainly worked on [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29), [J2EE](https://en.wikipedia.org/wiki/Jakarta_EE) based projects at Infosys for clients like [Airbus](https://en.wikipedia.org/wiki/Airbus), [Boeing](https://en.wikipedia.org/wiki/Boeing)\(for Boeing Dreamliner\), [General Motors](https://en.wikipedia.org/wiki/General_Motors), [Toyota](https://en.wikipedia.org/wiki/Toyota) and [Texas Instruments](https://en.wikipedia.org/wiki/Texas_Instruments). When I was resigning, I was working in technology architecture group as junior architect. 
