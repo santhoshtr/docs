@@ -26,9 +26,3 @@ Feel free to use content from this site. I would be happy to see the source ackn
 
 There is no permananent links in this site, except the domain. Since this is a living document, I rearrange the content very often. None of the content can be considered as complete.
 
-## Contributing <a id="contributing"></a>
-
-If you found a mistake anywhere, I would appreciate your help. GitBook provides a quick way to open GitHub page for any entry so you can make changes and submit a PR.
-
-I'd love to hear any [ideas you have](https://github.com/santhoshtr/docs/issues) on how I can improve this wiki.
-
