@@ -8,7 +8,7 @@ Hyphenation is an important feature that DTP softwares provide. For Indian langu
 
 Hyphenation is also requred in many other places. Actually it is required where ever we ‘justify’ a block of text in openoffice or any wordprocessors. Same is the case of webpages. If we justify a block of text in ml\_IN, let is see what is happening now
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 Note the long gaps between words. This is a screenshot taken from firefox. The default hyphenation just breaking the lines in space characters. And no doubt that it makes the pages ugly. The problem becomes worse if the length of the word is more and column width is less.
 

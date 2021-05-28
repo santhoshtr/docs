@@ -12,7 +12,7 @@ In 2020 Adobe decided to move to Harfbuzz for text rendering instead of their le
 
 Indesign has automatic hyphenation. It can use the hyphenation rules I wrote.
 
-{% page-ref page="../hyphenation.md" %}
+{% page-ref page="../hyphenation/" %}
 
 Indesign CC 2018 comes with Hunspell hyphenation dictionaries. These hyphenation dictionaries are written by me long time back. See [https://github.com/smc/hyphenation](https://github.com/smc/hyphenation)
 
