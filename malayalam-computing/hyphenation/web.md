@@ -1,5 +1,5 @@
 ---
-description: How to hyphenate web pags
+description: How to hyphenate web pages
 ---
 
 # Web page
