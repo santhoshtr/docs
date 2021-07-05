@@ -60,6 +60,8 @@
 * [Collation](malayalam-computing/collation.md)
 * [Corpus](malayalam-computing/corpus.md)
 * [Morphology Analysis](malayalam-computing/morphology-analysis/README.md)
+  * [Mlmorph](malayalam-computing/morphology-analysis/mlmorph/README.md)
+    * [Snippets](malayalam-computing/morphology-analysis/mlmorph/snippets.md)
   * [Part of speech tagging](malayalam-computing/morphology-analysis/part-of-speech-tagging.md)
   * [Morphology complexity](malayalam-computing/morphology-analysis/morphology-complexity.md)
 * [Named Entity Recognition](malayalam-computing/named-entity-recognition.md)
