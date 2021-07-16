@@ -138,8 +138,6 @@ This feature is contextually sensitive and will convert "words" of numbers separ
 
 {% embed url="https://smartquotesforsmartpeople.com/" %}
 
-
-
 ## CSS properties that should not be used
 
 * `font-smoothing` - badly speced and unxpected results depending background and foreground color. Pick a good font instead.
