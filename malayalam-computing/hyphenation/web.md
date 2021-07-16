@@ -6,7 +6,7 @@ description: How to hyphenate web pages
 
 Latest version of Chromium based browsers has built in hyphenation for many languages. The HTML elements should annotate the language using `lang` attribute. Then use the following css:
 
-```text
+```css
 text-align: justify;
 hyphens: auto;
 -webkit-hyphenate-character: '';

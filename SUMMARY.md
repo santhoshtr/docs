@@ -52,7 +52,7 @@
   * [PDF](malayalam-computing/typesetting/against-pdf.md)
   * [XeTeX](malayalam-computing/typesetting/xetex.md)
   * [Indesign](malayalam-computing/typesetting/indesign.md)
-  * [Typesetting in web](malayalam-computing/typesetting/typesetting-in-web.md)
+  * [Web Typography](malayalam-computing/typesetting/typesetting-in-web.md)
   * [Markup languages](malayalam-computing/typesetting/markup-languages.md)
 * [Speech Recognition](malayalam-computing/speech-recognition.md)
 * [Speech Synthesis](malayalam-computing/speech-synthesis/README.md)
