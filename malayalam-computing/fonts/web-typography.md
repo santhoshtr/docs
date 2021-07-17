@@ -146,6 +146,7 @@ This feature is contextually sensitive and will convert "words" of numbers separ
 * `:dir()` The :dir\(\) CSS pseudo-class matches elements based on the directionality of the text contained in them. Be aware that the behavior of the `:dir()` pseudo-class is not equivalent to the `[dir=…]` attribute selectors. The latter match the HTML dir attribute, and ignore elements that lack it — even if they inherit a direction from their parent. \(Similarly, `[dir=rtl]` and `[dir=ltr]` won't match the auto value.\) In contrast, `:dir()` will match the value calculated by the user agent, even if inherited. **it  doesn’t have great support, is considered** [**experimental**](https://developer.mozilla.org/en-US/docs/Web/CSS/:dir)\*\*\*\*
 * `direction` The direction CSS property sets the direction of text, table columns, and horizontal overflow. Use `rtl` for languages written from right to left \(like Hebrew or Arabic\), and `ltr` for those written from left to right \(like English and most other languages\). Note that text direction is usually defined within a document \(e.g., with [HTML's `dir` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/dir)\) rather than through direct use of the `direction` property.
 * `letter-spacing` Don't change this to support complex scripts. Just use defaults
+*  `font-kerning` By default kerning is enabled by browsers. Don't play with it.
 
 ## Text decoration
 
@@ -160,6 +161,19 @@ For emphasis, avoid using underlines. If at all this is required please be aware
 ![](../../.gitbook/assets/image%20%2899%29.png)
 
 
+
+## Vertical Rhythm
+
+{% embed url="https://betterwebtype.com/articles/2018/10/15/rhythm-in-web-typography/" %}
+
+### Resources & tools for vertical rhythm <a id="resources--tools-for-vertical-rhythm"></a>
+
+Here’s a list of really cool and useful tools and resource when it comes to rhythm in web typography.
+
+* [Syncope](http://nowodzinski.pl/syncope/) Syncope is a WYSIWYG tool for establishing vertical rhythm on websites.
+* [Archetype](https://archetypeapp.com/) Create beautiful web typography designs, in the browser.
+* [Grid Lover](https://www.gridlover.net/) Establish a typographic system with modular scale & vertical rhythm.
+* [Gutenberg](http://matejlatin.github.io/Gutenberg/) A meaningful web typography starter kit.
 
 ## Typesetting in web
 
