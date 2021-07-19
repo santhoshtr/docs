@@ -4,7 +4,7 @@
 
 16px or 12pt is the recommended size for body text. But do not set this value in pixels or points. Set it as 100%. `font-size: 100%;` In most browsers, this defaults to 16 pixels. Inheriting the base font size from browsers allow users to use browser preference to set their comfortable font size.
 
-![Firefox settings for default font size.](../../.gitbook/assets/image%20%2898%29.png)
+![Firefox settings for default font size.](.gitbook/assets/image%20%2898%29.png)
 
 Then we can use other relative units \(`em` or `rem`\) to set font sizes for other elements. This is crucial because it means that changing the base font size will also change all other font sizes.
 
@@ -118,7 +118,7 @@ hyphens: auto;
 
 **Android**: Android comes with hyphenation support. For Indic languages it [uses](https://android.googlesource.com/platform/external/hyphenation-patterns/+/4f23db401df34c634b1aa7248a76e43ff4ce4d8a) the hyphenation patterns I authored 
 
-{% page-ref page="../hyphenation/web.md" %}
+{% page-ref page="malayalam-computing/hyphenation/web.md" %}
 
 ## Counters
 
@@ -130,13 +130,13 @@ To be added. Ref [https://www.w3.org/TR/typography/\#lists](https://www.w3.org/T
 
 Fixed-width numbers are useful for tabular data, where comparing columns across rows is desired. In CSS this can be done by adding style `font-feature-settings: "tnum";`. Enabling this for tables is recommended. A good quality typeface will have this implemented and it helps a lot for fast scanning and analysing data.
 
-![From https://rsms.me/inter/\#features/tnum](../../.gitbook/assets/image%20%28100%29.png)
+![From https://rsms.me/inter/\#features/tnum](.gitbook/assets/image%20%28100%29.png)
 
 ### Fractions
 
 This feature is contextually sensitive and will convert "words" of numbers separated by forward slash into proper fractions. Good quality fonts will have these opentype rules. In CSS this can be done by adding style `font-feature-settings: "frac";`
 
-![Source https://rsms.me/inter/\#features/frac](../../.gitbook/assets/image%20%2897%29.png)
+![Source https://rsms.me/inter/\#features/frac](.gitbook/assets/image%20%2897%29.png)
 
 
 
@@ -164,7 +164,7 @@ Italic or even the slanted text decorations are not universal. Due to latin infl
 
 For emphasis, avoid using underlines. If at all this is required please be aware that glyph heights vary depending on the script and it may look like script is striked off. [ഇതുപോലെ](https://example.com) is a Malayalam example, the script has bottom tails that already looks like underlines. An additional underline would cut through the glyphs. Because of this, browser now detect these boundaries and avoid overwriting glyphs in link underlines. The css property `text-decoration-skip: ink`; can be used to skip glyphs that cross that underline. [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip)
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](.gitbook/assets/image%20%2899%29.png)
 
 
 
