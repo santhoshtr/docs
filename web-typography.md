@@ -181,6 +181,13 @@ Here’s a list of really cool and useful tools and resource when it comes to rh
 * [Grid Lover](https://www.gridlover.net/) Establish a typographic system with modular scale & vertical rhythm.
 * [Gutenberg](http://matejlatin.github.io/Gutenberg/) A meaningful web typography starter kit.
 
+## Good examples
+
+Some examples of good typography appled for long form content. Content is latin only though
+
+* [https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/](https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/)
+* https://distill.pub/2021/multimodal-neurons/
+* 
 ## Typesetting in web
 
 #### Links
