@@ -93,6 +93,12 @@ Google material guidelines does a similar [grouping](https://material.io/design/
 
 **To be added.**
 
+### **Links**
+
+* [Selecting Typefaces For Body Text](http://practice.typekit.com/lesson/selecting-typefaces-for-body-text/)
+* [Five Principles For Choosing And Using Typefaces](https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/)
+* [Best Practices For Combining Typefaces](https://www.smashingmagazine.com/2010/11/best-practices-of-combining-typefaces/)
+
 ## **Hyphenation**
 
 If text is justified, it is important to hyphenate to avoid big whitespaces between words.
