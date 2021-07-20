@@ -91,7 +91,29 @@ Google material guidelines does a similar [grouping](https://material.io/design/
 
 ## **Font selection**
 
-**To be added.**
+Selecting a font stack that works across all operating systems, browsers, their versions for all scripts we want to support is a hard problem. It is harder because we don't have a clear definition of what works good. I provide two principles about default fonts. 
+
+**Respect the native fonts set by users** Do not set a specific font for any platform.  If the platform provides options to change the default fonts, allow them to use that features and consume our content. Just set sans-serif, or sans as font stacks. Simple and stupid.
+
+**OR**
+
+**Enforce a typographic identity** Use webfonts to enforce a brand typograpy without relying on platforms fonts and not allowing users to override. Choose the best fonts for the script wisely and embed it, take care of performance aspects.
+
+Anything in between by guessing the availability of fonts and using long font stacks does not work for targetting multi script, multi lingual audience. The concept of universally available fonts in a platform and using it in font stack is very fragile for non-English content. To make it worse, the default, native proprietory fonts some operating systems ships for some scripts are very broken and aesthetically ugly. They are ugly because they had the same constraints of Noto\(see below\) and follow the UI metrics guidelines that is designed as one metrics for all scripts.
+
+Here is a quote from John Hurdson about constraints in developing types for Windows and how it affected Malayalam font Nirmala UI\(_Nirmala Malayalam, another mindless type design - debate between Hashim PM and John Hudson, the designer of Nirmala and Kartika fonts. 28 July 2013_ [https://web.archive.org/web/20190921104444/http://www.typophile.com:80/node/105005](https://web.archive.org/web/20190921104444/http://www.typophile.com:80/node/105005)\)
+
+> The fixed restrictions of the UI metrics was the primary, non-negotiable term in the Nirmala UI design brief: whatever we did had to fit within the vertical metrics of the Segoe UI and other UI fonts. The core target size for UI use, despite the increase in screen resolutions on many Win8 devices, is still 9pt at 96ppi, i.e. 12 ppem, with some Office UI items displaying at 8pt \(with further restrictions on ppi height through VDMX adjustments at some sizes\). At 12 ppem, we have exactly 3 pixels below the baseline before we hit the OS/2 WinDescent limit, beyond which glyphs will be clipped. Many of the Indian writing systems make significant use of the space below the baseline, so we had to employ a number of strategies to squeeze subjoined letters and other descending shapes into the UI metrics. The results are not all pleasant, and some contravene the norms of these writing systems, achieving only a legible decipherability, rather than true readability.
+
+### **Noto**
+
+Noto is a font family comprising over 100 individual fonts, which are together designed to cover all the scripts encoded in the Unicode standard**.** The Noto family is designed with the goal of achieving visual harmony \(e.g., compatible heights and stroke thicknesses\) across multiple languages/scripts.This multi script requirement is hard to achieve and Noto tried its best. But note that typefaces designed specifically for a single script does not have that constraint and in general they tend to be more aesthetically true to the script. 
+
+* Noto being the default sans serif font in android phones\(shipped by google\), there is no need to mention in the font stack for them. 
+* Noto is not installed by default in any desktop operating systems. Each comes with their native fonts as default sans-serif, serif fonts. So adding Noto in font stack does not serve there too
+* The smart phone market in south asian countries are owned by Xiami and others who ship their own theming and allows users to customize default UI fonts.
+
+
 
 ### **Links**
 
