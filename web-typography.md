@@ -112,8 +112,7 @@ Noto is a font family comprising over 100 individual fonts, which are together d
 * Noto being the default sans serif font in android phones\(shipped by google\), there is no need to mention in the font stack for them. 
 * Noto is not installed by default in any desktop operating systems. Each comes with their native fonts as default sans-serif, serif fonts. So adding Noto in font stack does not serve there too
 * The smart phone market in south asian countries are owned by Xiami and others who ship their own theming and allows users to customize default UI fonts.
-
-
+* Noto is designed as a nice final fallback solution for all scripts. Using that as the "Choice" is a lazy solution. Not mentioning it in font stack also gives the same solution.
 
 ### **Links**
 
