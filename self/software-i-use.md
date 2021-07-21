@@ -7,7 +7,7 @@ description: 'Software, tools, services I use'
 ## Operating system
 
 * Ubuntu latest releases with KDE as desktop in my Lenovo X1 Carbon laptop.
-* Android 9 in my MI A1 phone
+* Android 11 in my Redmi note 10 phone
 
 ## Editors
 
@@ -32,7 +32,7 @@ description: 'Software, tools, services I use'
 ## Browser
 
 * I use Firefox as primary browser.
-* Chrome for my WMF account. Also for its powerful developer tools. I cannot use it for my day to day use because of always [broken](https://bugs.chromium.org/p/chromium/issues/detail?id=609435) Malayalam support.
+* Chrome for my WMF account. Also for its powerful developer tools. 
 
 ## Shell
 
@@ -64,7 +64,7 @@ description: 'Software, tools, services I use'
 
 ## Reading
 
-I own a Kindle Paperwhite 10th gen ebook reader. I user it regularly. I like its darkmode. I use [Calibre](https://calibre-ebook.com) for ebook management. 
+I own a Kindle Paperwhite 10th gen ebook reader.  I like its darkmode. I use [Calibre](https://calibre-ebook.com) for ebook management. 
 
 I use the Reader View in Firefox to get clean reading for many websites including wikipedia.
 
@@ -72,13 +72,13 @@ For my wikipedia based learning, I use my own Wikipedia reader application - [wi
 
 #### RSS
 
-For newsfeeds and RSS subscriptions, I use a telegram bot `@rss2tg_bot` It fetches the feeds in regular intervals. Helps me to read in mobile and deskop without any extra application. Adding new feeds is just a matter of pasting the URL to chat. Cons: It is just a linear list of chat messages\(I mute it\) and don't expect feed categorization and organization as you would expect in a RSS reader application
+For newsfeeds and RSS subscriptions, I use a telegram bot [https://github.com/santhoshtr/telegram-rss-reader](https://github.com/santhoshtr/telegram-rss-reader) It fetches the feeds in regular intervals. Helps me to read in mobile and deskop without any extra application. Adding new feeds is just a matter of pasting the URL to chat. Cons: It is just a linear list of chat messages\(I mute it\) and don't expect feed categorization and organization as you would expect in a RSS reader application
 
 ## Movies
 
 * Netflix
 * Amazon Prime
-* Youtube\(free account\). On mobile I access youtube using [NewPipe](https://newpipe.schabi.org) for privacy, ad filtering, offline watching and so on
+* Youtube\(free account\).
 * VLC  - Not much these days as I use online services.
 
 ## Search
@@ -107,6 +107,14 @@ I use [pass](https://www.passwordstore.org/) for password management with GPG en
 I use no-distraction mode in Android always. From 9AM to 5PM, I set focus mode in android - it disables many apps in the phone. At night I use the [bedtime mode in Android](https://android.gadgethacks.com/how-to/enable-bedtime-mode-your-android-device-0292856/), which makes the screen black and white, and disables all notification till earliest alarm set.
 
 In desktop I use night time color setting to warm up the screen color at sunset. I use the same setting at phone. Avoiding [blue light](https://www.cpap.com/blog/blue-light-and-sleep/) exposure after sunset [improves sleep quality](https://www.healthline.com/nutrition/block-blue-light-to-sleep-better#effects-of-blue-light).
+
+## Internet
+
+I use [wireguard](https://www.wireguard.com/) VPN and a [pihole](https://pi-hole.net/) in a small VM hosted in oracle cloud. 
+
+I Use [nextdns](%20https://nextdns.io/?from=5nv2xqe3) for DNS in my router
+
+I also use a VPS by [Hetzner](https://hetzner.com) to host my web applications
 
 
 
