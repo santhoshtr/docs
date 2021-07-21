@@ -100,7 +100,7 @@ I primarily use [duckduckgo](https://duckduckgo.com/) as my search engine. Occas
 
 ## Password management
 
-I use [pass](https://www.passwordstore.org/) for password management with GPG encrypted passwords sycned with a private gitlab repo. I use its Firefox extension too.
+I use [pass](https://www.passwordstore.org/) for password management with GPG encrypted passwords synced with a private gitlab repo. I use its browser extensions too.
 
 ## Digital wellbeing
 
