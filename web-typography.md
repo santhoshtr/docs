@@ -1,3 +1,7 @@
+---
+description: My notes on best practices for web typography for multi lingual content
+---
+
 # Web Typography
 
 ## **Font size**
@@ -112,7 +116,7 @@ Noto is a font family comprising over 100 individual fonts, which are together d
 * Noto being the default sans serif font in android phones\(shipped by google\), there is no need to mention in the font stack for them. 
 * Noto is not installed by default in any desktop operating systems. Each comes with their native fonts as default sans-serif, serif fonts. So adding Noto in font stack does not serve there too
 * The smart phone market in south asian countries are owned by Xiami and others who ship their own theming and allows users to customize default UI fonts.
-* Noto is designed as a nice final fallback solution for all scripts. Using that as the "Choice" is a lazy solution. Not mentioning it in font stack also gives the same solution.
+* Noto is designed as a graceful final fallback solution for all scripts. Using that as the "Choice" is a lazy solution. Not mentioning it in font stack also gives the same solution.
 
 ### **Links**
 
@@ -143,7 +147,11 @@ hyphens: auto;
 
 ## Counters
 
-To be added. Ref [https://www.w3.org/TR/typography/\#lists](https://www.w3.org/TR/typography/#lists)
+There are [predefined](https://w3c.github.io/predefined-counter-styles/) counter styles for lists. But that does not mean they are the preferred counter styles for the script. For example, there is a predefined counter style `malayalam` that use Malayalam numberals, but they are almost never used. Devanagari counter styles are not used by all languages that use Devanagari. For example, Hindi prefers default 1,2,3 style. This is not without debates. For example, Hindi wikipedia has a top [prominent dropdown](https://www.mediawiki.org/wiki/MediaWiki:Gadget-Numerakri.js) to choose the preferred number style\(this makes the interface quite bad in my opinion\)
+
+### Links
+
+*  [https://www.w3.org/TR/typography/\#lists](https://www.w3.org/TR/typography/#lists)
 
 ## Opentype features
 
@@ -207,7 +215,7 @@ Here’s a list of really cool and useful tools and resource when it comes to rh
 Some examples of good typography appled for long form content. Content is latin only though
 
 * [https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/](https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/)
-* https://distill.pub/2021/multimodal-neurons/
+* [https://distill.pub/2021/multimodal-neurons/](https://distill.pub/2021/multimodal-neurons/)
 * 
 ## Typesetting in web
 
