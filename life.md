@@ -17,4 +17,16 @@ Observations about people's behaviors from my experience.
 * If somebody promise something to you and do it on time\(or informs delay or not able to do it\) are people with [integrity](https://en.wikipedia.org/wiki/Integrity). If a person does not value their promises, do not trust them with time sensitive delegations
 * People who have no opinion on anything are boring and not worth having friendship or relationships. People who have opinion on everything are pretentious and not worth having friendship or relationships. 
 * [Nobody is a bad person according to themself](https://en.wikipedia.org/wiki/Self-justification).
-* 
+
+## Biases
+
+* **Fundamental Attribution Error** - Humans tend to: \(1\) Attribute the actions of others to their character \(and not to their situation or context\). \(2\) Attribute our actions to situation and context \(and not to our character\).
+* **Bandwagon Effect**- It creates a strong tendency to speak, act, or believe things simply because a lot of other people do.
+* **Egocentric Bias** - The human tendency is to have a higher view of one's self than is objectively warranted.
+* The **Baader-Meinhof Phenomenon** says that increased awareness of something creates the illusion that it is appearing more often.
+* **Pygmalion Effect-** High expectations lead to high performance \(and vice versa\).
+* **Confirmation Bias** - Humans have a tendency to see and interpret information in a manner that supports previously held beliefs.
+* **The "backfire effect"** is the tendency for humans to use evidence in direct conflict with their thesis to further strengthen their previously held beliefs.
+* **Anchoring**- The "anchor" is a reference point of information \(usually the first piece of information received on a topic\). All subsequent thinking or decisions are silently "anchored" to this point.
+* **Dunning-Kruger Effect** - People with a low ability at a task are prone to overestimate their ability at that task. Humans are notoriously incapable of objective evaluation of their competency levels.
+
