@@ -17,3 +17,7 @@ hyphens: auto;
 
 For other browsers or old versions [https://github.com/mnater/Hyphenopoly](https://github.com/mnater/Hyphenopoly) can be used
 
+{% embed url="http://clagnut.com/blog/2395/" %}
+
+
+

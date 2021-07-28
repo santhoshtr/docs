@@ -123,6 +123,7 @@ Noto is a font family comprising over 100 individual fonts, which are together d
 * [Selecting Typefaces For Body Text](http://practice.typekit.com/lesson/selecting-typefaces-for-body-text/)
 * [Five Principles For Choosing And Using Typefaces](https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/)
 * [Best Practices For Combining Typefaces](https://www.smashingmagazine.com/2010/11/best-practices-of-combining-typefaces/)
+* [This page provides](https://r12a.github.io/scripts/fontlist/#result) a \(not exhaustive\) list of fonts, grouped by script, that are available via the Windows 10 and Mac OS X operating systems, as well as Google's Noto fonts and SIL fonts. 
 
 ## **Hyphenation**
 
@@ -142,6 +143,10 @@ hyphens: auto;
 * Refer [https://www.w3.org/TR/typography/\#hyphenation](https://www.w3.org/TR/typography/#hyphenation) \( which I contributed with content and examples\)
 
 **Android**: Android comes with hyphenation support. For Indic languages it [uses](https://android.googlesource.com/platform/external/hyphenation-patterns/+/4f23db401df34c634b1aa7248a76e43ff4ce4d8a) the hyphenation patterns I authored 
+
+{% embed url="http://clagnut.com/blog/2395/" %}
+
+
 
 {% page-ref page="malayalam-computing/hyphenation/web.md" %}
 
