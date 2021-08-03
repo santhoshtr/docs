@@ -114,7 +114,7 @@ I use [wireguard](https://www.wireguard.com/) VPN and a [pihole](https://pi-hole
 
 I Use [nextdns](%20https://nextdns.io/?from=5nv2xqe3) for DNS in my router
 
-I also use a VPS by [Hetzner](https://hetzner.cloud/?ref=OMKwKIQwjf6B) to host my web applications
+I also use a VPS by [Hetzner](https://hetzner.cloud/?ref=OMKwKIQwjf6B) to host my web applications\(that is a referral link worth  €20\)
 
 
 
