@@ -95,6 +95,7 @@
   * [Knowledge Dissemination](academic-research/knowledge-dissemination.md)
   * [Research papers](academic-research/research-papers.md)
   * [Reproducible Research](academic-research/reproducible-research.md)
+* [Arts](arts.md)
 * [Books](books.md)
 * [Blockchain](blockchain.md)
 * [Computer Science](computer-science/README.md)
