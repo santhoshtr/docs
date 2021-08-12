@@ -99,6 +99,7 @@
 * [Books](books.md)
 * [Blockchain](blockchain.md)
 * [Computer Science](computer-science/README.md)
+  * [Data Structures & Algorithms](computer-science/data-structures-and-algorithms.md)
   * [Finite State Transducer](computer-science/finite-state-transducer.md)
 * [Cyberspace](cyberspace/README.md)
   * [Digital Governance](cyberspace/digital-governance.md)
