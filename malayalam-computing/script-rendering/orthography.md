@@ -16,5 +16,17 @@ How fragile the old lipi and new arguments? - An old lipi font like Manjari can 
 
 **പിരിപ്പുലിപി** - ലിപിരൂപങ്ങൾ കുറവായ, പുതിയലിപിയെന്ന് വിളിച്ചിരുന്ന ലിപിയെ സൂചിപ്പിക്കുന്നു.
 
+{% embed url="https://youtu.be/cgzoDmyM95k" %}
+
+![](../../.gitbook/assets/image%20%28102%29.png)
+
+![](../../.gitbook/assets/image%20%28104%29.png)
+
+![](../../.gitbook/assets/image%20%28103%29.png)
+
+![](../../.gitbook/assets/image%20%28101%29.png)
+
+
+
 
 
