@@ -18,3 +18,5 @@ Employee: Yeah, thanks. What I was saying is...
 Manager:  You people are role model for other teams.
 ```
 
+Incompetant Leader playbook: [https://twitter.com/shreyas/status/1339997380335128576](https://twitter.com/shreyas/status/1339997380335128576) 
+
