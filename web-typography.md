@@ -172,7 +172,9 @@ This feature is contextually sensitive and will convert "words" of numbers separ
 
 ![Source https://rsms.me/inter/\#features/frac](.gitbook/assets/image%20%2897%29.png)
 
-
+{% hint style="info" %}
+Avoid using stylistic alternates ss01. that are font specific. Applying this on a font fallback chain will result unexepected behaviours. [Example](https://twitter.com/santhoshtr/status/1431171535012720644)
+{% endhint %}
 
 ## Smart quotes
 
