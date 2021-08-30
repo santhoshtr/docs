@@ -45,4 +45,16 @@
 * Recommendations by 3blue1brown: [https://www.3blue1brown.com/recommendations](https://www.3blue1brown.com/recommendations)
 * Pauls online math notes - [https://tutorial.math.lamar.edu/](https://tutorial.math.lamar.edu/)
 * Mathworld from wolfram alpha - [https://mathworld.wolfram.com/](https://mathworld.wolfram.com/)
-* 
+* [A Gentle Introduction to Tensors](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf) by _Boaz Porat_
+* \_\_[Algebra: An Elementary Text-Book](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp36404) by [_George Chrystal_](https://en.wikipedia.org/wiki/George_Chrystal)
+* [Approved Textbooks](https://aimath.org/textbooks/approved-textbooks) of the [_American Institute of Mathematics_](https://aimath.org/)
+* [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof), Third Edition by _Richard Hammack_
+* \_\_[Books by _Dr. Kenneth Kuttler_](https://klkuttler.com/)
+* [Calculus Made Easy](http://calculusmadeeasy.org/) by [_Silvanus P. Thompson_](https://en.wikipedia.org/wiki/Silvanus_P._Thompson)
+* [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface) by _Bartosz Milewski_
+* \_\_[Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
+* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) by _J. Ström, K. Åström, and T. Akenine-Möller_
+* \_\_[Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila) by _Dan Margalit and Joseph Rabinoff_
+* \_\_[Introduction to Theoretical Computer Science](https://introtcs.org) by [_Boaz Barak_](https://en.wikipedia.org/wiki/Boaz_Barak)
+* [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by _Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang_
+
