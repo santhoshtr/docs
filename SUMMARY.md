@@ -88,6 +88,7 @@
   * [ലിപിപരിണാമം നിലച്ചുപോയോ?](malayalam-computing/meta/script-reformation.md)
   * [ഭാഷാ പഠനം](malayalam-computing/meta/script-learning.md)
   * [ശ്രേഷ്ഠ ഭാഷ](malayalam-computing/meta/classical-language.md)
+  * [Dictionary](malayalam-computing/meta/dictionary.md)
 
 ---
 
