@@ -1,6 +1,18 @@
 # Mathematics
 
+## Educational Youtube channels
 
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+* [Numberphile](https://www.youtube.com/user/numberphile/featured)
+* [Stand-up Maths](https://www.youtube.com/user/standupmaths)
+* [Mathologer](https://www.youtube.com/c/Mathologer)
+* [PBS Infinite Series](https://www.youtube.com/c/pbsinfiniteseries/featured) \([discontinued](https://www.youtube.com/watch?v=UIwnCoqx91Q)\)
+* [Mathmaniac](https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg)
+* [Veritasium](https://www.youtube.com/c/veritasium/featured)
+* [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA)
+* [Tibees](https://www.youtube.com/user/tibees/featured)
+* [Eddie Woo](https://youtube.com/c/misterwootube)
+* [https://www.youtube.com/user/vihart](https://www.youtube.com/user/vihart)
 
 ## Vector Calculus
 
