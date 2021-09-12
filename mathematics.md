@@ -69,4 +69,5 @@
 * \_\_[Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila) by _Dan Margalit and Joseph Rabinoff_
 * \_\_[Introduction to Theoretical Computer Science](https://introtcs.org) by [_Boaz Barak_](https://en.wikipedia.org/wiki/Boaz_Barak)
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by _Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang_
+* Math as code - [https://github.com/Jam3/math-as-code](https://github.com/Jam3/math-as-code)
 
