@@ -100,6 +100,7 @@
 * [Books](books.md)
 * [Blockchain](blockchain.md)
 * [Computer Science](computer-science/README.md)
+  * [Theory of computation](computer-science/theory-of-computation.md)
   * [Compilers and Interpreters](computer-science/compilers-and-interpreters.md)
   * [Graphics](computer-science/graphics.md)
   * [Parsers](computer-science/parsers.md)
