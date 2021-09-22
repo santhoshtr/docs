@@ -44,4 +44,10 @@ Be nice to the person who spent time to write the code you are reviewing. The co
 
 * [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) - Google Engineering practices
 * [How to and How not to, do Code Review](https://blog.j15h.nu/how-to-review-code/) - Jishnu Mohan
+* [https://www.mediawiki.org/wiki/Nonviolent\_Code\_Review](https://www.mediawiki.org/wiki/Nonviolent_Code_Review)
+* [Compassionate Coding](https://medium.com/@anikadamg/compassionate-coding-the-secret-of-high-perfomance-teams-34a158fd1390) by Aniket Kadam.
+* [Code Health: Respectful Reviews == Useful Reviews](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html) from Google's Coe Health series
+* [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) by Sandya Sankarram
+* [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) on Coding Horror
+* [Conventional Comments](https://conventionalcomments.org/)
 
