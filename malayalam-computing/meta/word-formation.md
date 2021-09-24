@@ -20,22 +20,30 @@ Source: [Ravisankar Nair](https://www.facebook.com/ravisankar.nair.94/posts/1381
 *  ഭവം phenomenon
 *  നിലവു വൈദ്യുതി static electricity 
 * ഈയക്കരി graphite
-*  ഒഴുക്കു വൈദ്യുതി current electricity നീരം liquid
-*  നീൾച്ചുരുൾ soelnoid കമ്പ rod 
-* പിരിവള്ളി tendril പടികവൈദ്യുതി vitreous electricity 
+*  ഒഴുക്കു വൈദ്യുതി current electricity
+*  നീരം liquid
+*  നീൾച്ചുരുൾ soelnoid
+*  കമ്പ rod 
+* പിരിവള്ളി tendril 
+* പടികവൈദ്യുതി vitreous electricity 
 * വൈദ്യുതികാട്ടി electroscope
-*  ചക്കുമുക്കിക്കല്ല് flint കൽസ്ഫടികം quartz glass
+*  ചക്കുമുക്കിക്കല്ല് flint 
+* കൽസ്ഫടികം quartz glass
 *  തീക്കൽ സ്ഫടികം flint glass 
 * ഒളികടക്കുന്ന transparent
-*  മൺധാതു mineral പാറപ്പരൽ rock crystal
-*  കാന്തക്കല്ല് magnetite പൊക്കുകാന്തം lifting magnet 
-* വടതുഞ്ചം north pole തെൻതുഞ്ചം south pole
+*  മൺധാതു mineral 
+* പാറപ്പരൽ rock crystal
+*  കാന്തക്കല്ല് magnetite 
+* പൊക്കുകാന്തം lifting magnet 
+* വടതുഞ്ചം north pole
+*  തെൻതുഞ്ചം south pole
 *  മോഴ്സിന്റെ കിടുക്കൻ Morse’s sounder 
 * ഇരട്ടയടി സമ്പ്രദായം duplex system
 *  നാലടി സമ്പ്രദായം quadruplex system
 *  പലയടി സമ്പ്രദായം mutiplex system
 *  ദൂരെയനക്കി teloscillator 
-* ദൂരെവരപ്പൻ telegraph അടിപ്പൻ key
+* ദൂരെവരപ്പൻ telegraph
+*  അടിപ്പൻ key
 *  പോവാ പ്രവാഹം A C current
 *  പോപോ പ്രവാഹം D C Current 
 * തണുപ്പുപെട്ടി refrigerator
