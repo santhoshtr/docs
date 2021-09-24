@@ -84,7 +84,7 @@
 * [Natural Language Generation](malayalam-computing/natural-language-generation.md)
 * [Swathanthra Malayalam Computing](malayalam-computing/swathanthra-malayalam-computing.md)
 * [Meta](malayalam-computing/meta/README.md)
-  * [പദനിർമിതി](malayalam-computing/meta/undefined.md)
+  * [പദനിർമിതി](malayalam-computing/meta/word-formation.md)
   * [History](malayalam-computing/meta/history.md)
   * [ലിപിപരിണാമം നിലച്ചുപോയോ?](malayalam-computing/meta/script-reformation.md)
   * [ഭാഷാ പഠനം](malayalam-computing/meta/script-learning.md)
