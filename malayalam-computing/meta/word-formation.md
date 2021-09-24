@@ -14,7 +14,8 @@ Source: [Ravisankar Nair](https://www.facebook.com/ravisankar.nair.94/posts/1381
 * ഞൊറിമിന്നൽ Aurora 
 * ധ്രൂവ മിന്നൽ polar lightning 
 * മിന്നൽ കമ്പി lightning conductor 
-* വിട്ടമായി horizontally ചൊവ്വ് direction
+* വിട്ടമായി horizontally 
+* ചൊവ്വ് direction
 *  ഊനവൈദ്യുതി negative electricity 
 * പൊന്നമ്പർ yellow amber
 *  ഭവം phenomenon
