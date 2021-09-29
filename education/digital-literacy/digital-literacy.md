@@ -108,5 +108,9 @@
 
 {% embed url="https://prdlive.kerala.gov.in/news/190603" %}
 
+## Toolkits
+
+{% embed url="https://www.gsma.com/mobilefordevelopment/connected-society/mistt/" %}
+
 
 
