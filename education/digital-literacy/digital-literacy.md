@@ -104,3 +104,9 @@
 
 ![News in 27th December 2020](../../.gitbook/assets/image%20%2873%29.png)
 
+{% embed url="https://wtplive.in/Cover-Story/dr-nr-gramaprakash-about-digital-divide-and-literacy-2223" %}
+
+{% embed url="https://prdlive.kerala.gov.in/news/190603" %}
+
+
+
