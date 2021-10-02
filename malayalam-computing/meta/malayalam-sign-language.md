@@ -8,5 +8,7 @@
 
 {% embed url="https://www.reporterlive.com/newsroom/malayalam-sign-language-alphabets-released-by-the-minister-of-higher-education-dr-r-bindu-60289" %}
 
+{% embed url="https://www.ai-media.tv/sign-language-alphabets-from-around-the-world/" %}
+
 
 
