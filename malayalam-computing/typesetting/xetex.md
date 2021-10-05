@@ -78,9 +78,9 @@ Output of the above content should look like this:
 
 The above tutorial is a very basic tutorial on using XeTeX with Malayalam. For detailed tutorial, please refer any tutorial available freely in internet. Example: [https://en.wikibooks.org/wiki/LaTeX](https://en.wikibooks.org/wiki/LaTeX)
 
-## Faux Italic
+## Faux slanted text
 
-To generate faux\(artificial, fake\) italic text from a font that does not have it, following trick can be used:
+To generate faux\(artificial, fake\) slanted text from a font that does not have it, following trick can be used:
 
 ```text
 % Tikz package for faking slanted text
