@@ -78,3 +78,19 @@ Output of the above content should look like this:
 
 The above tutorial is a very basic tutorial on using XeTeX with Malayalam. For detailed tutorial, please refer any tutorial available freely in internet. Example: [https://en.wikibooks.org/wiki/LaTeX](https://en.wikibooks.org/wiki/LaTeX)
 
+## Faux Italic
+
+To generate faux\(artificial, fake\) italic text from a font that does not have it, following trick can be used:
+
+```text
+% Tikz package for faking slanted text
+\usepackage{tikz}
+\renewcommand{\textsl}[1]{\tikz[baseline=(X.base)] \node[xslant=0.2231153] (X) {#1};}
+```
+
+Then in a chapter content use 
+
+```text
+\textsl{ഈജിപ്ഷ്യൻ ഹീറോഗ്ലിഫിക്സ്}  
+```
+
