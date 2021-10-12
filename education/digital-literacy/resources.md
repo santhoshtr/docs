@@ -1,8 +1,6 @@
 # Resources
 
-{% embed url="http://cbseacademic.nic.in/web\_material/Manuals/Cyber\_Safety\_Manual.pdf" %}
+{% embed url="http://cbseacademic.nic.in/web_material/Manuals/Cyber_Safety_Manual.pdf" %}
 
-![](../../.gitbook/assets/image%20%28114%29.png)
-
-
+![](<../../.gitbook/assets/image (111).png>)
 

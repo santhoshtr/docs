@@ -4,7 +4,7 @@ As more and more people enter to the Malayalam digital world, the issue of not h
 
 ### What is an input method?
 
-An [input method](https://en.wikipedia.org/wiki/Input_method) or Input Method Editor\(IME\) is a program that helps to enter characters that are not natively present in the keyboard of computer\(computing devices\). An IME is necessary when the script has more characters than the number of keys available in the keyboard. Malayalam need an IME to generate Malayalam content because it is not present as native keys in a keyboard or it has more characters than any keyboard.
+An [input method](https://en.wikipedia.org/wiki/Input_method) or Input Method Editor(IME) is a program that helps to enter characters that are not natively present in the keyboard of computer(computing devices). An IME is necessary when the script has more characters than the number of keys available in the keyboard. Malayalam need an IME to generate Malayalam content because it is not present as native keys in a keyboard or it has more characters than any keyboard.
 
 ### Why the selection of input method is important?
 
@@ -26,17 +26,19 @@ Keyboards remains the most accurate and robust ways to input. Once practiced, th
 
 There is a misconception that one should use a government prescribed official keyboard for typing in Malayalam. First of all, there is no such official prescription.
 
-{% page-ref page="inscript.md" %}
+{% content-ref url="inscript.md" %}
+[inscript.md](inscript.md)
+{% endcontent-ref %}
 
 **Phonetic keyboards**
 
-While the inscript layout claims to be logically designed, some people find it difficult to learn, and prefer phonetic keyboards. In phonetic keybaords, the English keys in physical keyboard are mapped to phonetically similar letters in a language. So p will be mapped to പ\(pa\), instead of ജ\(ja\).
+While the inscript layout claims to be logically designed, some people find it difficult to learn, and prefer phonetic keyboards. In phonetic keybaords, the English keys in physical keyboard are mapped to phonetically similar letters in a language. So p will be mapped to പ(pa), instead of ജ(ja).
 
 Both phonetic or inscript, or in general one to one keymap based keyboards are the most flexible keyboards. The user need to decide the character sequences.
 
 **Transliteration based keyboards**
 
-These are the most popular keyboards for Indian languages. There is a wide spread habit of writing Indian scripts using latin alphabet\(transliteration\). The same latin alphabet sequences are used to input a language. They are not one to one mapping, they are sequence based. Typing `ki` produces കി. For Malayalam, [Swanalekha](https://swanalekha.smc.org.in), Mozhi are some of the popular transliteration based input methods.
+These are the most popular keyboards for Indian languages. There is a wide spread habit of writing Indian scripts using latin alphabet(transliteration). The same latin alphabet sequences are used to input a language. They are not one to one mapping, they are sequence based. Typing `ki` produces കി. For Malayalam, [Swanalekha](https://swanalekha.smc.org.in), Mozhi are some of the popular transliteration based input methods.
 
 ![Swanalekha transliteration key mapping](https://swanalekha.smc.org.in/img/swanalekha.png)
 
@@ -44,7 +46,7 @@ In general, these keyboards also provide flexibility to type anything as long as
 
 The popularity of transliteration is not limited to Indian languages. For example, a widely used input method in Chinese, [Pinyin](https://en.wikipedia.org/wiki/Pinyin) is a transliteration based input method.
 
-![Typing in Chinese using pinyin](../../.gitbook/assets/image%20%2821%29.png)
+![Typing in Chinese using pinyin](<../../.gitbook/assets/image (7).png>)
 
 #### Probabilistic keyboards
 
@@ -54,9 +56,9 @@ I called it probabilistic because they give you suggestions about what to type a
 
 [Varnam Input method](https://www.varnamproject.com), Google input tool are some examples.
 
-![ Varnam Input method](../../.gitbook/assets/image%20%2810%29.png)
+![ Varnam Input method](<../../.gitbook/assets/image (9).png>)
 
-![ Google Input tool](../../.gitbook/assets/image%20%2817%29.png)
+![ Google Input tool](<../../.gitbook/assets/image (8).png>)
 
 Since predicting what the user meant require longer sequences, these input methods are word translitrations. That means, user types approximate transliteration of a word, and then the input method offers suggestions. The aspect of "no learning" comes with the cost that, the input method "dictates" what you can type. If you want to literally input something that the system does not know, you are at loss. Similarly, the usual editing practices like deleting few characters using backspace and continuing there is painful because, what you continue is considered as a new word.
 
@@ -70,15 +72,15 @@ But it is important to differentiate this from a keyboard based input method. Sp
 
 #### Handwriting recognition based input methods
 
-This is another input method with relatively nil learning. Users write using a finger or stylus in a virtual pad in the screen. Google handwriting tool is an example. The efficiency and accuracy is getting better everyday. Similar to speech recognition based input method, this is also designed for quick communications in non-sophisticated contexts with very little editing involved. Again, this is also not a replacement for keyboard based input method. Ambiguity in handwriting is often introduced as spelling mistakes. For example, symbols like \[0, o, ഠ, ം\], \[l, 1, \|, \, /, I, i\], \[:, ഃ\] are all often misinterpreted. In formal communication or writing context, it is not uncommon for a user to have to switch to keyboard based input method for corrections.
+This is another input method with relatively nil learning. Users write using a finger or stylus in a virtual pad in the screen. Google handwriting tool is an example. The efficiency and accuracy is getting better everyday. Similar to speech recognition based input method, this is also designed for quick communications in non-sophisticated contexts with very little editing involved. Again, this is also not a replacement for keyboard based input method. Ambiguity in handwriting is often introduced as spelling mistakes. For example, symbols like \[0, o, ഠ, ം], \[l, 1, |, \\, /, I, i], \[:, ഃ] are all often misinterpreted. In formal communication or writing context, it is not uncommon for a user to have to switch to keyboard based input method for corrections.
 
 ### Integration
 
 A recent small study by my colleagues at Wikimedia found that many non-latin users think that they cannot input non-lating content directly to any application. Instead they use random websites that provide online typing tool and copy paste that content to other applications. This is a big gap in awareness. Now a days you can input content to any application directly just like how you would type English. A good input method is well integrated to operating system and won't require copy paste.
 
-Many applications respond to keypresses in various ways\(autocomplete, contextual help\). You will lose all those features, if content is not entered directly, but used copy paste. Almost all applications provide undo-redo support for editing. If the input method is not well integrated to operating system, you will lose that features as well.
+Many applications respond to keypresses in various ways(autocomplete, contextual help). You will lose all those features, if content is not entered directly, but used copy paste. Almost all applications provide undo-redo support for editing. If the input method is not well integrated to operating system, you will lose that features as well.
 
-For example, a "smart" keyboard that shows latin and when you press space, converting what you typed to your preferred language is intercepting with the undo redo operations\(in general edit transactions. The application see you first typing English and then suddenly changes to Malayalam for example.
+For example, a "smart" keyboard that shows latin and when you press space, converting what you typed to your preferred language is intercepting with the undo redo operations(in general edit transactions. The application see you first typing English and then suddenly changes to Malayalam for example.
 
 A good input method won't reveal your input keys to application, It will internally process it and present the output to application. For example, if you are using a transliteration based input method "Swanalekha", even if you are typing in english key sequences, the screen does not show those characters, the application to which you are typing does not see those English characters. It only gets Malayalam. The keys are processed in a special layer called "composition or pre-edit".
 
@@ -86,7 +88,7 @@ A good input method won't reveal your input keys to application, It will interna
 
 #### Control
 
-You should master this skill to express freely. Just like the pen does not interfere with what you write, the input methods should just do what you wanted to write. It should not control what you can type, where you can type. Probabilistic or "intelligent" keyboards control what you type and what you can type. They also decide the spelling or style of words too based on popularity\(or sometimes popular mistakes\).
+You should master this skill to express freely. Just like the pen does not interfere with what you write, the input methods should just do what you wanted to write. It should not control what you can type, where you can type. Probabilistic or "intelligent" keyboards control what you type and what you can type. They also decide the spelling or style of words too based on popularity(or sometimes popular mistakes).
 
 #### Privacy
 
@@ -102,7 +104,7 @@ Make sure that your input method is not an experiment of some developer who just
 
 #### Correctness
 
-The ultimate goal of an input method is to generate data in unicode. You may be using voice, handwriting, transliteration, autocompletion or such methods. But the end result should be correct according to the language. If an input method produce 0\(zero\) for ം\(anuswaram\) or o\(English o\) for Malayalam TTA\(ഠ\), you may not notice it immediately because they are visually same. But they are completely different. The content generated become unsuitable for any language processing. Malayalam unicode has interesting characteristics and complexities. The language written in digital form, sometimes may use invisible characters like Zero Width Joiner and Zero width non-joiners. If [an input method adds these invisible characters in unwanted places](https://thottingal.in/blog/2007/10/11/%E0%B4%B5%E0%B4%B0%E0%B4%AE%E0%B5%8A%E0%B4%B4%E0%B4%BF%E0%B4%AF%E0%B4%BF%E0%B4%B2%E0%B5%81%E0%B4%82-%E0%B4%AE%E0%B5%8A%E0%B4%B4%E0%B4%BF-%E0%B4%95%E0%B5%80%E0%B4%AE%E0%B4%BE%E0%B4%A8%E0%B4%BF%E0%B4%B2/), then also it is buggy.
+The ultimate goal of an input method is to generate data in unicode. You may be using voice, handwriting, transliteration, autocompletion or such methods. But the end result should be correct according to the language. If an input method produce 0(zero) for ം(anuswaram) or o(English o) for Malayalam TTA(ഠ), you may not notice it immediately because they are visually same. But they are completely different. The content generated become unsuitable for any language processing. Malayalam unicode has interesting characteristics and complexities. The language written in digital form, sometimes may use invisible characters like Zero Width Joiner and Zero width non-joiners. If [an input method adds these invisible characters in unwanted places](https://thottingal.in/blog/2007/10/11/%E0%B4%B5%E0%B4%B0%E0%B4%AE%E0%B5%8A%E0%B4%B4%E0%B4%BF%E0%B4%AF%E0%B4%BF%E0%B4%B2%E0%B5%81%E0%B4%82-%E0%B4%AE%E0%B5%8A%E0%B4%B4%E0%B4%BF-%E0%B4%95%E0%B5%80%E0%B4%AE%E0%B4%BE%E0%B4%A8%E0%B4%BF%E0%B4%B2/), then also it is buggy.
 
 Since input method is a software, like any software, bugs are often present. But the difference is whether you can report bugs and get it fixed. For that the software should be well maintained.
 
@@ -117,4 +119,3 @@ A well maintained input method will also have accompanied up to date documentati
 #### Easy to learn
 
 Yes, the input method should be easy to learn and practice. How much easy? Please expect a minimum effort here. You did not learn to write using pen in 10 minutes. So a lifelong skill require time to learn and master. If you are not willing to spend time to learn an input method, the choices are input methods that predict what you meant in probabilistic way and they often control what you can write.
-

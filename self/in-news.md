@@ -16,15 +16,17 @@
 
 ## 2016
 
-{% file src="../.gitbook/assets/manjari-mathrubhumi.pdf" caption="Manjari feature -Mathrubhumi" %}
+{% file src="../.gitbook/assets/Manjari-Mathrubhumi.pdf" %}
+Manjari feature -Mathrubhumi
+{% endfile %}
 
-{% file src="../.gitbook/assets/manjari-news.pdf" caption="Manjari News report Mathrubhumi" %}
+{% file src="../.gitbook/assets/Manjari-News.pdf" %}
+Manjari News report Mathrubhumi
+{% endfile %}
 
 {% embed url="https://diff.wikimedia.org/2018/01/12/santhosh-thottingal/" %}
 
 ## 2007
 
-![](../.gitbook/assets/image%20%2815%29.png)
-
-
+![](../.gitbook/assets/image.png)
 

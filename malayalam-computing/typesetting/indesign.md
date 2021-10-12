@@ -12,31 +12,32 @@ In 2020 Adobe decided to move to Harfbuzz for text rendering instead of their le
 
 Indesign has automatic hyphenation. It can use the hyphenation rules I wrote.
 
-{% page-ref page="../hyphenation/" %}
+{% content-ref url="../hyphenation/" %}
+[hyphenation](../hyphenation/)
+{% endcontent-ref %}
 
 Indesign CC 2018 comes with Hunspell hyphenation dictionaries. These hyphenation dictionaries are written by me long time back. See [https://github.com/smc/hyphenation](https://github.com/smc/hyphenation)
 
-From menu Edit-&gt; Preferences-&gt;Dictionary, set Language and Hyphenation as “Hunspell”
+From menu Edit-> Preferences->Dictionary, set Language and Hyphenation as “Hunspell”
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](<../../.gitbook/assets/image (18).png>)
 
 Create a text frame and add content to it. Make sure that the composer is set as Adobe World-Ready paragraph composer. You can access it from Paragraph settings as shown below. Without this settings, the Indic text won’t render correctly.
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](<../../.gitbook/assets/image (19).png>)
 
 Tick the “Hyphenation” from the paragraph settings. Select an appropriate font for the content. Choose the language of the content as Malayalam or other Indic language you are working on. See screenshot below. Justify the content.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (20).png>)
 
 The content will get automatically hyphenated. If you resize the column width or insert more content, text will get automatically hyphenated.
 
 The exported PDF will look like:
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](<../../.gitbook/assets/image (21).png>)
 
 You can see the hyphenation rules in Installation folder: C:\Program Files\Adobe\Adobe InDesign CC 2018\Resources\Dictionaries\LILO\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries
 
 Patterns are available for Assamese, Bengali, Panjabi, Gujarati, Assamese, Marathi, Tamil, Telugu, Odia, Kannada and Malayalam.
 
 I have not tried older Indesign versions, so I don’t know from which version this feature is available. But I don’t see a reason for not using latest version either.
-

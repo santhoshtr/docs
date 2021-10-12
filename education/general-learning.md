@@ -10,7 +10,7 @@ description: Some useful resources for contnous general learning I use
 
 {% embed url="https://www.youtube.com/user/crashcourse/" %}
 
-{% embed url="https://www.youtube.com/channel/UCYO\_jab\_esuFRV4b17AJtAw" %}
+{% embed url="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw" %}
 
 {% embed url="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA" %}
 
@@ -25,6 +25,4 @@ description: Some useful resources for contnous general learning I use
 {% embed url="https://news.ycombinator.com/news" %}
 
 {% embed url="https://theconversation.com/" %}
-
-
 

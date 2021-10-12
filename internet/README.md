@@ -1,8 +1,6 @@
 # Internet
 
-{% embed url="https://en.wikipedia.org/wiki/List\_of\_countries\_by\_number\_of\_Internet\_users" %}
-
-
+{% embed url="https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users" %}
 
 
 

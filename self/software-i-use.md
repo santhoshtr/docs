@@ -1,5 +1,5 @@
 ---
-description: 'Software, tools, services I use'
+description: Software, tools, services I use
 ---
 
 # Software I use
@@ -19,15 +19,14 @@ description: 'Software, tools, services I use'
 
 ### Online editors
 
-* [Codesandbox.io](https://codesandbox.io) - For sharing code samples that require framework support like Vue projects. An easy way to import a repo to CodeSandbox via URL is with GitHubBox.com. Append 'box' to your github.com URL in between 'hub' and '.com' and it will redirect to CodeSandbox. Here's an example:
+*   [Codesandbox.io](https://codesandbox.io) - For sharing code samples that require framework support like Vue projects. An easy way to import a repo to CodeSandbox via URL is with GitHubBox.com. Append 'box' to your github.com URL in between 'hub' and '.com' and it will redirect to CodeSandbox. Here's an example:
 
-  Change the GitHub URL: [https://github.com/reduxjs/redux/tree/master/examples/todomvc](https://github.com/reduxjs/redux/tree/master/examples/todomvc).
+    Change the GitHub URL: [https://github.com/reduxjs/redux/tree/master/examples/todomvc](https://github.com/reduxjs/redux/tree/master/examples/todomvc).
 
-  To: [https://githubbox.com/reduxjs/redux/tree/master/examples/todomvc](https://githubbox.com/reduxjs/redux/tree/master/examples/todomvc)
-
-* [codepen.io](https://codepen.io/) - For quick code snippets and illustrations
+    To: [https://githubbox.com/reduxjs/redux/tree/master/examples/todomvc](https://githubbox.com/reduxjs/redux/tree/master/examples/todomvc)
+* [codepen.io](https://codepen.io) - For quick code snippets and illustrations
 * Google doc - for collaborative document editing. Heavily used at work
-* [https://etherpad.org/](https://etherpad.org/) for quick collaborative notes. Mostly etherpad.wikimedia.org instance
+* [https://etherpad.org/](https://etherpad.org) for quick collaborative notes. Mostly etherpad.wikimedia.org instance
 
 ## Browser
 
@@ -36,7 +35,7 @@ description: 'Software, tools, services I use'
 
 ## Shell
 
-* [zsh](https://en.wikipedia.org/wiki/Z_shell) with [https://ohmyz.sh/](https://ohmyz.sh/) plugins. I use [Yakuake](https://apps.kde.org/en/yakuake) dropdown terminal in KDE. 
+* [zsh](https://en.wikipedia.org/wiki/Z_shell) with [https://ohmyz.sh/](https://ohmyz.sh) plugins. I use [Yakuake](https://apps.kde.org/en/yakuake) dropdown terminal in KDE. 
 
 ## Design
 
@@ -49,17 +48,17 @@ description: 'Software, tools, services I use'
 * Inkscape for design
 * [Fontforge](https://fontforge.org/en-US/) for inspecting fonts
 * Trufont for quick corrections like bearing, positioning.
-* VS Code for opentype engineering wit[h VS code AFDKO extension that I wrote](https://marketplace.visualstudio.com/items?itemName=santhoshthottingal.vscode-afdko&ssr=false). Automation require python programming, shellscripting and Makefile. I use VSCode for all of these.
+* VS Code for opentype engineering wit[h VS code AFDKO extension that I wrote](https://marketplace.visualstudio.com/items?itemName=santhoshthottingal.vscode-afdko\&ssr=false). Automation require python programming, shellscripting and Makefile. I use VSCode for all of these.
 
 ## Illustrations
 
-* [Excalidraw](https://excalidraw.com/)  - for illustration concepts, flow charts and so on
+* [Excalidraw](https://excalidraw.com)  - for illustration concepts, flow charts and so on
 * [Kami](https://chrome.google.com/webstore/detail/kami-pdf-and-document-ann/iljojpiodmlhoehoecppliohmplbgeij) for PDF annoations, especially for type speciman reviews. Integrates with Google drive
 
 ## Typesetting
 
 * Latex, [Xetex](../malayalam-computing/typesetting/xetex.md) - primarily for Malayalam [typesetting](../malayalam-computing/typesetting/) and research papers
-* [Gummi](https://gummi.app/) - for simple TeX editor with live preview
+* [Gummi](https://gummi.app) - for simple TeX editor with live preview
 * Scribus - rarely. Only for Malayalam support experiments
 
 ## Reading
@@ -68,22 +67,22 @@ I own a Kindle Paperwhite 10th gen ebook reader.  I like its darkmode. I use [Ca
 
 I use the Reader View in Firefox to get clean reading for many websites including wikipedia.
 
-For my wikipedia based learning, I use my own Wikipedia reader application - [wikipedia.thottingal.in](https://wikipedia.thottingal.in) as PWA\(installed in computer and mobile\)
+For my wikipedia based learning, I use my own Wikipedia reader application - [wikipedia.thottingal.in](https://wikipedia.thottingal.in) as PWA(installed in computer and mobile)
 
 #### RSS
 
-For newsfeeds and RSS subscriptions, I use a telegram bot [https://github.com/santhoshtr/telegram-rss-reader](https://github.com/santhoshtr/telegram-rss-reader) It fetches the feeds in regular intervals. Helps me to read in mobile and deskop without any extra application. Adding new feeds is just a matter of pasting the URL to chat. Cons: It is just a linear list of chat messages\(I mute it\) and don't expect feed categorization and organization as you would expect in a RSS reader application
+For newsfeeds and RSS subscriptions, I use a telegram bot [https://github.com/santhoshtr/telegram-rss-reader](https://github.com/santhoshtr/telegram-rss-reader) It fetches the feeds in regular intervals. Helps me to read in mobile and deskop without any extra application. Adding new feeds is just a matter of pasting the URL to chat. Cons: It is just a linear list of chat messages(I mute it) and don't expect feed categorization and organization as you would expect in a RSS reader application
 
 ## Movies
 
 * Netflix
 * Amazon Prime
-* Youtube\(free account\).
+* Youtube(free account).
 * VLC  - Not much these days as I use online services.
 
 ## Search
 
-I primarily use [duckduckgo](https://duckduckgo.com/) as my search engine. Occassionally switch to google if I am curious to see google specific results
+I primarily use [duckduckgo](https://duckduckgo.com) as my search engine. Occassionally switch to google if I am curious to see google specific results
 
 ## Social media and Chat
 
@@ -100,7 +99,7 @@ I primarily use [duckduckgo](https://duckduckgo.com/) as my search engine. Occas
 
 ## Password management
 
-I use [pass](https://www.passwordstore.org/) for password management with GPG encrypted passwords synced with a private gitlab repo. I use its browser extensions too.
+I use [pass](https://www.passwordstore.org) for password management with GPG encrypted passwords synced with a private gitlab repo. I use its browser extensions too.
 
 ## Digital wellbeing
 
@@ -110,13 +109,11 @@ In desktop I use night time color setting to warm up the screen color at sunset.
 
 ## Internet
 
-I use [wireguard](https://www.wireguard.com/) VPN and a [pihole](https://pi-hole.net/) in a small VM hosted in oracle cloud. 
+I use [wireguard](https://www.wireguard.com) VPN and a [pihole](https://pi-hole.net) in a small VM hosted in oracle cloud. 
 
-I Use [nextdns](%20https://nextdns.io/?from=5nv2xqe3) for DNS in my router
+I Use [nextdns](https://nextdns.io/?from=5nv2xqe3) for DNS in my router
 
-I also use a VPS by [Hetzner](https://hetzner.cloud/?ref=OMKwKIQwjf6B) to host my web applications\(that is a referral link worth  €20\)
-
-
+I also use a VPS by [Hetzner](https://hetzner.cloud/?ref=OMKwKIQwjf6B) to host my web applications(that is a referral link worth  €20)
 
 
 

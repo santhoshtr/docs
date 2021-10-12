@@ -2,123 +2,121 @@
 
 ## Concept 1
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](<../../.gitbook/assets/image (45).png>)
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](<../../.gitbook/assets/image (69).png>)
 
 ## Concept 2
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](<../../.gitbook/assets/image (46).png>)
 
 ## Concept 3
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](<../../.gitbook/assets/image (47).png>)
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](<../../.gitbook/assets/image (48).png>)
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](<../../.gitbook/assets/image (49).png>)
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](<../../.gitbook/assets/image (51).png>)
 
-![](../../.gitbook/assets/image%20%2857%29.png)
+![](<../../.gitbook/assets/image (53).png>)
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](<../../.gitbook/assets/image (55).png>)
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](<../../.gitbook/assets/image (56).png>)
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](<../../.gitbook/assets/image (57).png>)
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](<../../.gitbook/assets/image (58).png>)
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](<../../.gitbook/assets/image (59).png>)
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](<../../.gitbook/assets/image (60).png>)
 
 
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](<../../.gitbook/assets/image (61).png>)
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](<../../.gitbook/assets/image (62).png>)
 
-![](../../.gitbook/assets/image%20%2859%29.png)
+![](<../../.gitbook/assets/image (63).png>)
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](<../../.gitbook/assets/image (65).png>)
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](<../../.gitbook/assets/image (66).png>)
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](<../../.gitbook/assets/image (67).png>)
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](<../../.gitbook/assets/image (68).png>)
 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](<../../.gitbook/assets/image (70).png>)
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](<../../.gitbook/assets/image (71).png>)
 
-![](../../.gitbook/assets/image%20%2884%29.png)
+![](<../../.gitbook/assets/image (72).png>)
 
-![](../../.gitbook/assets/image%20%2887%29.png)
+![](<../../.gitbook/assets/image (73).png>)
 
-![](../../.gitbook/assets/image%20%2877%29.png)
+![](<../../.gitbook/assets/image (74).png>)
 
-![](../../.gitbook/assets/image%20%2879%29.png)
+![](<../../.gitbook/assets/image (75).png>)
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](<../../.gitbook/assets/image (76).png>)
 
-![](../../.gitbook/assets/image%20%2890%29.png)
+![](<../../.gitbook/assets/image (77).png>)
 
-![](../../.gitbook/assets/image%20%2880%29.png)
+![](<../../.gitbook/assets/image (78).png>)
 
-![](../../.gitbook/assets/image%20%2883%29.png)
+![](<../../.gitbook/assets/image (79).png>)
 
 Designs by SA Nair - [https://www.whykol.com/person/sa-nair-701/](https://www.whykol.com/person/sa-nair-701/)
 
 ## Concept 4
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](<../../.gitbook/assets/image (50).png>)
 
 ## Concept 5
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](<../../.gitbook/assets/image (81).png>)
 
 ## Notable patterns
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](<../../.gitbook/assets/image (82).png>)
 
-![](../../.gitbook/assets/image%20%2888%29.png)
+![](<../../.gitbook/assets/image (83).png>)
 
-![](../../.gitbook/assets/image%20%2881%29.png)
+![](<../../.gitbook/assets/image (84).png>)
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](<../../.gitbook/assets/image (85).png>)
 
-![Equal Height glyphs](../../.gitbook/assets/image%20%2872%29.png)
+![Equal Height glyphs](<../../.gitbook/assets/image (86).png>)
 
-![Equal height &#xD23;&#xD4D;&#xD23;, dot reph position](../../.gitbook/assets/image%20%2867%29.png)
+![Equal height ണ്ണ, dot reph position](<../../.gitbook/assets/image (87).png>)
 
-![&#xD2D;&#xD42;](../../.gitbook/assets/image%20%2882%29.png)
+![ഭൂ](<../../.gitbook/assets/image (88).png>)
 
-![&#xD36;&#xD4D;&#xD30;&#xD40; height](../../.gitbook/assets/image%20%2885%29.png)
+![ശ്രീ height](<../../.gitbook/assets/image (89).png>)
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](<../../.gitbook/assets/image (90).png>)
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](<../../.gitbook/assets/image (91).png>)
 
-![](../../.gitbook/assets/image%20%2892%29.png)
+![](<../../.gitbook/assets/image (92).png>)
 
-![](../../.gitbook/assets/image%20%28113%29.png)
+![](<../../.gitbook/assets/image (112).png>)
 
-![](../../.gitbook/assets/image%20%28112%29.png)
+![](<../../.gitbook/assets/image (113).png>)
 
-![](../../.gitbook/assets/image%20%28115%29.png)
+![](<../../.gitbook/assets/image (114).png>)
 
 
 
-![](../../.gitbook/assets/image%20%28111%29.png)
+![](<../../.gitbook/assets/image (115).png>)
 
 ## Links
 
 {% embed url="https://www.erinmclaughlin.com/hindirinny/category/scripts/malayalam/" %}
 
 {% embed url="https://malayalamfilmtitles.wordpress.com/" %}
-
-
 

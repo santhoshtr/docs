@@ -1,8 +1,10 @@
 # Network debugging tools
 
-{% embed url="https://resolve.rs/tools.html" caption="This site maintains a long list of tools to debug IP, DNS. Certificates and so on" %}
+{% embed url="https://resolve.rs/tools.html" %}
+This site maintains a long list of tools to debug IP, DNS. Certificates and so on
+{% endembed %}
 
-### Domains <a id="domains"></a>
+### Domains <a href="domains" id="domains"></a>
 
 * [Top-level domains from ICANN](https://resolve.rs/domains/tlds.html)
 * [Top-level domains from PublicSuffixList](https://resolve.rs/domains/psl-tlds.html)
@@ -13,7 +15,7 @@
 * [Convert to/from punycode](https://resolve.rs/domains/punycode.html)
 * [Domain Name Finder](https://resolve.rs/domains/finder.html)
 
-### DNS <a id="dns"></a>
+### DNS <a href="dns" id="dns"></a>
 
 * [DNS Lookup](https://resolve.rs/dns/lookup.html)
 * [MX Check](https://resolve.rs/dns/mxcheck.html)
@@ -21,21 +23,20 @@
 * [Reverse DNS Lookup](https://resolve.rs/dns/reverse-lookup.html)
 * [Which DNS server am I using?](https://resolve.rs/#whichdns)
 
-### HTTP <a id="http"></a>
+### HTTP <a href="http" id="http"></a>
 
 * [HTTPS Certificate Check](https://resolve.rs/http/cert-check.html)
-* Headers: [Mine \(request\)](https://resolve.rs/http/myheaders.html), [Server \(response\)](https://resolve.rs/http/headers.html)
+* Headers: [Mine (request)](https://resolve.rs/http/myheaders.html), [Server (response)](https://resolve.rs/http/headers.html)
 * [Content-Type header values](https://resolve.rs/http/content-type.html)
 * [Redirection check](https://resolve.rs/http/redirect-check.html)
 * [URL encode/decode](https://resolve.rs/http/urlencode.html)
 * [URL parser](https://resolve.rs/http/urlparse.html)
 * [User Agent](https://resolve.rs/http/useragent.html)
 
-### TCP/IP <a id="ip"></a>
+### TCP/IP <a href="ip" id="ip"></a>
 
 * [ASN Lookup](https://resolve.rs/ip/asn-lookup.html)
 * [IP Geolocation](https://resolve.rs/ip/geolocation.html)
 * [TCP Ports](https://resolve.rs/ip/tcp-ports.html)
-* [TLS Certificate Check](https://resolve.rs/ip/tls-cert-check.html) \(aka SSL\)
+* [TLS Certificate Check](https://resolve.rs/ip/tls-cert-check.html) (aka SSL)
 * [What's my IP? ](https://resolve.rs/ip/whatsmyip.html)
-

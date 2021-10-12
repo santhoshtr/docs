@@ -8,9 +8,11 @@ Digitization often starts with scanning the old documents as good quality images
 
 ## Links
 
-{% embed url="https://www.kssppublications.com/eureka/" caption="Eureka Archive: 50 വർഷത്തെ യുറീക്ക സൗജന്യമായി വായിക്കാം" %}
+{% embed url="https://www.kssppublications.com/eureka/" %}
+Eureka Archive: 50 വർഷത്തെ യുറീക്ക സൗജന്യമായി വായിക്കാം
+{% endembed %}
 
-{% embed url="http://keralasahityaakademi.org/online\_library/" caption="Kerala Sahithya Academi Online library" %}
-
-
+{% embed url="http://keralasahityaakademi.org/online_library/" %}
+Kerala Sahithya Academi Online library
+{% endembed %}
 

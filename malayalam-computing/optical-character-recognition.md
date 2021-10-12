@@ -4,7 +4,7 @@
 
 Install tesseract and mlayalam language pack
 
-```text
+```
 $ apt install tesseract-ocr tesseract-ocr-mal
 ```
 
@@ -33,11 +33,9 @@ The `out.txt` file will have the text recognized from image
 
 {% embed url="https://ocr.smc.org.in/" %}
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](<../.gitbook/assets/image (44).png>)
 
 ## Links
 
 {% embed url="https://github.com/harish2704/pottan-ocr" %}
-
-
 

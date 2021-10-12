@@ -6,13 +6,13 @@
 
 ഇതിൽ ഒരുദാഹരണം ങ്ങ എന്ന കൂട്ടക്ഷരത്തിന്റെ തുടക്കത്തിലെ ചുറ്റിലുള്ള കുനിപ്പിനെക്കുറിച്ചുള്ളതാണ്. മലയാളമനോരമയുടെ തലക്കെട്ടുകളിൽ ഉപയോഗിക്കുന്ന ഫോണ്ടുകളിൽ ആ കുനിപ്പ് ഇല്ല. മഞ്ജരി ഫോണ്ടിലും ഇതില്ല. 
 
-![Malayala Manorama -Title](../../.gitbook/assets/image%20%2841%29.png)
+![Malayala Manorama -Title](<../../.gitbook/assets/image (41).png>)
 
 മ എന്ന അക്ഷരത്തിന്റെ രൂപം വളരെയേറെ മാറിവരുന്നതായി കാണുന്നു. ഒരു ആർച്ചിനിടയിലെ വലത്തോട്ട് ചെരിഞ്ഞ വെട്ട് 
 
 ![](../../.gitbook/assets/ma.png)
 
-![Deshabhimani Title](../../.gitbook/assets/image%20%2842%29.png)
+![Deshabhimani Title](<../../.gitbook/assets/image (42).png>)
 
 അച്ചടിയിൽ കാണുന്ന ഇത്തരം മ കളിൽ ചിലത് പേനകൊണ്ട് എഴുതാൻ ബുദ്ധിമുട്ടാണ്. ഈ രൂപം കണ്ട് അതുപോലെ വരച്ചുവെയ്ക്കാൻ ശ്രമിച്ചാൽ പലരും പലരീതിയിൽ മ എഴുതും. ബ്രാഹ്മിയിൽ നിന്ന് വട്ടെഴുത്തിലേയ്ക്ക് വന്ന മ യുടെ ഇതുപോലെ പല ഘട്ടങ്ങളിലൂടെ കടന്നുപോയതാണെന്ന് കാണാം
 
@@ -20,7 +20,7 @@
 
 റ്റ എന്ന കൂട്ടക്ഷരം ററ എന്ന നിരത്തിയെഴുതിയ ശൈലിയിൽ നിന്നും അടുക്കിയെഴുതുന്ന ശൈലിയിലേക്ക് മാറിവരുന്നുണ്ട്. ഇതിന് ഒന്നാമത്തെ കാരണം ററ എന്ന നിരത്തിയെഴുത്തിൽ വായനയ്ക്ക് വരുന്ന ആശയക്കുഴപ്പമാണ്. ലാറ്റിൻ വാക്കുകൾ നമ്മുടെ നിത്യോപയോഗത്തിൽ ലിപ്യന്തരണം ചെയ്തുപയോഗിക്കുന്ന ഇക്കാലത്ത് മീറററ് എന്നെഴുതിയാൽ ആശയക്കുഴപ്പമില്ലാതെ വായിക്കാനാകില്ല. ഇതൊഴിവാക്കാൻ റ്റ എപ്പോഴും അടുക്കിത്തന്നെ എഴുതുന്ന രീതിയിലേക്ക് അച്ചടി മാറുന്നുണ്ട്. രണ്ടാമതായി ഡിജിറ്റൽ ഫോണ്ടുകൾ പഴയലിപി/പുതിയലിപി ഭേദമില്ലാതെ ഇവയെ അടുക്കിത്തന്നെ ചിത്രീകരിക്കുന്നുണ്ട്. കാഴ്ചയിൽ ഒരുപോലെയിരിക്കുകയും എന്നാൽ ഡാറ്റയിൽ വെവ്വേറെയായിരിക്കുകയും ചെയ്യുന്ന വാക്കുകൾ സൈബർസുരക്ഷാപ്രശ്നങ്ങൾ ഉണ്ടാക്കുകയും ചെയ്യും.
 
-![&#xD31;&#xD4D;&#xD31;&#xD4D;&#xD30; is exception for always stacked &#xD31;&#xD4D;&#xD31;. This could be because of nonambiguity ](../../.gitbook/assets/image%20%2843%29.png)
+![റ്റ്ര is exception for always stacked റ്റ. This could be because of nonambiguity ](<../../.gitbook/assets/image (43).png>)
 
 റ്റയുടെ കാര്യംപോലെത്തന്നെയാണ് ന്റ. 
 
@@ -28,19 +28,21 @@
 
 ### Latinization of script 
 
-- For the uninitiated, Latinisation occurs when designers take the familiar As Bs and Cs used in English \(and other languages\) as their point of reference in designing other writing systems. The Latin script has undergone much evolution over the centuries, and its rich typographic heritage can easily spill over onto writing systems with different conventions. This overspill could amount to the borrowing of stylistic details like serifs, copy-pasting the same arches between different scripts, or even reappropriating entire letters. In a less obvious sense, it can also amount to the way a typographic family is set up with bold and italic styles being propagated onto scripts where they are alien, or re-proportioning a script to work in typographic environments that were set up to accommodate Latin.
+\- For the uninitiated, Latinisation occurs when designers take the familiar As Bs and Cs used in English (and other languages) as their point of reference in designing other writing systems. The Latin script has undergone much evolution over the centuries, and its rich typographic heritage can easily spill over onto writing systems with different conventions. This overspill could amount to the borrowing of stylistic details like serifs, copy-pasting the same arches between different scripts, or even reappropriating entire letters. In a less obvious sense, it can also amount to the way a typographic family is set up with bold and italic styles being propagated onto scripts where they are alien, or re-proportioning a script to work in typographic environments that were set up to accommodate Latin.
 
-{% embed url="http://www.fontpad.co.uk/loops-and-latinisation/" caption="On Latin influence in Thai typeface design" %}
+{% embed url="http://www.fontpad.co.uk/loops-and-latinisation/" %}
+On Latin influence in Thai typeface design
+{% endembed %}
 
 {% embed url="https://cadsondemak.com/ibm-plex-thai/" %}
 
-ഡിജിറ്റൽ അക്ഷരരൂപങ്ങളുടെ നിർമിതി ആയാസരഹിതമായിക്കൊണ്ടിരിക്കുകയാണ്. അത് കൂടുതൽ ഡിസൈനർമാരെ ഈ മേഖലയിലുണ്ടാക്കുകയും അവരുടെ പരീക്ഷണങ്ങൾ ലിപിയിൽ ചലനങ്ങൾ ഉണ്ടാക്കുകയും ചെയ്യും. സ്വന്തം കൈപ്പടതന്നെ ഫോണ്ടായി ഉപയോഗിക്കാവുന്ന കാലം വിദൂരമൊന്നുമല്ല.\(gives personal touch to what you write\).അതൊരുപക്ഷേ കൈയക്ഷരത്തിലൂടെ ലിപി പരിണമിച്ചിരുന്ന പഴയകാലത്തേക്ക് നമ്മളെ എത്തിക്കുമോ?
+ഡിജിറ്റൽ അക്ഷരരൂപങ്ങളുടെ നിർമിതി ആയാസരഹിതമായിക്കൊണ്ടിരിക്കുകയാണ്. അത് കൂടുതൽ ഡിസൈനർമാരെ ഈ മേഖലയിലുണ്ടാക്കുകയും അവരുടെ പരീക്ഷണങ്ങൾ ലിപിയിൽ ചലനങ്ങൾ ഉണ്ടാക്കുകയും ചെയ്യും. സ്വന്തം കൈപ്പടതന്നെ ഫോണ്ടായി ഉപയോഗിക്കാവുന്ന കാലം വിദൂരമൊന്നുമല്ല.(gives personal touch to what you write).അതൊരുപക്ഷേ കൈയക്ഷരത്തിലൂടെ ലിപി പരിണമിച്ചിരുന്ന പഴയകാലത്തേക്ക് നമ്മളെ എത്തിക്കുമോ?
 
 ### ഔദ്യോഗിക ലിപിപരിഷ്കരണങ്ങൾ
 
 Popular typefaces will definitely will decide the style that survives through generations
 
-{% embed url="https://thottingal.in/documents/Malayalam%20Orthographic%20Reforms\_%20Impact%20on%20Language%20and%20Popular%20Culture.pdf" %}
+{% embed url="https://thottingal.in/documents/Malayalam%20Orthographic%20Reforms_%20Impact%20on%20Language%20and%20Popular%20Culture.pdf" %}
 
 ### പാഠ്യപദ്ധതി
 
@@ -57,4 +59,3 @@ Popular typefaces will definitely will decide the style that survives through ge
 ### Imposed restrictions
 
 If an operating system has monopoly and impose a specific font to all users and does not allow any other fonts than they ship, a situation arise where people left with no options and the font influence the way they read and write the language
-

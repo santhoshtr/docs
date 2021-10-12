@@ -10,19 +10,20 @@ To provide spelling suggestions, [the FST based morphology analyser](../morpholo
 
 One thing I observed from the above approach is, in reality the candidate words after all the above steps for Malayalam is most of the time one or two. This make step 3 less relevant. At the same time, an edit distance based approach would have generated more than 5 candidate words for each misspelled word. The candidates from the edit distance based suggestion mechanism would be very diverse, meaning, they won’t have be related to the indented word at all.  The following images illustrates the difference.
 
-![Spelling suggestion based on morphology analysis approach](../../.gitbook/assets/image%20%2812%29.png)
+![Spelling suggestion based on morphology analysis approach](<../../.gitbook/assets/image (1).png>)
 
-![Spelling suggestions from edit distance based candidates](../../.gitbook/assets/image%20%281%29.png)
+![Spelling suggestions from edit distance based candidates](<../../.gitbook/assets/image (2).png>)
 
-#### Out of lexicon words <a id="out-of-lexicon-words"></a>
+#### Out of lexicon words <a href="out-of-lexicon-words" id="out-of-lexicon-words"></a>
 
 Compared to the finite set word list, the FST based morphology analyser and generator system covers large number of words using its generation system based on morpho-phonotactics. For a discussion on this see my previous [blog post about the coverage test.](https://thottingal.in/blog/2018/08/11/malayalam-morphology-analyser-status-update/) Since every language vocabulary is a dynamic system, it is still impossible to cover 100% words in a language all the time. New words get added to language every now and then. There are nouns related to places, people names, product names etc that is not in the lexicon of Morphology analyser. So, these words will be reported as unknown words by the spellchecker. Unknown word is interpreted as misspelled word too. This issue is a known problem. But since a spellchecker is often used by a human user, the severity of the issue depends whether the spellchecker does not know about lot of commonly used words or not. Most of the spellcheckers provide an option to add to dictionary to avoid this issue.
 
 As part of the Morphology analyser, the expansion of the lexicon is a never ending task. As the lexicon grows, the spellchecker improves automatically.
 
-{% page-ref page="../morphology-analysis/" %}
+{% content-ref url="../morphology-analysis/" %}
+[morphology-analysis](../morphology-analysis/)
+{% endcontent-ref %}
 
 {% hint style="info" %}
-_Finite-State Spell-Checking with Weighted Language and Error_ _Models—Building and Evaluating Spell-Checkers with Wikipedia as Corpus_ Tommi A Pirinen, Krister Lindén \[[pdf](http://www.ling.helsinki.fi/~klinden/pubs/PirinenLrec2010.pdf)\] This paper outlines the usage of Finite state transducer technique to address the issue of infinite dictionary of morphologically rich languages. They use Finnish as the example language
+_Finite-State Spell-Checking with Weighted Language and Error_ _Models—Building and Evaluating Spell-Checkers with Wikipedia as Corpus_ Tommi A Pirinen, Krister Lindén \[[pdf](http://www.ling.helsinki.fi/\~klinden/pubs/PirinenLrec2010.pdf)] This paper outlines the usage of Finite state transducer technique to address the issue of infinite dictionary of morphologically rich languages. They use Finnish as the example language
 {% endhint %}
-
