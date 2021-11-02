@@ -2,7 +2,7 @@
 
 ### Useful online tools
 
-* Logo maker: [https://hatchful.shopify.com/](https://hatchful.shopify.com) 
+* Logo maker: [https://hatchful.shopify.com/](https://hatchful.shopify.com)&#x20;
 * Arts with free license [https://artvee.com/](https://artvee.com)
 * 3d perspective of mobile web pages [https://threed.io/](https://threed.io)
 * The super fast color schemes generator! [https://coolors.co/](https://coolors.co)
@@ -21,9 +21,9 @@
 ## Icons
 
 * Compilatation of various free icons [https://icones.js.org/](https://icones.js.org)
-*  [https://feathericons.com](https://t.co/rIqNZyVoB7?amp=1)
-* [https://heroicons.com](https://t.co/DrhOTLgu5Q?amp=1) 
-* [https://ionicons.com](https://t.co/R8PCjodkN7?amp=1) 
+* &#x20;[https://feathericons.com](https://t.co/rIqNZyVoB7?amp=1)
+* [https://heroicons.com](https://t.co/DrhOTLgu5Q?amp=1)&#x20;
+* [https://ionicons.com](https://t.co/R8PCjodkN7?amp=1)&#x20;
 * [https://shittyicons.com/](https://shittyicons.com)
 * [https://thenounproject.com/](https://thenounproject.com)
 * [https://remixicon.com/](https://remixicon.com)
@@ -33,13 +33,13 @@
 * [https://akveo.github.io/eva-icons/](https://akveo.github.io/eva-icons/)
 * Icons search engine [https://iconduck.com/](https://iconduck.com)
 
-## Illustration 
+## Illustration&#x20;
 
-* [https://illlustrations.co](https://t.co/LEAYYFpJU8?amp=1) 
-*    [https://undraw.co](https://t.co/qS3nm0WeQN?amp=1) Open-source illustrations for any idea you can imagine and create.
+* [https://illlustrations.co](https://t.co/LEAYYFpJU8?amp=1)&#x20;
+*   &#x20;[https://undraw.co](https://t.co/qS3nm0WeQN?amp=1) Open-source illustrations for any idea you can imagine and create.
 
     A constantly updated design project with beautiful SVG images that you can use completely free and without attribution.
-*  [https://humaaans.com](https://t.co/GtfT6XxGjp?amp=1)
+* &#x20;[https://humaaans.com](https://t.co/GtfT6XxGjp?amp=1)
 
 ## Personas & People
 
