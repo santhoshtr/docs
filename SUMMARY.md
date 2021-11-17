@@ -108,6 +108,7 @@
   * [Theory of computation](computer-science/theory-of-computation.md)
   * [Compilers and Interpreters](computer-science/compilers-and-interpreters.md)
   * [Graphics](computer-science/graphics.md)
+  * [Data Visualization](computer-science/data-visualization.md)
   * [Parsers](computer-science/parsers.md)
   * [Data Structures & Algorithms](computer-science/data-structures-and-algorithms.md)
   * [Finite State Transducer](computer-science/finite-state-transducer.md)
