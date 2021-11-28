@@ -168,6 +168,7 @@
   * [People](software-engneering/people.md)
   * [Performance](software-engneering/performance.md)
   * [Code Review](software-engneering/code-review.md)
+* [Web3](web3.md)
 * [Web Typography](web-typography.md)
 * [Writing](writing.md)
 * [പാട്ടുകൾ](malayalam-songs.md)
