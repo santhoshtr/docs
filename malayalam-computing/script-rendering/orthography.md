@@ -1,10 +1,14 @@
 # Orthography
 
+## മലയാളലിപിയുടെ സമഗ്രത&#x20;
+
+[https://chengazhi.ssus.ac.in/images/chengazhi-2.pdf](https://chengazhi.ssus.ac.in/images/chengazhi-2.pdf) മലയാളലിപിയുടെ സമഗ്രത - കെ എച് ഹുസൈൻ. ചെങ്ങഴി, കാലടി സംസ്കൃത സർവകലാശാല.
+
 ## How to use an old lipi font as new lipi font
 
 ![](<../../.gitbook/assets/image (52).png>)
 
-Using this line of css `font-feature-settings: "psts" off, "pres" off; `I turn off pstf - post base substitution used for u signs, ഋ sign. Then turn off pres-prebase substitution used for ്ര signs.
+Using this line of css `font-feature-settings: "psts" off, "pres" off;` I turn off pstf - post base substitution used for u signs, ഋ sign. Then turn off pres-prebase substitution used for ്ര signs.
 
 How fragile the old lipi and new arguments? - An old lipi font like Manjari can be quickly converted to new lipi font by just using a single line CSS. This is the power of opentype(only if used properly in a font). The aesthetics that the designer have in mind is valid only when it is used as per the default settings. Users are free to make it new lipi like this, provided they have technical know how.
 
