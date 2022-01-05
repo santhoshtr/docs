@@ -12,7 +12,7 @@ description: My notes on best practices for web typography for multi lingual con
 
 Then we can use other relative units (`em` or `rem`) to set font sizes for other elements. This is crucial because it means that changing the base font size will also change all other font sizes.
 
-The body text of the page should respect the browser setting.(Note: [Wikipedia does not do that](https://phabricator.wikimedia.org/T254055), even though [it is recommended in style guide](https://design.wikimedia.org/style-guide/visual-style_typography.html#use-of-styles))
+The body text of the page should respect the browser setting.(Note: [Wikipedia does not do that](https://phabricator.wikimedia.org/T254055), even though [it is recommended in style guide](https://design.wikimedia.org/style-guide/visual-style\_typography.html#use-of-styles))
 
 As per [https://accessibility.digital.gov/visual-design/typography/](https://accessibility.digital.gov/visual-design/typography/):  **Use a large enough font size for body text so that people can comfortably read.** Use at least an effective size of 16px, but this can vary depending on the design of the font.
 
@@ -31,15 +31,15 @@ As per [https://accessibility.digital.gov/visual-design/typography/](https://acc
   * [Modular Scale](https://www.modularscale.com)
   * A set of js, css, sass libraries to implement this - [https://github.com/modularscale](https://github.com/modularscale)
   * Typesetting body text - Talk by Tim brown [https://vimeo.com/156203722](https://vimeo.com/156203722)
-* using musical scales for better scale harmony - Owen Gregory [Composing the New Canon: Music, Harmony, Proportion](https://24ways.org/2011/composing-the-new-canon) 
+* using musical scales for better scale harmony - Owen Gregory [Composing the New Canon: Music, Harmony, Proportion](https://24ways.org/2011/composing-the-new-canon)&#x20;
 
 ## **Script characteristics**
 
 Depending one the script characteristics, specifically the nature of glyphs in the scrpt, latin defaults for font metrics will need adjustments. Following are two script classification based on glyphs.
 
-### **Tall scripts **
+### **Tall scripts**&#x20;
 
- Language that require extra line height to accommodate larger glyphs, including South and Southeast Asian and Middle Eastern languages** **listed below(incomplete).
+&#x20;Language that require extra line height to accommodate larger glyphs, including South and Southeast Asian and Middle Eastern languages **** listed below(incomplete).
 
 * ar - Arabic
 * bn- Bengali
@@ -95,25 +95,25 @@ Google material guidelines does a similar [grouping](https://material.io/design/
 
 ## **Font selection**
 
-Selecting a font stack that works across all operating systems, browsers, their versions for all scripts we want to support is a hard problem. It is harder because we don't have a clear definition of what works good. I provide two principles about default fonts. 
+Selecting a font stack that works across all operating systems, browsers, their versions for all scripts we want to support is a hard problem. It is harder because we don't have a clear definition of what works good. I provide two principles about default fonts.&#x20;
 
 **Respect the native fonts set by users** Do not set a specific font for any platform.  If the platform provides options to change the default fonts, allow them to use that features and consume our content. Just set sans-serif, or sans as font stacks. Simple and stupid.
 
 **OR**
 
-**Enforce a typographic identity **Use webfonts to enforce a brand typograpy without relying on platforms fonts and not allowing users to override. Choose the best fonts for the script wisely and embed it, take care of performance aspects.
+**Enforce a typographic identity** Use webfonts to enforce a brand typograpy without relying on platforms fonts and not allowing users to override. Choose the best fonts for the script wisely and embed it, take care of performance aspects.
 
 Anything in between by guessing the availability of fonts and using long font stacks does not work for targetting multi script, multi lingual audience. The concept of universally available fonts in a platform and using it in font stack is very fragile for non-English content. To make it worse, the default, native proprietory fonts some operating systems ships for some scripts are very broken and aesthetically ugly. They are ugly because they had the same constraints of Noto(see below) and follow the UI metrics guidelines that is designed as one metrics for all scripts.
 
-Here is a quote from John Hurdson about constraints in developing types for Windows and how it affected Malayalam font Nirmala UI(_Nirmala Malayalam, another mindless type design - debate between Hashim PM and John Hudson, the designer of Nirmala and Kartika fonts. 28 July 2013 _[https://web.archive.org/web/20190921104444/http://www.typophile.com:80/node/105005](https://web.archive.org/web/20190921104444/http://www.typophile.com:80/node/105005))
+Here is a quote from John Hurdson about constraints in developing types for Windows and how it affected Malayalam font Nirmala UI(_Nirmala Malayalam, another mindless type design - debate between Hashim PM and John Hudson, the designer of Nirmala and Kartika fonts. 28 July 2013_ [https://web.archive.org/web/20190921104444/http://www.typophile.com:80/node/105005](https://web.archive.org/web/20190921104444/http://www.typophile.com:80/node/105005))
 
 > The fixed restrictions of the UI metrics was the primary, non-negotiable term in the Nirmala UI design brief: whatever we did had to fit within the vertical metrics of the Segoe UI and other UI fonts. The core target size for UI use, despite the increase in screen resolutions on many Win8 devices, is still 9pt at 96ppi, i.e. 12 ppem, with some Office UI items displaying at 8pt (with further restrictions on ppi height through VDMX adjustments at some sizes). At 12 ppem, we have exactly 3 pixels below the baseline before we hit the OS/2 WinDescent limit, beyond which glyphs will be clipped. Many of the Indian writing systems make significant use of the space below the baseline, so we had to employ a number of strategies to squeeze subjoined letters and other descending shapes into the UI metrics. The results are not all pleasant, and some contravene the norms of these writing systems, achieving only a legible decipherability, rather than true readability.
 
 ### **Noto**
 
-Noto is a font family comprising over 100 individual fonts, which are together designed to cover all the scripts encoded in the Unicode standard**. **The Noto family is designed with the goal of achieving visual harmony (e.g., compatible heights and stroke thicknesses) across multiple languages/scripts.This multi script requirement is hard to achieve and Noto tried its best. But note that typefaces designed specifically for a single script does not have that constraint and in general they tend to be more aesthetically true to the script. 
+Noto is a font family comprising over 100 individual fonts, which are together designed to cover all the scripts encoded in the Unicode standard**.** The Noto family is designed with the goal of achieving visual harmony (e.g., compatible heights and stroke thicknesses) across multiple languages/scripts.This multi script requirement is hard to achieve and Noto tried its best. But note that typefaces designed specifically for a single script does not have that constraint and in general they tend to be more aesthetically true to the script.&#x20;
 
-* Noto being the default sans serif font in android phones(shipped by google), there is no need to mention in the font stack for them. 
+* Noto being the default sans serif font in android phones(shipped by google), there is no need to mention in the font stack for them.&#x20;
 * Noto is not installed by default in any desktop operating systems. Each comes with their native fonts as default sans-serif, serif fonts. So adding Noto in font stack does not serve there too
 * The smart phone market in south asian countries are owned by Xiami and others who ship their own theming and allows users to customize default UI fonts.
 * Noto is designed as a graceful final fallback solution for all scripts. Using that as the "Choice" is a lazy solution. Not mentioning it in font stack also gives the same solution.
@@ -123,7 +123,7 @@ Noto is a font family comprising over 100 individual fonts, which are together d
 * [Selecting Typefaces For Body Text](http://practice.typekit.com/lesson/selecting-typefaces-for-body-text/)
 * [Five Principles For Choosing And Using Typefaces](https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/)
 * [Best Practices For Combining Typefaces](https://www.smashingmagazine.com/2010/11/best-practices-of-combining-typefaces/)
-* [This page provides](https://r12a.github.io/scripts/fontlist/#result) a (not exhaustive) list of fonts, grouped by script, that are available via the Windows 10 and Mac OS X operating systems, as well as Google's Noto fonts and SIL fonts. 
+* [This page provides](https://r12a.github.io/scripts/fontlist/#result) a (not exhaustive) list of fonts, grouped by script, that are available via the Windows 10 and Mac OS X operating systems, as well as Google's Noto fonts and SIL fonts.&#x20;
 
 ## **Hyphenation**
 
@@ -139,10 +139,10 @@ hyphens: auto;
 #### Recommendations
 
 * It is better to **not justify** if hyphenation support is not available. For other browsers or old versions https://github.com/mnater/Hyphenopoly can be used. This library uses hyphenation patterns I authored for Indic languages
-* The hyphenation character defaults to Soft Hyphen(`0x00AD`) but that is not always optimal. Several scripts prefere non-visible hyphenation character at the place of word break. This can be controlled by `hyphenate-character `CSS property. But not widely implemented. ` -webkit-hyphenate-character: '';` works for webkit browsers
+* The hyphenation character defaults to Soft Hyphen(`0x00AD`) but that is not always optimal. Several scripts prefere non-visible hyphenation character at the place of word break. This can be controlled by `hyphenate-character` CSS property. But not widely implemented. `-webkit-hyphenate-character: '';` works for webkit browsers
 * Refer [https://www.w3.org/TR/typography/#hyphenation](https://www.w3.org/TR/typography/#hyphenation) ( which I contributed with content and examples)
 
-**Android**: Android comes with hyphenation support. For Indic languages it [uses](https://android.googlesource.com/platform/external/hyphenation-patterns/+/4f23db401df34c634b1aa7248a76e43ff4ce4d8a) the hyphenation patterns I authored 
+**Android**: Android comes with hyphenation support. For Indic languages it [uses](https://android.googlesource.com/platform/external/hyphenation-patterns/+/4f23db401df34c634b1aa7248a76e43ff4ce4d8a) the hyphenation patterns I authored&#x20;
 
 {% embed url="http://clagnut.com/blog/2395/" %}
 
@@ -158,7 +158,7 @@ There are [predefined](https://w3c.github.io/predefined-counter-styles/) counter
 
 ### Links
 
-*  [https://www.w3.org/TR/typography/#lists](https://www.w3.org/TR/typography/#lists)
+* &#x20;[https://www.w3.org/TR/typography/#lists](https://www.w3.org/TR/typography/#lists)
 
 ## Opentype features
 
@@ -185,12 +185,12 @@ Avoid using stylistic alternates ss01. that are font specific. Applying this on 
 ## CSS properties that should not be used
 
 * `font-smoothing` - badly speced and unxpected results depending background and foreground color. Pick a good font instead.
-* `font-stretch `- Don't override the designer of the font. The results won't be pretty, especially for complex scripts
+* `font-stretch` - Don't override the designer of the font. The results won't be pretty, especially for complex scripts
 * `font-size-adjust` - Don't override the designer of the font. The results won't be pretty, especially for complex scripts
-* `:dir()` The :dir() CSS pseudo-class matches elements based on the directionality of the text contained in them. Be aware that the behavior of the` :dir()` pseudo-class is not equivalent to the `[dir=…]` attribute selectors. The latter match the HTML dir attribute, and ignore elements that lack it — even if they inherit a direction from their parent. (Similarly, `[dir=rtl]` and `[dir=ltr]` won't match the auto value.) In contrast, `:dir()` will match the value calculated by the user agent, even if inherited. **it  doesn’t have great support, is considered **[**experimental**](https://developer.mozilla.org/en-US/docs/Web/CSS/:dir)****
-* `direction` The direction CSS property sets the direction of text, table columns, and horizontal overflow. Use `rtl` for languages written from right to left (like Hebrew or Arabic), and `ltr` for those written from left to right (like English and most other languages). Note that text direction is usually defined within a document (e.g., with [HTML's `dir` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/dir)) rather than through direct use of the `direction` property.
+* `:dir()` The :dir() CSS pseudo-class matches elements based on the directionality of the text contained in them. Be aware that the behavior of the `:dir()` pseudo-class is not equivalent to the `[dir=…]` attribute selectors. The latter match the HTML dir attribute, and ignore elements that lack it — even if they inherit a direction from their parent. (Similarly, `[dir=rtl]` and `[dir=ltr]` won't match the auto value.) In contrast, `:dir()` will match the value calculated by the user agent, even if inherited. **it  doesn’t have great support, is considered** [**experimental**](https://developer.mozilla.org/en-US/docs/Web/CSS/:dir)****
+* `direction` The direction CSS property sets the direction of text, table columns, and horizontal overflow. Use `rtl` for languages written from right to left (like Hebrew or Arabic), and `ltr` for those written from left to right (like English and most other languages). Note that text direction is usually defined within a document (e.g., with [HTML's `dir` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global\_attributes/dir)) rather than through direct use of the `direction` property.
 * `letter-spacing` Don't change this to support complex scripts. Just use defaults
-*  `font-kerning` By default kerning is enabled by browsers. Don't play with it.
+* &#x20;`font-kerning` By default kerning is enabled by browsers. Don't play with it.
 
 ## Text decoration
 
@@ -210,7 +210,7 @@ For emphasis, avoid using underlines. If at all this is required please be aware
 
 {% embed url="https://betterwebtype.com/articles/2018/10/15/rhythm-in-web-typography/" %}
 
-### Resources & tools for vertical rhythm <a href="resources--tools-for-vertical-rhythm" id="resources--tools-for-vertical-rhythm"></a>
+### Resources & tools for vertical rhythm <a href="#resources--tools-for-vertical-rhythm" id="resources--tools-for-vertical-rhythm"></a>
 
 Here’s a list of really cool and useful tools and resource when it comes to rhythm in web typography.
 
@@ -235,4 +235,4 @@ Some examples of good typography appled for long form content. Content is latin 
 
 #### Links
 
-* Can you typeset a book with CSS?** **[**https://www.w3.org/Talks/2013/0604-CSS-Tokyo/**](https://www.w3.org/Talks/2013/0604-CSS-Tokyo/)****
+* Can you typeset a book with CSS? **** [**https://www.w3.org/Talks/2013/0604-CSS-Tokyo/**](https://www.w3.org/Talks/2013/0604-CSS-Tokyo/)****
