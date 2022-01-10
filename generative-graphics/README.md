@@ -16,3 +16,8 @@
 * How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds? This book focuses on the programming strategies and techniques behind computer simulations of natural systems using Processing. [https://natureofcode.com/](https://natureofcode.com)
 *
 
+### Constraint driven graphics
+
+{% embed url="https://minimator.app" %}
+
+{% embed url="http://100r.co/site/dotgrid.html" %}

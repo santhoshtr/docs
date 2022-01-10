@@ -151,7 +151,7 @@
 * [Life](life/README.md)
   * [Digital Minimalism](life/digital-minimalism.md)
 * [Linux](linux.md)
-* [Machine learning](machine-learning/README.md)
+* [Machine learning](machine-learning.md)
   * [Neural Networks](machine-learning/neural-networks.md)
 * [Mathematics](mathematics.md)
 * [Music](music.md)
