@@ -9,7 +9,8 @@
 * FlowcHarts [https://isoflow.io/](https://isoflow.io)
 * Impossible diagrams [https://im-possible.info](https://im-possible.info)
 * Random  SVG generator [http://williamsharkey.com/Shapes.html](http://williamsharkey.com/Shapes.html)
-*
+* Colour palatte generation [https://couleur.io/](https://couleur.io)
+* HTML and svg templates [https://fffuel.co/](https://fffuel.co)
 
 ### Free stockphotos:
 
