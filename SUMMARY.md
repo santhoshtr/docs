@@ -93,6 +93,7 @@
   * [ഭാഷാ പഠനം](malayalam-computing/meta/script-learning.md)
   * [ശ്രേഷ്ഠ ഭാഷ](malayalam-computing/meta/classical-language.md)
   * [Dictionary](malayalam-computing/meta/dictionary.md)
+* [Encyclopedia](malayalam-computing/encyclopedia.md)
 
 ***
 
