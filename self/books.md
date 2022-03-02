@@ -1,0 +1,9 @@
+---
+description: Books in which I am an author or co-author
+---
+
+# Books
+
+വാക്കിലെ ലോകങ്ങൾ - അച്ചടി മലയാളത്തിന്റെ 200 വർഷങ്ങൾ - SPCS, Benchamin Beyli Foundation -2021. അക്ഷരങ്ങളുടെ ഡിജിറ്റൽ കാലം. [https://santhoshtr.gitlab.io/digitaltypography-article/digitaltypography.pdf](https://santhoshtr.gitlab.io/digitaltypography-article/digitaltypography.pdf)
+
+മലയാളഭാഷയുടെ വൈജ്ഞാനികപദവി സി എം മുരളീധരൻ 2021. ഡിജിറ്റൽ കാലഘട്ടത്തിലെ ഭാഷ - ഒരു സമീപനരേഖ

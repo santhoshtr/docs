@@ -9,6 +9,7 @@
   * [Talks](self/talks.md)
   * [Projects](self/projects.md)
   * [In news](self/in-news.md)
+  * [Books](self/books.md)
 
 ## Malayalam Computing
 
