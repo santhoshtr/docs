@@ -8,7 +8,7 @@ Google i18n team developed a tool to create detailed report of fonts. The tool n
 
 [Fontconfig documentation](https://www.freedesktop.org/software/fontconfig/fontconfig-user.html)
 
-```text
+```
 $ fc-list MyFont : family : style : lang
 MyFont:style=Bold:lang=aa|ay|bi|br|ch|en|es|eu|fj|fur|gd|gl|gv|ho|ia|id|ie|io|it|mg|ml|nl|nr|nso|oc|om|pt|rm|so|sq|ss|st|sw|tl|tn|ts|uz|vo|xh|yap|zu|an|fil|ht|jv|kj|kwm|li|ms|ng|pap-an|pap-aw|rn|r
 w|sc|sg|sn|su|za
@@ -16,13 +16,14 @@ MyFont:style=Regular:lang=aa|ay|bi|br|ch|da|de|es|et|eu|fi|fj|fo|fur|fy|gl|ho|ia
 il|ht|jv|kj|kwm|li|ms|na|ng|pap-an|pap-aw|rn|rw|sc|sg|sn|su|za
 ```
 
-```text
+```
 $ fc-match MyFont
 MyFont.otf: "MyFont" "Regular"
 ```
 
-```text
+```
 $ fc-validate --lang=en MyFont.otf
 MyFont.otf:0 Missing 1 glyph(s) to satisfy the coverage for en language
 ```
 
+Collection of tools used in font engineering : [https://gist.github.com/n8willis/4935568add0d7501979980c8774ac68e](https://gist.github.com/n8willis/4935568add0d7501979980c8774ac68e)
