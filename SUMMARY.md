@@ -164,6 +164,7 @@
 * [Science](science.md)
 * [Software Libraries](software-libraries.md)
 * [Software Engneering](software-engneering/README.md)
+  * [Architecture](software-engneering/architecture.md)
   * [Product Management](software-engneering/product-management.md)
   * [Docker](software-engneering/docker.md)
   * [Programming](software-engneering/programming/README.md)
