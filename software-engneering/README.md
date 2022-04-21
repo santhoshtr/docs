@@ -17,6 +17,14 @@
   * Pros and cons of DRY code [https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/](https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/) - "one place to change a fact".  things that tend to change together should be closer together.
   * [https://coderefinery.nz/2019/01/28/beyond-dry-why-redundancy-makes-your-code-more-robust-and-less-fragile/](https://coderefinery.nz/2019/01/28/beyond-dry-why-redundancy-makes-your-code-more-robust-and-less-fragile/)
 
+## "Software"
+
+The term software was first introduced by [John Tukey](https://en.wikipedia.org/wiki/John\_Tukey). He is also credited with coining the term '[bit](https://en.wikipedia.org/wiki/Bit)'
+
+The first published use of the term "[software![Offsite Link](https://www.historyofinformation.com/assets/ic-offsite.png)](https://en.wikipedia.org/wiki/Software#cite\_note-2)" in a computing context is often credited to American statistician [John W. Tukey![Offsite Link](https://www.historyofinformation.com/assets/ic-offsite.png)](https://en.wikipedia.org/wiki/John\_Tukey), who published the term in "The Teaching of Concrete Mathematics," [_American Mathematical Monthly_![Offsite Link](https://www.historyofinformation.com/assets/ic-offsite.png)](https://en.wikipedia.org/wiki/American\_Mathematical\_Monthly)_,_ January 9, 1958. Tukey wrote:
+
+"Today the 'software' comprising the carefully planned interpretive routines, compilers, and other aspects of automative programming are at least as important to the modern electronic calculator as its 'hardware' of tubes, transistors, wires, tapes and the like" ([http://www.maa.org/mathland/mathtrek\_7\_31\_00.html![Offsite Link](https://www.historyofinformation.com/assets/ic-offsite.png)](https://www.maa.org/mathland/mathtrek\_7\_31\_00.html), accessed 02-02-2010).
+
 ## Links
 
 * What distinguishes great software engineers? \[[pdf](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)] \[[HN](https://news.ycombinator.com/item?id=25107285)]
