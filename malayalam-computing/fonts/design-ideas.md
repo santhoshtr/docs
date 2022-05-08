@@ -80,6 +80,12 @@ Designs by SA Nair - [https://www.whykol.com/person/sa-nair-701/](https://www.wh
 
 ![](<../../.gitbook/assets/image (81).png>)
 
+## Concept 6
+
+![](../../.gitbook/assets/Screenshot\_20220508\_101123.png)
+
+
+
 ## Notable patterns
 
 ![](<../../.gitbook/assets/image (82).png>)
