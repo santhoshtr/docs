@@ -30,6 +30,7 @@
   * [Ya Ra Va Signs](malayalam-computing/script-rendering/ya-ra-va-signs.md)
   * [U signs](malayalam-computing/script-rendering/u-signs.md)
 * [Type Design](malayalam-computing/fonts/README.md)
+  * [Color Fonts](malayalam-computing/fonts/color-fonts.md)
   * [Curves](malayalam-computing/fonts/curves.md)
   * [Design Ideas](malayalam-computing/fonts/design-ideas.md)
   * [Manjari](malayalam-computing/fonts/manjari/README.md)
