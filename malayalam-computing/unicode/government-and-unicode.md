@@ -6,6 +6,8 @@
 
 {% file src="../../.gitbook/assets/22302_1635605750225.pdf" %}
 
+ലിപി പരിഷ്കരിച്ചുകൊണ്ടുള്ള 2022 മെയ് 9 ലെ സർക്കാർ ഉത്തരവ് [https://archive.org/download/malayalam-script-reformation-2022/Malayalam%20Script%20Reformation%202022.pdf](https://archive.org/download/malayalam-script-reformation-2022/Malayalam%20Script%20Reformation%202022.pdf) GO(P) No 4/2022/P & ARD
+
 യുണിക്കോഡ് ഫോണ്ടുകൾ തന്നെ ഇ-ഓഫീസ് സംവിധാനത്തിൽ ഉപയോഗിക്കണമെന്ന 16-11-2021ലെ ഉത്തരവ്, ITCell-2/228/2021-ITD
 
 {% file src="../../.gitbook/assets/Circular_ Unicode fonts.pdf" %}
