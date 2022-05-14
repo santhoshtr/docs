@@ -26,9 +26,9 @@ As per [https://accessibility.digital.gov/visual-design/typography/](https://acc
 
 ### **Links**
 
-* [https://type-scale.com/](https://type-scale.com) A tool to try and choose a scale rhythm(ratio of typeface sizes used for headings, body content
+* [https://type-scale.com/](https://type-scale.com/) A tool to try and choose a scale rhythm(ratio of typeface sizes used for headings, body content
 * Tim Brown’s [modular typeface scales concept](https://alistapart.com/article/more-meaningful-typography/)
-  * [Modular Scale](https://www.modularscale.com)
+  * [Modular Scale](https://www.modularscale.com/)
   * A set of js, css, sass libraries to implement this - [https://github.com/modularscale](https://github.com/modularscale)
   * Typesetting body text - Talk by Tim brown [https://vimeo.com/156203722](https://vimeo.com/156203722)
 * using musical scales for better scale harmony - Owen Gregory [Composing the New Canon: Music, Harmony, Proportion](https://24ways.org/2011/composing-the-new-canon)&#x20;
@@ -216,9 +216,9 @@ Here’s a list of really cool and useful tools and resource when it comes to rh
 
 * [Syncope](http://nowodzinski.pl/syncope/)\
   Syncope is a WYSIWYG tool for establishing vertical rhythm on websites.
-* [Archetype](https://archetypeapp.com)\
+* [Archetype](https://archetypeapp.com/)\
   Create beautiful web typography designs, in the browser.
-* [Grid Lover](https://www.gridlover.net)\
+* [Grid Lover](https://www.gridlover.net/)\
   Establish a typographic system with modular scale & vertical rhythm.
 * [Gutenberg](http://matejlatin.github.io/Gutenberg/)\
   A meaningful web typography starter kit.

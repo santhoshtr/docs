@@ -11,7 +11,7 @@ description: Software, tools, services I use
 
 ## Editors
 
-* [VS Code ](https://wiki.nikitavoloboev.xyz/text-editors/vs-code) - Primary IDE for software development. 
+* [VS Code ](https://wiki.nikitavoloboev.xyz/text-editors/vs-code) - Primary IDE for software development.&#x20;
   * [Fira Code](https://github.com/tonsky/FiraCode) as monospace font with programming ligatures enabled.
 * [Kate](https://kate-editor.org) - For quick text editing. KDE's text editor
 * nano - for editing in console. Also Git commit message editor
@@ -24,18 +24,18 @@ description: Software, tools, services I use
     Change the GitHub URL: [https://github.com/reduxjs/redux/tree/master/examples/todomvc](https://github.com/reduxjs/redux/tree/master/examples/todomvc).
 
     To: [https://githubbox.com/reduxjs/redux/tree/master/examples/todomvc](https://githubbox.com/reduxjs/redux/tree/master/examples/todomvc)
-* [codepen.io](https://codepen.io) - For quick code snippets and illustrations
+* [codepen.io](https://codepen.io/) - For quick code snippets and illustrations
 * Google doc - for collaborative document editing. Heavily used at work
-* [https://etherpad.org/](https://etherpad.org) for quick collaborative notes. Mostly etherpad.wikimedia.org instance
+* [https://etherpad.org/](https://etherpad.org/) for quick collaborative notes. Mostly etherpad.wikimedia.org instance
 
 ## Browser
 
 * I use Firefox as primary browser.
-* Chrome for my WMF account. Also for its powerful developer tools. 
+* Chrome for my WMF account. Also for its powerful developer tools.&#x20;
 
 ## Shell
 
-* [zsh](https://en.wikipedia.org/wiki/Z_shell) with [https://ohmyz.sh/](https://ohmyz.sh) plugins. I use [Yakuake](https://apps.kde.org/en/yakuake) dropdown terminal in KDE. 
+* [zsh](https://en.wikipedia.org/wiki/Z\_shell) with [https://ohmyz.sh/](https://ohmyz.sh/) plugins. I use [Yakuake](https://apps.kde.org/en/yakuake) dropdown terminal in KDE.&#x20;
 
 ## Design
 
@@ -52,18 +52,18 @@ description: Software, tools, services I use
 
 ## Illustrations
 
-* [Excalidraw](https://excalidraw.com)  - for illustration concepts, flow charts and so on
+* [Excalidraw](https://excalidraw.com/)  - for illustration concepts, flow charts and so on
 * [Kami](https://chrome.google.com/webstore/detail/kami-pdf-and-document-ann/iljojpiodmlhoehoecppliohmplbgeij) for PDF annoations, especially for type speciman reviews. Integrates with Google drive
 
 ## Typesetting
 
 * Latex, [Xetex](../malayalam-computing/typesetting/xetex.md) - primarily for Malayalam [typesetting](../malayalam-computing/typesetting/) and research papers
-* [Gummi](https://gummi.app) - for simple TeX editor with live preview
+* [Gummi](https://gummi.app/) - for simple TeX editor with live preview
 * Scribus - rarely. Only for Malayalam support experiments
 
 ## Reading
 
-I own a Kindle Paperwhite 10th gen ebook reader.  I like its darkmode. I use [Calibre](https://calibre-ebook.com) for ebook management. 
+I own a Kindle Paperwhite 10th gen ebook reader.  I like its darkmode. I use [Calibre](https://calibre-ebook.com) for ebook management.&#x20;
 
 I use the Reader View in Firefox to get clean reading for many websites including wikipedia.
 
@@ -82,7 +82,7 @@ For newsfeeds and RSS subscriptions, I use a telegram bot [https://github.com/sa
 
 ## Search
 
-I primarily use [duckduckgo](https://duckduckgo.com) as my search engine. Occassionally switch to google if I am curious to see google specific results
+I primarily use [duckduckgo](https://duckduckgo.com/) as my search engine. Occassionally switch to google if I am curious to see google specific results
 
 ## Social media and Chat
 
@@ -99,7 +99,7 @@ I primarily use [duckduckgo](https://duckduckgo.com) as my search engine. Occass
 
 ## Password management
 
-I use [pass](https://www.passwordstore.org) for password management with GPG encrypted passwords synced with a private gitlab repo. I use its browser extensions too.
+I use [pass](https://www.passwordstore.org/) for password management with GPG encrypted passwords synced with a private gitlab repo. I use its browser extensions too.
 
 ## Digital wellbeing
 
@@ -109,7 +109,7 @@ In desktop I use night time color setting to warm up the screen color at sunset.
 
 ## Internet
 
-I use [wireguard](https://www.wireguard.com) VPN and a [pihole](https://pi-hole.net) in a small VM hosted in oracle cloud. 
+I use [wireguard](https://www.wireguard.com/) VPN and a [pihole](https://pi-hole.net/) in a small VM hosted in oracle cloud.&#x20;
 
 I Use [nextdns](https://nextdns.io/?from=5nv2xqe3) for DNS in my router
 

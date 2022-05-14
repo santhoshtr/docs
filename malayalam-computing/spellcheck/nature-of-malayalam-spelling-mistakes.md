@@ -19,5 +19,5 @@ I must add that the above classification is not based on a systematic  study of 
 {% endhint %}
 
 {% hint style="info" %}
-The common Malayalam spelling mistakes and confusables were presented in great depth by Renowned linguist and author [Panmana Ramachandran Nair](https://panmana.com) in his books  ‘തെറ്റില്ലാത്ത മലയാളം’, ‘തെറ്റും ശരിയും’, ‘ശുദ്ധ മലയാളം’ and ‘നല്ല മലയാളം’.
+The common Malayalam spelling mistakes and confusables were presented in great depth by Renowned linguist and author [Panmana Ramachandran Nair](https://panmana.com/) in his books  ‘തെറ്റില്ലാത്ത മലയാളം’, ‘തെറ്റും ശരിയും’, ‘ശുദ്ധ മലയാളം’ and ‘നല്ല മലയാളം’.
 {% endhint %}

@@ -13,7 +13,7 @@
 
 ## Learning resources
 
-* [https://www.lightnote.co/](https://www.lightnote.co) Interactive Music Theory Lessons
+* [https://www.lightnote.co/](https://www.lightnote.co/) Interactive Music Theory Lessons
 * Get started making music [https://learningmusic.ableton.com/index.html](https://learningmusic.ableton.com/index.html)
 * Music Theory for Musicians and Normal People - Posters - [https://tobyrush.com/theorypages/index.html](https://tobyrush.com/theorypages/index.html)
 *

@@ -2,9 +2,9 @@
 
 ## Matrix Digital Rain
 
-**Matrix digital rain**, **Matrix code** or sometimes **green rain**, is the computer code featured in [the Matrix series](https://en.wikipedia.org/wiki/The_Matrix_\(franchise\)). The falling green code is a way of representing the activity of the [virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) environment of the [Matrix](https://en.wikipedia.org/wiki/Matrix_\(fictional_universe\)) on screen.([English Wikipedia](https://en.wikipedia.org/wiki/Matrix_digital_rain))
+**Matrix digital rain**, **Matrix code** or sometimes **green rain**, is the computer code featured in [the Matrix series](https://en.wikipedia.org/wiki/The\_Matrix\_\(franchise\)). The falling green code is a way of representing the activity of the [virtual reality](https://en.wikipedia.org/wiki/Virtual\_reality) environment of the [Matrix](https://en.wikipedia.org/wiki/Matrix\_\(fictional\_universe\)) on screen.([English Wikipedia](https://en.wikipedia.org/wiki/Matrix\_digital\_rain))
 
-I was thorougly impressed by the gl matrix  screensaver written by [Jamie Zawinski](https://www.jwz.org)  and others. When screensavers were a thing in Operating systems, I regularly use these screensaver. In 2007, I tried to [modifiy its code and get the letters in Malayalam](https://thottingal.in/blog/2007/11/05/hacking-the-glmatrix-screensaver/)!. Basically, I changed the file where the characters are taken and replaced it with Malayalam characters.
+I was thorougly impressed by the gl matrix  screensaver written by [Jamie Zawinski](https://www.jwz.org/)  and others. When screensavers were a thing in Operating systems, I regularly use these screensaver. In 2007, I tried to [modifiy its code and get the letters in Malayalam](https://thottingal.in/blog/2007/11/05/hacking-the-glmatrix-screensaver/)!. Basically, I changed the file where the characters are taken and replaced it with Malayalam characters.
 
 I even attempted to write this for all Indian languages. The old RPM packages with the changed code is available in [http://mirror.downloadvn.com/nongnu/smc/Screensaver/](http://mirror.downloadvn.com/nongnu/smc/Screensaver/) but may not be usable now.
 
@@ -18,7 +18,7 @@ A few years later, I rewrote [the same in Javascript](https://thottingal.in/proj
 
 ![From https://thottingal.in/projects/js/matrix.html](<../.gitbook/assets/image (24).png>)
 
-Later, [Jishnu](https://j15h.nu) prepared an android live wallpaper with the same concept. [അക്ഷരമഴ is an app available in Google playstore](https://play.google.com/store/apps/details?id=in.androidtweak.rain\&hl=en_IN)([Source code](https://gitlab.com/jishnu7/Akshara-Mazha))
+Later, [Jishnu](https://j15h.nu/) prepared an android live wallpaper with the same concept. [അക്ഷരമഴ is an app available in Google playstore](https://play.google.com/store/apps/details?id=in.androidtweak.rain\&hl=en\_IN)([Source code](https://gitlab.com/jishnu7/Akshara-Mazha))
 
 ![](<../.gitbook/assets/image (25).png>)
 

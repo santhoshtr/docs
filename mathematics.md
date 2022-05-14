@@ -56,14 +56,14 @@
 
 * So You Want to Study Mathematics… [https://www.susanrigetti.com/math](https://www.susanrigetti.com/math)
 * Recommendations by 3blue1brown: [https://www.3blue1brown.com/recommendations](https://www.3blue1brown.com/recommendations)
-* Pauls online math notes - [https://tutorial.math.lamar.edu/](https://tutorial.math.lamar.edu)
-* Mathworld from wolfram alpha - [https://mathworld.wolfram.com/](https://mathworld.wolfram.com)
+* Pauls online math notes - [https://tutorial.math.lamar.edu/](https://tutorial.math.lamar.edu/)
+* Mathworld from wolfram alpha - [https://mathworld.wolfram.com/](https://mathworld.wolfram.com/)
 * [A Gentle Introduction to Tensors](https://www.ese.wustl.edu/\~nehorai/Porat\_A\_Gentle\_Introduction\_to\_Tensors\_2014.pdf) by _Boaz Porat_
 * __[Algebra: An Elementary Text-Book](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp36404) by [_George Chrystal_](https://en.wikipedia.org/wiki/George\_Chrystal)
-* [Approved Textbooks](https://aimath.org/textbooks/approved-textbooks) of the [_American Institute of Mathematics_](https://aimath.org)
+* [Approved Textbooks](https://aimath.org/textbooks/approved-textbooks) of the [_American Institute of Mathematics_](https://aimath.org/)
 * [Book of Proof](https://www.people.vcu.edu/\~rhammack/BookOfProof), Third Edition by _Richard Hammack_
-* __[Books by _Dr. Kenneth Kuttler_](https://klkuttler.com)
-* [Calculus Made Easy](http://calculusmadeeasy.org) by [_Silvanus P. Thompson_](https://en.wikipedia.org/wiki/Silvanus\_P.\_Thompson)
+* __[Books by _Dr. Kenneth Kuttler_](https://klkuttler.com/)
+* [Calculus Made Easy](http://calculusmadeeasy.org/) by [_Silvanus P. Thompson_](https://en.wikipedia.org/wiki/Silvanus\_P.\_Thompson)
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface) by _Bartosz Milewski_
 * __[Euclid's Elements](https://mathcs.clarku.edu/\~djoyce/java/elements/toc.html)
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) by _J. Ström, K. Åström, and T. Akenine-Möller_
