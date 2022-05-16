@@ -18,7 +18,9 @@ I also received Mathrubhasha Puraskaram 2019 from the [Sree Sankaracharya Univer
 
 ### Wikimedia Foundation
 
-Currently I am working as Principal Software Engineer at Language Engineering team of [Wikimedia Foundation](https://wikimediafoundation.org). I work on MediaWiki language support, internationalization, localization, input methods for large number of languages in which Wikipedia exist, fonts, translation tools etc. I live at Thiruvananthapuram, Kerala, India. I work remotely. I joined Wikimedia Foundation in 2011 September 1st.
+Currently I am working as Principal Software Engineer at Language Engineering team of [Wikimedia Foundation](https://wikimediafoundation.org). I work on MediaWiki language support, internationalization, localization, input methods for large number of languages in which Wikipedia exist, fonts, translation tools etc. I live at Thiruvananthapuram, Kerala, India. I work remotely. I joined Wikimedia Foundation in 2011 September 1st.&#x20;
+
+I work 4 days per week for WMF. This is not a WMF work policy, but I chose with a 20% pay cut. I use Fridays for my own learning, type design and such personal projectcs.
 
 As principal software engineer, my work is mostly in the following categories:
 
