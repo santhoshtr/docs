@@ -176,6 +176,7 @@
 * [Web3](web3.md)
 * [Web Typography](web-typography.md)
 * [Writing](writing.md)
-* [പാട്ടുകൾ](malayalam-songs.md)
+* [പാട്ടുകൾ](malayalam-songs/README.md)
+  * [കുട്ടിപ്പാട്ടുകൾ](malayalam-songs/undefined.md)
 * [മലയാളം അച്ചടി](malayalam-printing.md)
 * [ഗവേഷണപ്രബന്ധങ്ങൾ](malayalam-research-papers.md)
