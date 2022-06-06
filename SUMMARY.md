@@ -14,7 +14,6 @@
 ## Malayalam Computing
 
 * [Unicode](malayalam-computing/unicode/README.md)
-  * [Government and Unicode](malayalam-computing/unicode/government-and-unicode.md)
   * [Syllable](malayalam-computing/unicode/syllable.md)
   * [Conjunct](malayalam-computing/unicode/conjunct.md)
   * [Articles](malayalam-computing/unicode/articles.md)
@@ -96,6 +95,9 @@
   * [ശ്രേഷ്ഠ ഭാഷ](malayalam-computing/meta/classical-language.md)
   * [Dictionary](malayalam-computing/meta/dictionary.md)
 * [Encyclopedia](malayalam-computing/encyclopedia.md)
+* [Government](malayalam-computing/government/README.md)
+  * [Script](malayalam-computing/government/script.md)
+  * [കേരള ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ട്](malayalam-computing/government/ksil.md)
 
 ***
 

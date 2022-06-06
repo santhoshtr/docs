@@ -8,6 +8,6 @@
 
 ![](<../.gitbook/assets/image (125) (1).png>)
 
-![](<../.gitbook/assets/image (124).png>)
+![](<../.gitbook/assets/image (124) (1).png>)
 
 ![](<../.gitbook/assets/image (120) (1).png>)
