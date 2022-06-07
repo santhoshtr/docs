@@ -164,6 +164,7 @@
 * [Politics](politics/README.md)
   * [Hatred, Hinduthwa, Nationalism](politics/hatred-hinduthwa-nationalism.md)
 * [Productivity](productivity.md)
+* [Problem Solving](problem-solving.md)
 * [Science](science.md)
 * [Software Libraries](software-libraries.md)
 * [Software Engneering](software-engneering/README.md)
