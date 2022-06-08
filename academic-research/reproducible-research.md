@@ -11,3 +11,7 @@
 * [https://www.nature.com/articles/533452a](https://www.nature.com/articles/533452a)
 
 [**Towards Reproducible Research (2019)**](https://rr-france.github.io/bookrr) This book takes a current perspective onto a number of potentially dangerous situations and practices, to examplify and highlight the symptoms of non-reproducibility in research. Each time, it provides efficient solutions ranging from good-practices that are easily and immediately implementable to more technical tools, all of which are free and have been put to the test by the authors themselves.
+
+
+
+[https://www.jclinepi.com/article/S0895-4356(22)00141-X/pdf](https://www.jclinepi.com/article/S0895-4356\(22\)00141-X/pdf) - To analyse researchers’ compliance with their Data Availability Statement (DAS) from manuscripts published in open access journals with the mandatory DAS. - Even when authors indicate in their manuscript that they will share data upon request, the compliance rate is the same as for authors who do not provide DAS, suggesting that DAS may not be sufficient to ensure data sharing.
