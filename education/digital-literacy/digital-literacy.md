@@ -116,6 +116,8 @@
 
 ## ![](../../.gitbook/assets/image.png)
 
+## ![](<../../.gitbook/assets/image (2).png>)
+
 ## Toolkits
 
 {% embed url="https://www.gsma.com/mobilefordevelopment/connected-society/mistt/" %}
