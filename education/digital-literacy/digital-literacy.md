@@ -112,6 +112,10 @@
 
 {% embed url="https://prdlive.kerala.gov.in/news/190603" %}
 
+## <img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
+
+## ![](../../.gitbook/assets/image.png)
+
 ## Toolkits
 
 {% embed url="https://www.gsma.com/mobilefordevelopment/connected-society/mistt/" %}

@@ -2,7 +2,7 @@
 
 My first attempt to develop a [spellchecker for Malayalam was in 2007](https://wiki.smc.org.in/Spellchecker). I was using [hunspell](https://hunspell.github.io/) and a word list based approach. It was not successful because of rich morphology of Malayalam. Even though I prepared a  manually curated 150K words list, it was nowhere near to cover practically infinite words of Malayalam. For languages with productive morphological processes in compounding and derivation that are capable of generating dictionaries of infinite length, a morphology analysis and generation system is required. &#x20;
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (4).png>)
 
 #### The problems with hunspell based spellchecker and Malayalam <a href="#the-problems-with-hunspell-based-spellchecker-and-malayalam" id="the-problems-with-hunspell-based-spellchecker-and-malayalam"></a>
 
