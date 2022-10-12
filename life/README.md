@@ -30,6 +30,13 @@ Observations about people's behaviors from my experience.
 * **Anchoring**- The "anchor" is a reference point of information (usually the first piece of information received on a topic). All subsequent thinking or decisions are silently "anchored" to this point.
 * **Dunning-Kruger Effect** - People with a low ability at a task are prone to overestimate their ability at that task. Humans are notoriously incapable of objective evaluation of their competency levels.
 
+## Tips
+
+* Learn to sit back, relax and observe. Not everything need a reaction
+* Give yourself enough respect to walk away from someone who does need see your worth
+* Learn how to stop telling people more than they need to know
+*
+
 ## Links
 
 {% embed url="https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172" %}
