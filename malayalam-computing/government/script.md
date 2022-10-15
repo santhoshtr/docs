@@ -1,4 +1,4 @@
-# Government and Unicode
+# Script
 
 എല്ലാ സർക്കാർ ഓഫീസുകളും യുണീക്കോഡധിഷ്ഠിത മലയാളം ഉപയോഗിക്കണമെന്ന 2008 ലെ സർക്കാർ ഉത്തരവ് [https://go.lsgkerala.gov.in/files/go20081110\_6255.pdf](https://go.lsgkerala.gov.in/files/go20081110\_6255.pdf)
 
@@ -11,3 +11,7 @@
 യുണിക്കോഡ് ഫോണ്ടുകൾ തന്നെ ഇ-ഓഫീസ് സംവിധാനത്തിൽ ഉപയോഗിക്കണമെന്ന 16-11-2021ലെ ഉത്തരവ്, ITCell-2/228/2021-ITD
 
 {% file src="../../.gitbook/assets/Circular_ Unicode fonts.pdf" %}
+
+<img src="../../.gitbook/assets/image (105).png" alt="" data-size="original">15/10/2022
+
+{% embed url="https://web.archive.org/web/20221015080557/https://www.mathrubhumi.com/education/news/new-font-and-style-for-competitive-exams-in-kerala-1.7959944" %}

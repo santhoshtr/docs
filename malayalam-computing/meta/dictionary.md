@@ -2,7 +2,7 @@
 
 ## Kerala University Lexicon Project
 
-![](<../../.gitbook/assets/image (105).png>)
+![](<../../.gitbook/assets/image (105) (1).png>)
 
 ![](<../../.gitbook/assets/image (106).png>)
 
