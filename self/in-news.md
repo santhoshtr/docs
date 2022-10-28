@@ -28,5 +28,5 @@ Manjari News report Mathrubhumi
 
 ## 2007
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (2).png>)
 

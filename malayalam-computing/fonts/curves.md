@@ -2,7 +2,7 @@
 
 ## Beziers
 
-* [Bézier curves](https://en.wikipedia.org/wiki/Bézier_curve)
+* [Bézier curves](https://en.wikipedia.org/wiki/B%C3%A9zier\_curve)
 * [ A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
 * [cubic Bézier](https://pomax.github.io/bezierinfo/),
 * [Spiro](https://github.com/raphlinus/spiro) spline
@@ -13,5 +13,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=aVwxzDHniEw" %}
 
+<img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
 
+<img src="../../.gitbook/assets/image (3).png" alt="" data-size="original">
 
+![](<../../.gitbook/assets/image (4).png>)

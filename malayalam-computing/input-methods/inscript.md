@@ -4,7 +4,7 @@ Historically, for Indian languages, [InScript](https://en.wikipedia.org/wiki/InS
 
 According to TDIL, the layout of inscipt is chosen for [the following rationale](http://www.tdil-dc.in/index.php?option=com\_vertical\&parentid=12\&lang=en): "This layout uses the standard QWERTY 101 keyboard. The mapping of the characters is such that it remains common for all the Indian languages (written left to right). This is because of the fact that the basic character set of the Indian languages is common. The vowels are divided into long and short vowels and the consonants are divided into vargs. The INSCRIPT layout takes advantage of these facts and thus the organization is simple. Due to the phonetic nature of the keyboard, a person who knows typing in one Indian script can type in any other Indian script. The logical structure allows ease in learning. In the Inscript keyboard layout, all the vowels are placed on the left side of the keyboard layout and the consonants, on the right side. The placement is such that the characters of one varg are split over two keys. The splitting of the word into keystrokes is based on the phonetic spelling of the word. The sequence required for typing a word is same as the sequence in which the characters of the word are pronounced."
 
-![ Malayalam Inscript old version layout](<../../.gitbook/assets/image (3).png>)
+![ Malayalam Inscript old version layout](<../../.gitbook/assets/image (3) (1).png>)
 
 ![ Malayalam Inscript enhanced layout with 3 layers](<../../.gitbook/assets/image (4) (1).png>)
 
