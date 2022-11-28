@@ -124,6 +124,8 @@ Noto is a font family comprising over 100 individual fonts, which are together d
 * [Five Principles For Choosing And Using Typefaces](https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/)
 * [Best Practices For Combining Typefaces](https://www.smashingmagazine.com/2010/11/best-practices-of-combining-typefaces/)
 * [This page provides](https://r12a.github.io/scripts/fontlist/#result) a (not exhaustive) list of fonts, grouped by script, that are available via the Windows 10 and Mac OS X operating systems, as well as Google's Noto fonts and SIL fonts.&#x20;
+* [Font styles & font fallback](https://www.w3.org/International/articles/typography/fontstyles.en.html) - w3.org internationalization
+*
 
 ## **Hyphenation**
 
