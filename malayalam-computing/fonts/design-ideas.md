@@ -122,7 +122,7 @@ Designs by SA Nair - [https://www.whykol.com/person/sa-nair-701/](https://www.wh
 
 ## Concept 7
 
-
+![](../../.gitbook/assets/image.png)
 
 ## Links
 
