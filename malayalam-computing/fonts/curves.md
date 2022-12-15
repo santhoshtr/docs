@@ -17,6 +17,6 @@
 
 <img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
 
-<img src="../../.gitbook/assets/image (3).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (3) (2).png" alt="" data-size="original">
 
 ![](<../../.gitbook/assets/image (4).png>)

@@ -120,6 +120,10 @@ Designs by SA Nair - [https://www.whykol.com/person/sa-nair-701/](https://www.wh
 
 ![](<../../.gitbook/assets/image (115).png>)
 
+## Concept 7
+
+
+
 ## Links
 
 {% embed url="https://www.erinmclaughlin.com/hindirinny/category/scripts/malayalam/" %}
