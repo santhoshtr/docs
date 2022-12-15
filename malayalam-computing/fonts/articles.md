@@ -7,6 +7,8 @@
 
 Japanese typography [https://aisforfonts.com/sinograms](https://aisforfonts.com/sinograms)
 
+{% embed url="https://www.commarts.com/columns/know-if-a-font-sucks" %}
+
 ## Web Typography
 
 ### Links
