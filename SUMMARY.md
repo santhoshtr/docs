@@ -158,6 +158,7 @@
 * [Linux](linux.md)
 * [Machine learning](machine-learning.md)
   * [Neural Networks](machine-learning/neural-networks.md)
+  * [Dialog systems, Information retrieval](machine-learning/dialog-systems-information-retrieval.md)
 * [Mathematics](mathematics.md)
 * [Music](music.md)
 * [Parenting](parenting.md)
