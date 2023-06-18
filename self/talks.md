@@ -2,7 +2,9 @@
 
 I frequenty give talks and presentation of Language computing and related topics.
 
+### **2023**
 
+* June 15, Machine translation at Wikipedia. Invited talk at Workshop on Open Community-Driven Machine Translation, part of EAMT 2023 Tampere, Finland.
 
 ### 2022
 
