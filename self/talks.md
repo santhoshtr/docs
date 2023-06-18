@@ -8,6 +8,7 @@ I frequenty give talks and presentation of Language computing and related topics
 
 ### 2022
 
+* 2022 Nov 4 മലയാളലിപിയുടെ ഡിജിറ്റൽ വർത്തമാനം- Kerala Sasthra Sahithya Parishath. [Recording](https://www.youtube.com/watch?v=9F7nF82Jnhk)&#x20;
 * March 10, Introduction to Malayalam Computing, Kerala University. [Video recording](https://www.youtube.com/watch?v=nM\_WyQQN2\_M)
 
 ### 2021
