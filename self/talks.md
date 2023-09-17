@@ -4,6 +4,10 @@ I frequenty give talks and presentation of Language computing and related topics
 
 ### **2023**
 
+* Sept 4, "Machine Translation at Wikipedia" at the Workshop on Asian Language Translation during MT Summit 2023 [https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2023/](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2023/)
+* Aug 17, State of Machine Learning at Wikipedia - Wikimania 2023, Singapore
+* Agu 16, Machine learning for Wikipedia - hackathon orientation talk at Hackathon, Wikimania 2023, Singapore
+* Aug 15, Languages and Translation projects at Wikimedia, "Mind the Gap", Google Asia Pacific Headquarters, Singapore
 * June 15, Machine translation at Wikipedia. Invited talk at Workshop on Open Community-Driven Machine Translation, part of EAMT 2023 Tampere, Finland.
 
 ### 2022
