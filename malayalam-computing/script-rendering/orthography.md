@@ -66,3 +66,8 @@ Date 10 Feb 2022
 
 
 ![](<../../.gitbook/assets/image (125).png>)May 30 2022
+
+## Papers
+
+* [The effect of script reform on levels of orthographic knowledge: Evidence from alphasyllabary Malayalam scripts](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285781) Krithika Nambiar, Kiran Kishore, Pranesh Bhargava
+* 
