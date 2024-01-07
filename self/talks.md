@@ -2,7 +2,11 @@
 
 I frequenty give talks and presentation of Language computing and related topics.
 
-### **2023**
+### 2024
+
+* Jan 6: "നിർമിതിബുദ്ധി മാതൃകകളിലെ മലയാളം" - ആധുനികാനന്തര സിദ്ധാന്തങ്ങൾ എന്ന ദേശീയ സെമിനാറിനോടുനബന്ധിച്ചുള്ള പ്രഭാഷണം.[Slides](https://docs.google.com/presentation/d/1tTjdwSdN8h08-MwAoiwDwwJDhrSEDbVyEvw3KK1CzuM/edit#slide=id.p)
+
+### 2023
 
 * Sept 4, "Machine Translation at Wikipedia" at the Workshop on Asian Language Translation during MT Summit 2023 [https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2023/](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2023/)
 * Aug 17, State of Machine Learning at Wikipedia - Wikimania 2023, Singapore
