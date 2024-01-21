@@ -11,4 +11,9 @@ A History of NLP - Great summary of the field over the last 20 or so years. http
 
 https://ig.ft.com/generative-ai/
 
-Kannada LLAMA https://www.tensoic.com/blog/kannada-llama/
+## Local language  - LLMS
+
+* Kannada LLAMA https://www.tensoic.com/blog/kannada-llama/
+* Malaysian Mistral https://github.com/mesolitica/research-paper/blob/master/malaysian-mistral.pdf
+* MaLLaM Malaysia Large Language Model https://github.com/mesolitica/research-paper/blob/master/mallam.pdf https://huggingface.co/mesolitica/mallam-1.1B-4096
+
