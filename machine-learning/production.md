@@ -8,3 +8,7 @@ Making GPUs go BRRR https://horace.io/brrr_intro.html
 
 Patterns for Building LLM-based Systems & Products https://eugeneyan.com/writing/llm-patterns/
 
+
+# ML Engineering
+
+* https://github.com/stas00/ml-engineering https://github.com/stas00/ml-engineering/blob/master/transformers/make-tiny-models.md 

@@ -16,4 +16,13 @@ https://ig.ft.com/generative-ai/
 * Kannada LLAMA https://www.tensoic.com/blog/kannada-llama/
 * Malaysian Mistral https://github.com/mesolitica/research-paper/blob/master/malaysian-mistral.pdf
 * MaLLaM Malaysia Large Language Model https://github.com/mesolitica/research-paper/blob/master/mallam.pdf https://huggingface.co/mesolitica/mallam-1.1B-4096
+* Tamil LLAMA https://arxiv.org/abs/2311.05845
 
+## Copyright
+
+* OpenAI says it’s “impossible” to create useful AI models without copyrighted material https://arstechnica.com/information-technology/2024/01/openai-says-its-impossible-to-create-useful-ai-models-without-copyrighted-material/ - Further, OpenAI writes that limiting training data to public domain books and drawings "created more than a century ago" would not provide AI systems that "meet the needs of today's citizens."
+* https://www.aisnakeoil.com/p/generative-ais-end-run-around-copyright We don’t think the injustice at the heart of generative AI will be redressed by the courts. Maybe changes to copyright law are necessary. Or maybe it will take other kinds of policy interventions that are outside the scope of copyright law. Either way, policymakers can’t take the easy way out.
+
+## Courses
+
+* https://github.com/mlabonne/llm-course 
