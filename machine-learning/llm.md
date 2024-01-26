@@ -11,6 +11,13 @@ A History of NLP - Great summary of the field over the last 20 or so years. http
 
 https://ig.ft.com/generative-ai/
 
+## RLHF
+
+https://towardsdatascience.com/rlhf-reinforcement-learning-from-human-feedback-faa5ff4761d1 
+> "If we aim to match the performance of ChatGPT through open source, I believe we need to start taking training data more seriously. A substantial part of ChatGPT’s effectiveness might not come from, say, specific ML architecture, fine-tuning techniques, or frameworks. But more likely, it’s from the breadth, scale and quality of the instruction data.
+
+> To put it bluntly, fine-tuning large language models on mediocre instruction data is a waste of compute. Let’s take a look at what has changed in the training data and learning paradigm—how we are now formatting the training data differently and therefore learning differently than in past large-scale pre-training."
+
 ## Local language  - LLMS
 
 * Kannada LLAMA https://www.tensoic.com/blog/kannada-llama/
