@@ -25,6 +25,7 @@ https://towardsdatascience.com/rlhf-reinforcement-learning-from-human-feedback-f
 * MaLLaM Malaysia Large Language Model https://github.com/mesolitica/research-paper/blob/master/mallam.pdf https://huggingface.co/mesolitica/mallam-1.1B-4096
 * Tamil LLAMA https://arxiv.org/abs/2311.05845
 * Introducing Airavata: Hindi Instruction-tuned LLM https://ai4bharat.github.io/airavata/ 
+* Malayalam LLM https://github.com/VishnuPJ/MalayaLLM
 
 ## Copyright
 
