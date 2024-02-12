@@ -39,7 +39,7 @@ Depending one the script characteristics, specifically the nature of glyphs in t
 
 ### **Tall scripts**&#x20;
 
-&#x20;Language that require extra line height to accommodate larger glyphs, including South and Southeast Asian and Middle Eastern languages **** listed below(incomplete).
+&#x20;Language that require extra line height to accommodate larger glyphs, including South and Southeast Asian and Middle Eastern languages listed below(incomplete).
 
 * ar - Arabic
 * bn- Bengali
@@ -189,7 +189,7 @@ Avoid using stylistic alternates ss01. that are font specific. Applying this on 
 * `font-smoothing` - badly speced and unxpected results depending background and foreground color. Pick a good font instead.
 * `font-stretch` - Don't override the designer of the font. The results won't be pretty, especially for complex scripts
 * `font-size-adjust` - Don't override the designer of the font. The results won't be pretty, especially for complex scripts
-* `:dir()` The :dir() CSS pseudo-class matches elements based on the directionality of the text contained in them. Be aware that the behavior of the `:dir()` pseudo-class is not equivalent to the `[dir=…]` attribute selectors. The latter match the HTML dir attribute, and ignore elements that lack it — even if they inherit a direction from their parent. (Similarly, `[dir=rtl]` and `[dir=ltr]` won't match the auto value.) In contrast, `:dir()` will match the value calculated by the user agent, even if inherited. **it  doesn’t have great support, is considered** [**experimental**](https://developer.mozilla.org/en-US/docs/Web/CSS/:dir)****
+* `:dir()` The :dir() CSS pseudo-class matches elements based on the directionality of the text contained in them. Be aware that the behavior of the `:dir()` pseudo-class is not equivalent to the `[dir=…]` attribute selectors. The latter match the HTML dir attribute, and ignore elements that lack it — even if they inherit a direction from their parent. (Similarly, `[dir=rtl]` and `[dir=ltr]` won't match the auto value.) In contrast, `:dir()` will match the value calculated by the user agent, even if inherited. **it  doesn’t have great support, is considered** [**experimental**](https://developer.mozilla.org/en-US/docs/Web/CSS/:dir)
 * `direction` The direction CSS property sets the direction of text, table columns, and horizontal overflow. Use `rtl` for languages written from right to left (like Hebrew or Arabic), and `ltr` for those written from left to right (like English and most other languages). Note that text direction is usually defined within a document (e.g., with [HTML's `dir` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global\_attributes/dir)) rather than through direct use of the `direction` property.
 * `letter-spacing` Don't change this to support complex scripts. Just use defaults
 * &#x20;`font-kerning` By default kerning is enabled by browsers. Don't play with it.
@@ -237,4 +237,4 @@ Some examples of good typography appled for long form content. Content is latin 
 
 #### Links
 
-* Can you typeset a book with CSS? **** [**https://www.w3.org/Talks/2013/0604-CSS-Tokyo/**](https://www.w3.org/Talks/2013/0604-CSS-Tokyo/)****
+* Can you typeset a book with CSS? [**https://www.w3.org/Talks/2013/0604-CSS-Tokyo/**](https://www.w3.org/Talks/2013/0604-CSS-Tokyo/)
