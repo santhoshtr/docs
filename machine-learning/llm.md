@@ -26,6 +26,7 @@ https://towardsdatascience.com/rlhf-reinforcement-learning-from-human-feedback-f
 * Tamil LLAMA https://arxiv.org/abs/2311.05845
 * Introducing Airavata: Hindi Instruction-tuned LLM https://ai4bharat.github.io/airavata/ 
 * Malayalam LLM https://github.com/VishnuPJ/MalayaLLM
+* AYA https://huggingface.co/CohereForAI/aya-101
 
 ## Copyright
 
