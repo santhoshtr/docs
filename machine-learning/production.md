@@ -12,3 +12,20 @@ Patterns for Building LLM-based Systems & Products https://eugeneyan.com/writing
 # ML Engineering
 
 * https://github.com/stas00/ml-engineering https://github.com/stas00/ml-engineering/blob/master/transformers/make-tiny-models.md 
+
+
+## Quick hosting and running
+
+- https://together.ai/
+- https://replicate.com/
+- https://anyscale.com/
+- https://baseten.co/
+- https://modal.com/
+- https://banana.dev/
+- https://runpod.io/
+- https://bentoml.com/
+- https://brev.dev/
+- https://octo.ai/
+- https://cerebrium.ai/ 
+- https://fly.io
+- https://www.paperspace.com/notebooks
