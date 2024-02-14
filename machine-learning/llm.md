@@ -23,7 +23,7 @@ https://towardsdatascience.com/rlhf-reinforcement-learning-from-human-feedback-f
 * Kannada LLAMA https://www.tensoic.com/blog/kannada-llama/
 * Malaysian Mistral https://github.com/mesolitica/research-paper/blob/master/malaysian-mistral.pdf
 * MaLLaM Malaysia Large Language Model https://github.com/mesolitica/research-paper/blob/master/mallam.pdf https://huggingface.co/mesolitica/mallam-1.1B-4096
-* Tamil LLAMA https://arxiv.org/abs/2311.05845
+* Tamil LLAMA https://arxiv.org/abs/2311.05845 and later https://abhinand05.medium.com/breaking-language-barriers-introducing-tamil-llama-v0-2-and-its-expansion-to-telugu-and-malayalam-deb5d23e9264
 * Introducing Airavata: Hindi Instruction-tuned LLM https://ai4bharat.github.io/airavata/ 
 * Malayalam LLM https://github.com/VishnuPJ/MalayaLLM
 * AYA https://huggingface.co/CohereForAI/aya-101
