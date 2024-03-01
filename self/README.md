@@ -2,7 +2,7 @@
 
 I am a language computing professional and a typeface designer.
 
-![](<../.gitbook/assets/image (10).png>)
+<figure><img src="../.gitbook/assets/IMG_2457-santhosh.png" alt=""><figcaption></figcaption></figure>
 
 I lead various language computing projects at [Swathanthra Malayalam Computing.](http://smc.org.in) Many of my works on Malayalam computing enable millions of Malayalam users on their computers or phones. I maintain a number of free software projects related to Indic language computing too.
 
@@ -18,7 +18,7 @@ I also received Mathrubhasha Puraskaram 2019 from the [Sree Sankaracharya Univer
 
 ### Wikimedia Foundation
 
-Currently I am working as Principal Software Engineer at Language Engineering team of [Wikimedia Foundation](https://wikimediafoundation.org). I work on MediaWiki language support, internationalization, localization, input methods for large number of languages in which Wikipedia exist, fonts, translation tools etc. I live at Thiruvananthapuram, Kerala, India. I work remotely. I joined Wikimedia Foundation in 2011 September 1st.&#x20;
+Currently I am working as Principal Software Engineer at Language Engineering team of [Wikimedia Foundation](https://wikimediafoundation.org). I work on MediaWiki language support, internationalization, localization, input methods for large number of languages in which Wikipedia exist, fonts, translation tools.  [I built the machine translation infrastructure of Wikipedia](https://diff.wikimedia.org/2023/06/13/mint-supporting-underserved-languages-with-open-machine-translation/), one of the machine translation system with largest language support - 250+ languages.  I live at Thiruvananthapuram, Kerala, India. I work remotely. I joined Wikimedia Foundation in 2011 September 1st.&#x20;
 
 I work 4 days per week for WMF. This is not a WMF work policy, but I chose with a 20% pay cut. I use Fridays for my own learning, type design and such personal projectcs.
 
