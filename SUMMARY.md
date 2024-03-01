@@ -2,13 +2,13 @@
 
 * [Welcome](README.md)
 * [Santhosh Thottingal](self/README.md)
-  * [Ideas](self/ideas.md)
   * [Coding](self/coding.md)
   * [Software I use](self/software-i-use.md)
   * [Research Papers](self/research-papers.md)
   * [Talks](self/talks.md)
   * [Projects](self/projects.md)
   * [In news](self/in-news.md)
+  * [Ideas](self/ideas.md)
   * [Books](self/books.md)
 
 ## Malayalam Computing

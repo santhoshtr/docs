@@ -7,7 +7,7 @@ description: Software, tools, services I use
 ## Operating system
 
 * Ubuntu latest releases with KDE as desktop in my Lenovo X1 Carbon laptop.
-* Android 11 in my Redmi note 10 phone
+* Android 13 in my Nokia G42 phone
 
 ## Editors
 
@@ -26,7 +26,6 @@ description: Software, tools, services I use
     To: [https://githubbox.com/reduxjs/redux/tree/master/examples/todomvc](https://githubbox.com/reduxjs/redux/tree/master/examples/todomvc)
 * [codepen.io](https://codepen.io/) - For quick code snippets and illustrations
 * Google doc - for collaborative document editing. Heavily used at work
-* [https://etherpad.org/](https://etherpad.org/) for quick collaborative notes. Mostly etherpad.wikimedia.org instance
 
 ## Browser
 
@@ -45,8 +44,8 @@ description: Software, tools, services I use
 
 ### Typeface design and development
 
-* Inkscape for design
-* [Fontforge](https://fontforge.org/en-US/) for inspecting fonts
+* Inkscape for design, but now a days I use metapost based design workflow.
+* [Fontra](https://fontra.xyz/) and [Fontforge](https://fontforge.org/en-US/) for inspecting fonts
 * Trufont for quick corrections like bearing, positioning.
 * VS Code for opentype engineering wit[h VS code AFDKO extension that I wrote](https://marketplace.visualstudio.com/items?itemName=santhoshthottingal.vscode-afdko\&ssr=false). Automation require python programming, shellscripting and Makefile. I use VSCode for all of these.
 
@@ -63,11 +62,7 @@ description: Software, tools, services I use
 
 ## Reading
 
-I own a Kindle Paperwhite 10th gen ebook reader.  I like its darkmode. I use [Calibre](https://calibre-ebook.com) for ebook management.&#x20;
 
-I use the Reader View in Firefox to get clean reading for many websites including wikipedia.
-
-For my wikipedia based learning, I use my own Wikipedia reader application - [wikipedia.thottingal.in](https://wikipedia.thottingal.in) as PWA(installed in computer and mobile)
 
 #### RSS
 
@@ -80,13 +75,10 @@ For newsfeeds and RSS subscriptions, I use a telegram bot [https://github.com/sa
 * Youtube(free account).
 * VLC  - Not much these days as I use online services.
 
-## Search
-
-I primarily use [duckduckgo](https://duckduckgo.com/) as my search engine. Occassionally switch to google if I am curious to see google specific results
-
 ## Social media and Chat
 
-* [Twitter](https://twitter.com/santhoshtr/) - I use tweetdeck client in desktop
+* [Twitter](https://twitter.com/santhoshtr/)
+* Mastodon [https://mastodon.social/@sthottingal](https://mastodon.social/@sthottingal)
 * Facebook - I don't use mobile app or login from mobile. In laptop I access it using [Firefox Facebook container](https://www.mozilla.org/en-US/firefox/facebookcontainer/). Now a days I check facebook in 10 mins or so maximum per day. Often ends up with various Malayalam computing related questions people ask in its chat.
 * Telegram - regularly use for family and friends. Also several foss community channels
 * Whatsapp - Not active in any group, but this is required for people to reach out me quickly including some immediate family members.
@@ -109,7 +101,7 @@ In desktop I use night time color setting to warm up the screen color at sunset.
 
 ## Internet
 
-I use [wireguard](https://www.wireguard.com/) VPN and a [pihole](https://pi-hole.net/) in a small VM hosted in oracle cloud.&#x20;
+I use [wireguard](https://www.wireguard.com/) VPN&#x20;
 
 I Use [nextdns](https://nextdns.io/?from=5nv2xqe3) for DNS in my router
 

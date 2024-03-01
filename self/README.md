@@ -24,11 +24,11 @@ I work 4 days per week for WMF. This is not a WMF work policy, but I chose with 
 
 As principal software engineer, my work is mostly in the following categories:
 
-* **Technology** - I review the code written by team members. Help them understanding the systems and projects. I help designing the architecture of the projects. Helps in technical decision making. . I also do coding for some of the critical architectural components. I help other teams in the organization by prividing consultation, reviews
-* **Product**: I help the team's product manager by giving inputs into decision, timelines, estimates. I provide creative concepts that can be incorporated into the product. I help writing documentation, status reports
-* **Project**: Faciliate the code to deploy life cycle by working with developers, test engineers, analytics and dev ops
+* **Technology** - I review the code written by team members. Help them understanding the systems and projects. I help designing the architecture of the projects. Helps in technical decision making.  I also do coding for some of the critical architectural components. I help other teams in the organization by prividing consultation and reviews
+* **Product**: I help the team's product manager by giving inputs into decision, timelines, estimates. I provide creative concepts that can be incorporated into the product. I help writing documentation and status reports
+* **Project**: Faciliate the build to deploy life cycle by working with developers, test engineers, analytics and dev ops
 * **Team**: Mentoring, hiring interviews, sharing knowledge and helping self learning.
-* **External**: Opensource projects, interaction with peer organizations/companies, twitter, blogs
+* **External**: Opensource projects, interaction with peer organizations/companies, social media, blogs and standardization bodies.
 
 See: [My thoughts about the Principal role](https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html)
 
@@ -49,7 +49,7 @@ I studied in state public schools near my village at Palakkad. After 10th standa
 ## Contact
 
 * 📧 santhosh dot thottingal at  gmail dot com
-* [Resume](http://thottingal.in/documents/SanthoshResume2017.pdf)
+* [Resume](http://thottingal.in/documents/SanthoshResume2017.pdf) - last updated on 2017
 * In social media: [Twitter](https://twitter.com/santhoshtr), [Facebook](https://www.facebook.com/santhosh.thottingal)
 * Design portfolio: [behance.net/sthottingal](https://behance.net/sthottingal)
 * PGP Fingerprint: EF23 579B BE51 48A8 0EB2 979B 523D E289 34DA 0B5A
