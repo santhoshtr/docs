@@ -24,6 +24,7 @@
     * [Procrustes Analysis](malayalam-computing/input-methods/handwriting-recognition/procrustes-analysis.md)
   * [Proprietory Input Methods](malayalam-computing/input-methods/proprietory-input-methods.md)
   * [What is a good input method?](malayalam-computing/input-methods/what-is-a-good-input-method.md)
+  * [Typewriter](malayalam-computing/input-methods/typewriter.md)
 * [Script Rendering](malayalam-computing/script-rendering/README.md)
   * [Orthography](malayalam-computing/script-rendering/orthography.md)
   * [Ya Ra Va Signs](malayalam-computing/script-rendering/ya-ra-va-signs.md)
