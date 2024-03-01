@@ -1,3 +1,4 @@
+# Embedding
 
 * A Visual Guide to FastText Word Embeddings  https://amitness.com/2020/06/fasttext-embeddings/
 * What Is FastText? Compared To Word2Vec & GloVe [How To Tutorial In Python] https://spotintelligence.com/2023/12/05/fasttext/
