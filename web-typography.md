@@ -32,6 +32,7 @@ As per [https://accessibility.digital.gov/visual-design/typography/](https://acc
   * A set of js, css, sass libraries to implement this - [https://github.com/modularscale](https://github.com/modularscale)
   * Typesetting body text - Talk by Tim brown [https://vimeo.com/156203722](https://vimeo.com/156203722)
 * using musical scales for better scale harmony - Owen Gregory [Composing the New Canon: Music, Harmony, Proportion](https://24ways.org/2011/composing-the-new-canon)&#x20;
+* Fluid Type Scale [https://www.fluid-type-scale.com/calculate](https://www.fluid-type-scale.com/calculate?)
 
 ## **Script characteristics**
 
