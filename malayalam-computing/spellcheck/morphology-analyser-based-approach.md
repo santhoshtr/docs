@@ -10,9 +10,9 @@ To provide spelling suggestions, [the FST based morphology analyser](../morpholo
 
 One thing I observed from the above approach is, in reality the candidate words after all the above steps for Malayalam is most of the time one or two. This make step 3 less relevant. At the same time, an edit distance based approach would have generated more than 5 candidate words for each misspelled word. The candidates from the edit distance based suggestion mechanism would be very diverse, meaning, they won’t have be related to the indented word at all.  The following images illustrates the difference.
 
-![Spelling suggestion based on morphology analysis approach](<../../.gitbook/assets/image (1) (1) (1).png>)
+![Spelling suggestion based on morphology analysis approach](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
-![Spelling suggestions from edit distance based candidates](<../../.gitbook/assets/image (2) (1).png>)
+![Spelling suggestions from edit distance based candidates](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 #### Out of lexicon words <a href="#out-of-lexicon-words" id="out-of-lexicon-words"></a>
 

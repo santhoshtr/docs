@@ -108,17 +108,17 @@
 
 ![News in 27th December 2020](<../../.gitbook/assets/image (80).png>)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://wtplive.in/Cover-Story/dr-nr-gramaprakash-about-digital-divide-and-literacy-2223" %}
 
 {% embed url="https://prdlive.kerala.gov.in/news/190603" %}
 
-## <img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
+## <img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">
 
 ## ![](<../../.gitbook/assets/image (116).png>)
 
-## ![](<../../.gitbook/assets/image (2).png>)
+## ![](<../../.gitbook/assets/image (2) (1).png>)
 
 ## Toolkits
 

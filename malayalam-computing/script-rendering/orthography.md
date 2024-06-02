@@ -1,6 +1,6 @@
 # Orthography
 
-## മലയാളലിപിയുടെ സമഗ്രത&#x20;
+## മലയാളലിപിയുടെ സമഗ്രത
 
 [https://chengazhi.ssus.ac.in/images/chengazhi-2.pdf](https://chengazhi.ssus.ac.in/images/chengazhi-2.pdf) മലയാളലിപിയുടെ സമഗ്രത - കെ എച് ഹുസൈൻ. ചെങ്ങഴി, കാലടി സംസ്കൃത സർവകലാശാല.
 
@@ -41,8 +41,6 @@ RawFeature=-pres;-psts
 
 ![](<../../.gitbook/assets/image (104).png>)
 
-
-
 ![](<../../.gitbook/assets/image (120) (1) (1).png>)
 
 Date 10 Feb 2022
@@ -51,11 +49,7 @@ Date 10 Feb 2022
 
 Date 10 Feb 2022
 
-
-
 ![](<../../.gitbook/assets/image (121) (1) (1) (1).png>)
-
-
 
 ![](<../../.gitbook/assets/image (126) (1).png>)
 
@@ -63,11 +57,15 @@ Date 10 Feb 2022
 
 ![](<../../.gitbook/assets/image (121).png>)Mathrubhumi May 14, 2022
 
-
-
 ![](<../../.gitbook/assets/image (125).png>)May 30 2022
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>June 1 2024 Malayala Manorama</p></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>ദേശാഭിമാനിയുടെ അഭിപ്രായത്തിൽ പാഠപുസ്തകത്തിൽ 90 ലിപികളാണുള്ളത്.</p></figcaption></figure>
 
 ## Papers
 
 * [The effect of script reform on levels of orthographic knowledge: Evidence from alphasyllabary Malayalam scripts](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285781) Krithika Nambiar, Kiran Kishore, Pranesh Bhargava
-* 
+*
