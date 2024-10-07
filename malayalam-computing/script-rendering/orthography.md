@@ -72,3 +72,5 @@ Date 10 Feb 2022
 {% embed url="https://www.youtube.com/watch?v=nvd3srmNqTk" %}
 Dimitrios Meletis. — Types of orthographic standardization: A sociolinguistic approach
 {% endembed %}
+
+<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
