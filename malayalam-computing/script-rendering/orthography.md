@@ -74,3 +74,7 @@ Dimitrios Meletis. — Types of orthographic standardization: A sociolinguistic 
 {% endembed %}
 
 <figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+
+
+
+{% embed url="https://www.youtube.com/watch?v=6QiaHlRAUes" %}
