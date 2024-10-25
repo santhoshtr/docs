@@ -4,6 +4,7 @@ I frequenty give talks and presentation of Language computing and related topics
 
 ### 2024
 
+* Oct 24: Parametric type design in the era of variable and color fonts” in the Grapholinguistics conference 2024. The conference was held in Università Ca’ Foscari, Venice from 23rd to 25th October 2024 -  [https://thottingal.in/blog/2024/10/25/grapholinguistics-2024/](https://thottingal.in/blog/2024/10/25/grapholinguistics-2024/)
 * Feb 27: "മലയാളത്തിന്റെ ഡിജിറ്റൽ സൗന്ദര്യം" - പുതുശ്ശേരി രാമചന്ദ്രൻ അനുസ്മരണ സെമിനാർ, കേരള സർവകലാശാല. [Slides](https://santhoshtr.github.io/malayalam-digital-aesthetics/)
 * Jan 6: "നിർമിതിബുദ്ധി മാതൃകകളിലെ മലയാളം" - ആധുനികാനന്തര സിദ്ധാന്തങ്ങൾ എന്ന ദേശീയ സെമിനാറിനോടുനബന്ധിച്ചുള്ള പ്രഭാഷണം.[Slides](https://docs.google.com/presentation/d/1tTjdwSdN8h08-MwAoiwDwwJDhrSEDbVyEvw3KK1CzuM/edit#slide=id.p)
 
