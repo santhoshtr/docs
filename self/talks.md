@@ -6,6 +6,9 @@ I frequenty give talks and presentation of Language computing and related topics
 
 * Jan 25: Inaugurated Malayalam Aikyavedi  Annual meeting at Thiruvananthapuram
 * Feb 18: "മലയാളത്തിന്റെ ഡിജിറ്റൽ പരിണാമം: രൂപവും ഭാവവും" - Sanskrit University, Tirur Campus
+* Oct 5: From Calligraphy to Typography - International Calligraphy fest of Kerala. Kochi
+* Nov 3: AI and Malayalam Language - Symbosium on Modernization of Malayalam language
+  organized by Sahitya Akademi and Malayalam University. Tirur
 
 ### 2024
 
